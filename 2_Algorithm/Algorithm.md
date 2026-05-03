@@ -126,12 +126,12 @@
 136. Delete last node (Single Linked List) [link]()
 137. Delete node at position (Single Linked List) [link]()
 138. Delete full linked list (Single Linked List) [link]()
-139. Print Linked list (Single Linked List) [link]()
+139. Print Linked list (Single Linked List)  ❌ [link]()
 140. Count Node (Single Linked List) [link]()
 141. Ascending checker (Single Linked List) [link]()
 142. Descending checker (Single Linked List) [link]()
 143. Search Element (Single Linked List) [link]()
-144. Create Linked list (Single Linked List) [link]()
+144. Create Linked list (Single Linked List) ❌ [link]()
 145. Reverse Linked list (Single Linked List) [link]()
 
 ---
@@ -145,12 +145,12 @@
 151. Delete last node (Doubly Linked List) [link]()
 152. Delete node at position (Doubly Linked List) [link]()
 153. Delete full linked list (Doubly Linked List) [link]()
-154. Print Linked list (Doubly Linked List) [link]()
+154. Print Linked list (Doubly Linked List) ❌ [link]()
 155. Count Node (Doubly Linked List) [link]()
 156. Ascending checker (Doubly Linked List) [link]()
 157. Descending checker (Doubly Linked List) [link]()
 158. Search Element (Doubly Linked List) [link]()
-159. Create Linked list (Doubly Linked List) [link]()
+159. Create Linked list (Doubly Linked List) ❌ [link]()
 160. Reverse Linked list (Doubly Linked List) [link]()
 
 ---
@@ -164,7 +164,7 @@
 166. Delete last node (Singly Circular List) [link]()
 167. Delete node at position (Singly Circular List) [link]()
 168. Delete full linked list (Singly Circular List) [link]()
-169. Print Linked list (Singly Circular List) [link]()
+169. Print Linked list (Singly Circular List) 
 170. Count Node (Singly Circular List) [link]()
 171. Ascending checker (Singly Circular List) [link]()
 172. Descending checker (Singly Circular List) [link]()
