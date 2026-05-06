@@ -115,52 +115,52 @@
 
 ---
 
-## 3️⃣ Linked List (131–190)
+## 3️⃣ Linked List 
 
 ### Single Linked List
-131. Create first node (Single Linked List) [link]()
-132. Add node at end (Single Linked List) [link]()
-133. Add node at beginning (Single Linked List) [link]()
-134. Add node at position (Single Linked List) [link]()
-135. Delete first node (Single Linked List) [link]()
-136. Delete last node (Single Linked List) [link]()
-137. Delete node at position (Single Linked List) [link]()
-138. Delete full linked list (Single Linked List) [link]()
-139. Print Linked list (Single Linked List)  ❌ [link]()
-140. Count Node (Single Linked List) [link]()
-141. Ascending checker (Single Linked List) [link]()
-142. Descending checker (Single Linked List) [link]()
-143. Search Element (Single Linked List) [link]()
-144. Create Linked list (Single Linked List) ❌ [link]()
-145. Reverse Linked list (Single Linked List) [link]()
+131. Create first node (Single Linked List) [link](3_Linked_List/131_Create_First_node_SLL.cpp)
+132. Add node at end (Single Linked List) [link](3_Linked_List/132_Add_node_at_end_SLL.cpp)
+133. Add node at beginning (Single Linked List) [link](3_Linked_List/133_Add_node_at_beg_SLL.cpp)
+134. Add node at position (Single Linked List) [link](3_Linked_List/134_Add_node_at_pos_SLL.cpp)
+135. Delete first node (Single Linked List) [link](3_Linked_List/135_Delete_first_node_SLL.cpp)
+136. Delete last node (Single Linked List) [link](3_Linked_List/136_Delete_last_node_SLL.cpp)
+137. Delete node at position (Single Linked List) [link](3_Linked_List/137_Del_node_at_pos_SLL.cpp)
+138. Delete full linked list (Single Linked List) [link](3_Linked_List/138_Delete_full_linked_list_SLL.cpp)
+139. Print Linked list (Single Linked List)  ❌ [link](3_Linked_List/)
+140. Count Node (Single Linked List) [link](3_Linked_List/140_count_node_SLL.cpp)
+141. Ascending checker (Single Linked List) [link](3_Linked_List/141_Accending_check_SLL.cpp)
+142. Descending checker (Single Linked List) [link](3_Linked_List/142_Decending_check_SLL.cpp)
+143. Search Element (Single Linked List) [link](3_Linked_List/143_seach_node_SLL.cpp)
+144. Create Linked list (Single Linked List) ❌ [link](3_Linked_List/)
+145. Reverse Linked list (Single Linked List) [link](3_Linked_List/145_Reverse_Linked_list_SLL.cpp)
 
 ---
 
 ### Doubly Linked List
-146. Create first node (Doubly Linked List) [link]()
-147. Add node at end (Doubly Linked List) [link]()
-148. Add node at beginning (Doubly Linked List) [link]()
-149. Add node at position (Doubly Linked List) [link]()
-150. Delete first node (Doubly Linked List) [link]()
-151. Delete last node (Doubly Linked List) [link]()
-152. Delete node at position (Doubly Linked List) [link]()
-153. Delete full linked list (Doubly Linked List) [link]()
-154. Print Linked list (Doubly Linked List) ❌ [link]()
-155. Count Node (Doubly Linked List) [link]()
-156. Ascending checker (Doubly Linked List) [link]()
-157. Descending checker (Doubly Linked List) [link]()
-158. Search Element (Doubly Linked List) [link]()
-159. Create Linked list (Doubly Linked List) ❌ [link]()
-160. Reverse Linked list (Doubly Linked List) [link]()
+146. Create first node (Doubly Linked List) [link](3_Linked_List/146_Create_First_node_DLL.cpp)
+147. Add node at end (Doubly Linked List) [link](3_Linked_List/147_Add_node_at_end_DLL.cpp)
+148. Add node at beginning (Doubly Linked List) [link](3_Linked_List/148_Add_node_at_beg_DLL.cpp)
+149. Add node at position (Doubly Linked List) [link](3_Linked_List/149_Add_node_at_pos_DLL.cpp)
+150. Delete first node (Doubly Linked List) [link](3_Linked_List/150_Delete_first_node_DLL.cpp)
+151. Delete last node (Doubly Linked List) [link](3_Linked_List/151_Delete_last_node_DLL.cpp)
+152. Delete node at position (Doubly Linked List) [link](3_Linked_List/152_Del_node_at_pos_DLL.cpp)
+153. Delete full linked list (Doubly Linked List) [link](3_Linked_List/153_Delete_full_linked_list_DLL.cpp)
+154. Print Linked list (Doubly Linked List) ❌ [link](3_Linked_List/)
+155. Count Node (Doubly Linked List) [link](3_Linked_List/155_count_node_DLL.cpp)
+156. Ascending checker (Doubly Linked List) [link](3_Linked_List/156_Accending_check_DLL.cpp)
+157. Descending checker (Doubly Linked List) [link](3_Linked_List/157_Decending_check_DLL.cpp)
+158. Search Element (Doubly Linked List) [link](3_Linked_List/158_seach_node_DLL.cpp)
+159. Create Linked list (Doubly Linked List) ❌ [link](3_Linked_List/)
+160. Reverse Linked list (Doubly Linked List) [link](3_Linked_List/160_Reverse_Linked_list_SLL.cpp)
 
 ---
 
 ### Singly Circular List
-161. Create first node (Singly Circular List) [link]()
-162. Add node at end (Singly Circular List) [link]()
-163. Add node at beginning (Singly Circular List) [link]()
-164. Add node at position (Singly Circular List) [link]()
-165. Delete first node (Singly Circular List) [link]()
+161. Create first node (Singly Circular List) [link](3_Linked_List/161_Create_First_node_CSLL.cpp)
+162. Add node at end (Singly Circular List) [link](3_Linked_List/162_Add_node_at_end_CSLL.cpp)
+163. Add node at beginning (Singly Circular List) [link](3_Linked_List/163_Add_node_at_beg_CSLL.cpp)
+164. Add node at position (Singly Circular List) [link](3_Linked_List/164_Add_node_at_pos_CSLL.cpp)
+165. Delete first node (Singly Circular List) [link]() ✅
 166. Delete last node (Singly Circular List) [link]()
 167. Delete node at position (Singly Circular List) [link]()
 168. Delete full linked list (Singly Circular List) [link]()
@@ -233,7 +233,7 @@
 223. LRU cache (DLL + Hash) [link]()
 
 
-## 4️⃣ Stack & Queue (250–300)
+## 4️⃣ Stack & Queue
 
 **Stack**
 191. Implement stack using array  [link]()
@@ -264,12 +264,10 @@
 212. Sum of min and max of subarrays  [link]()
 213. Circular tour (petrol pump)  [link]()
 
-**Bonus**
-214–240: Complex expressions, optimizations
 
 ---
 
-## 5️⃣ Trees (241–310)
+## 5️⃣ Trees
 
 **Basics**
 241. Inorder traversal [link]()
@@ -345,31 +343,39 @@
 
 ---
 
-**Bonus**
-299–310. Edge cases, optimization
 
 ---
 
-## 6️⃣ Graphs (311–380)
+## 6️⃣ Graphs
 
 ### Basics of Graph Algorithms
-311. BFS (Breadth-First Search) [link]()
-312. DFS (Depth-First Search) [link]()
-313. Graph representation (Adjacency matrix vs list) [link]()
-314. Count connected components [link]()
-315. Number of islands [link]()
+<img src="2_Algorithm/6_Graph/img/images.png" width="300" alt="BFS Diagram"> <br>
+
+311. BFS (Breadth-First Search) [link](6_Graph/311_BFS.cpp)
+312. DFS (Depth-First Search [link](6_Graph/312_DFS.cpp)
+313. Graph representation (Adjacency matrix vs list) [link]() ❌
+314. Count connected components [link]() ❌
+315. Number of islands [link]() ❌
 
 ---
 
 ### Cycle Detection
+
 316. Check cycle in Undirected Graph (BFS) [link]()
 317. Check cycle in Undirected Graph (DFS) [link]()
+
+<img src="2_Algorithm/6_Graph/img/download.png" width="300" alt="BFS Diagram"> <br>
+
 318. Check cycle in Directed Graph (DFS) [link]()
 319. Check cycle in Directed Graph (BFS && Kahn's Algorithm) [link]()
 
 ---
 
 ### Topological Sorting
+<img src="2_Algorithm/6_Graph/img/download2.png" width="300" alt="BFS Diagram"> <br>
+<img src="2_Algorithm/6_Graph/img/dag.png" width="300" alt="BFS Diagram"> <br>
+
+
 320. Topological Sort (using DFS) [link]()
 321. Topological Sort (Kahn's Algorithm) [link]()
 322. Alien dictionary [link]()
@@ -378,24 +384,49 @@
 ---
 
 ### Shortest Path Algorithms
+<img src="2_Algorithm/6_Graph/img/gph3.png" width="300" alt="BFS Diagram"> <br>
+
 324. Shortest path in undirected graph (BFS) [link]()
 325. Shortest distance in undirected graph (BFS) [link]()
+
+
+<img src="2_Algorithm/6_Graph/img/shortest-path-in-a-directed-acyclic-graph-1-1635369661.png" width="300" alt="BFS Diagram"> <br>
+
 326. Shortest distance from source to all node (weighted DAG) [link]()
+
+<img src="2_Algorithm/6_Graph/img/untitled-diagram-15-6327.jpg" width="300" alt="BFS Diagram"> <br>
+
 327. Dijkstra’s algorithm (Weighted Graph) [link]()
+
+<img src="2_Algorithm/6_Graph/img/colimage-11780.png" width="300" alt="BFS Diagram"> <br>
+<img src="2_Algorithm/6_Graph/img/negCyc.png" width="300" alt="BFS Diagram"> <br>
+
 328. Bellman-Ford (Weighted Graph with negative edges) [link]()
+
+<img src="2_Algorithm/6_Graph/img/weiGraph4.png" width="300" alt="BFS Diagram"> <br>
+
 329. Floyd-Warshall (All pair shortest path) [link]()
 
 ---
 
 ### Minimum Spanning Tree (MST)
+
+<img src="2_Algorithm/6_Graph/img/mst.png" width="300" alt="BFS Diagram"> <br>
+
 330. Minimum Spanning Tree (Prim's Algorithm) [link]()
 331. Minimum Spanning Tree (Kruskal Algorithm / Disjoint Set) [link]()
 
 ---
 
 ### Connectivity & Components
+
+<img src="2_Algorithm/6_Graph/img/2020-03-07-articulation-point.png" width="300" alt="BFS Diagram"> <br>
+
 332. Finding Bridges in a graph [link]()
 333. Finding Articulation Points (Tarjan's Algorithm) [link]()
+
+<img src="2_Algorithm/6_Graph/img/1.png" width="300" alt="BFS Diagram"> <br>
+
 334. Number of Strongly Connected Components (Kosaraju Algorithm) [link]()
 335. Strongly Connected Components List (Kosaraju Algorithm) [link]()
 
@@ -417,10 +448,8 @@
 
 ---
 
-### Bonus
-344–380. Hard graph interview problems & optimizations
 
-## 7️⃣ Recursion & Backtracking (381–420)
+## 7️⃣ Recursion & Backtracking
 
 ### General Basics
 381. Recursive implementation of the factorial function [link]()
@@ -490,7 +519,7 @@
 425. Remove invalid parentheses [link]()
 426. Beautiful arrangements [link]()
 
-## 8️⃣ Dynamic Programming (421–480)
+## 8️⃣ Dynamic Programming
 
 # Dynamic Programming
 
@@ -639,7 +668,7 @@
 ### Bonus
 545–580. Hard DP interview classics and edge case optimizations [link]()
 
-## 9️⃣ Bit Manipulation & Math (481–500)
+## 9️⃣ Bit Manipulation & Math
 
 481. Check power of two  [link]()
 482. Count set bits  [link]()
@@ -664,7 +693,7 @@
 
 ---
 
-# 9️⃣ Divide and Conquer (481–500)
+# 9️⃣ Divide and Conquer
 
 
 
@@ -686,7 +715,7 @@
 596. Segregate positive and negative numbers using merge sort [link]()
 597. Count occurrences of an element in the array [link]()
 
-# 9️⃣ Greedy Algorithm (481–500)
+# 9️⃣ Greedy Algorithm
 
 
 598. Greedy Algorithm Fundamentals [link]()

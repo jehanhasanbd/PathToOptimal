@@ -1,13 +1,13 @@
 #include <iostream>
-#include "DoublyListNode.h"
+#include "SingleListNode.h"
 using namespace std;
 
-void deleteFullLinkedList(DoublyListNode *&head) {
+void deleteFullLinkedList(SingleListNode *&head) {
     if (head == nullptr)
         return;
 
     while (head != nullptr) {
-        DoublyListNode *temp = head;
+        SingleListNode *temp = head;
         head = head->next;
         delete temp;
     }
@@ -16,7 +16,7 @@ void deleteFullLinkedList(DoublyListNode *&head) {
 
 
 int main() {
-    DoublyListNode *head = nullptr;
+    SingleListNode *head = nullptr;
     addNodeAtEnd(head, 5);
     addNodeAtEnd(head, 6);
     addNodeAtEnd(head, 7);

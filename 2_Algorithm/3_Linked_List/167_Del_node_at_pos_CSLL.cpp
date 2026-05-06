@@ -1,25 +1,22 @@
 #include <iostream>
-#include "DoublyListNode.h"
+#include "SingleListNode.h"
 using namespace std;
 
-void deleteNodeAtPosition(DoublyListNode *&head, int pos) {
+void deleteNodeAtPosition(SingleListNode *&head, int pos) {
     if (head == nullptr) {
         return;
     }
 
     // delete first node
     if (pos == 0) {
-        DoublyListNode *temp = head;
+        SingleListNode *temp = head;
         head = head->next;
-        if (head != nullptr) {
-            head->prev = nullptr;
-        }
         delete temp;
         return;
     }
 
     // move to (pos - 1)
-    DoublyListNode *ptr = head;
+    SingleListNode *ptr = head;
     for (int i = 0; i < pos-1; ++i) {
         if (ptr == nullptr || ptr->next == nullptr) {
             cout << "Position out of bounds!" << endl;
@@ -32,25 +29,19 @@ void deleteNodeAtPosition(DoublyListNode *&head, int pos) {
         cout << "Position out of bounds!" << endl;
         return;
     }
-    DoublyListNode *temp = ptr->next;
+    SingleListNode *temp = ptr->next;
     ptr->next = ptr->next->next;
-    if (temp->next != nullptr) {
-        ptr->next->prev = ptr;
-    }
-
     delete temp;
 
 }
 
 int main() {
-    DoublyListNode *head = nullptr;
+    SingleListNode *head = nullptr;
     addNodeAtEnd(head, 5);
     addNodeAtEnd(head, 6);
     addNodeAtEnd(head, 7);
-    addNodeAtEnd(head, 10);
-    addNodeAtEnd(head, 11);
     addNodeAtEnd(head, 8);
-    deleteNodeAtPosition(head, 5);
+    deleteNodeAtPosition(head, 4);
     printLinkedList(head);
 
 

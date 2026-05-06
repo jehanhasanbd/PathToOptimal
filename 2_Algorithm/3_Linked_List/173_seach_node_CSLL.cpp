@@ -1,9 +1,9 @@
 #include <iostream>
-#include "DoublyListNode.h"
+#include "SingleListNode.h"
 using namespace std;
 
-int searchData(DoublyListNode *&head, int data) {
-    DoublyListNode *ptr = head;
+int searchData(SingleListNode *&head, int data) {
+    SingleListNode *ptr = head;
     int count = 0;
     while (ptr) {
         if (ptr->data == data) {
@@ -16,7 +16,7 @@ int searchData(DoublyListNode *&head, int data) {
 }
 
 int main() {
-    DoublyListNode *head = nullptr;
+    SingleListNode *head = nullptr;
     addNodeAtEnd(head, 5);
     addNodeAtEnd(head, 6);
     addNodeAtEnd(head, 7);

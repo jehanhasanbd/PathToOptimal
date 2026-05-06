@@ -1,13 +1,13 @@
 #include <iostream>
-#include "DoublyListNode.h"
+#include "SingleListNode.h"
 using namespace std;
 
-bool checkAscending(DoublyListNode *&head) {
+bool checkAscending(SingleListNode *&head) {
     return head==nullptr || head->next==nullptr || (head->data < head->next->data && checkAscending(head->next));
 }
 
 int main() {
-    DoublyListNode *head = nullptr;
+    SingleListNode *head = nullptr;
     addNodeAtEnd(head, 5);
     addNodeAtEnd(head, 6);
     addNodeAtEnd(head, 7);

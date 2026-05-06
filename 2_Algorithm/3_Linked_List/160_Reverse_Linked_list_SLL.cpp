@@ -1,23 +1,27 @@
 #include <iostream>
-#include "SingleListNode.h"
+#include "DoublyListNode.h"
 using namespace std;
 
-void reverseLinkedList(SingleListNode *&head) {
-    SingleListNode *prev = nullptr;
-    SingleListNode *curr = head;
-    SingleListNode *next = nullptr;
+void reverseLinkedList(DoublyListNode *&head) {
+    if (head==nullptr || head->next==nullptr) {
+        return;
+    }
+
+    DoublyListNode *curr = head;
+    DoublyListNode *temp = nullptr;
 
     while (curr != nullptr) {
-        next = curr->next;
-        curr->next = prev;
-        prev = curr;
-        curr = next;
+        temp = curr->prev;
+        curr->prev = curr->next;
+        curr->next = temp;
+
+        curr = curr->prev;   // move forward (prev now holds old next)
     }
-    head = prev;
+    head = temp->prev;
 }
 
 int main() {
-    SingleListNode *head = nullptr;
+    DoublyListNode *head = nullptr;
     addNodeAtEnd(head, 5);
     addNodeAtEnd(head, 6);
     addNodeAtEnd(head, 7);

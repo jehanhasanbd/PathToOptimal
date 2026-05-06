@@ -1,9 +1,9 @@
 #include <iostream>
-#include "DoublyListNode.h"
+#include "SingleListNode.h"
 using namespace std;
 
-int lenOfLinkedListImp(DoublyListNode *&head) {
-    DoublyListNode *ptr = head;
+int lenOfLinkedListImp(SingleListNode *&head) {
+    SingleListNode *ptr = head;
     int count = 0;
     while (ptr) {
         ptr = ptr->next;
@@ -13,7 +13,7 @@ int lenOfLinkedListImp(DoublyListNode *&head) {
 }
 
 int main() {
-    DoublyListNode *head = nullptr;
+    SingleListNode *head = nullptr;
     addNodeAtEnd(head, 5);
     addNodeAtEnd(head, 6);
     addNodeAtEnd(head, 7);
