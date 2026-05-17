@@ -381,7 +381,7 @@
 ### 🌐 Basics of Graph Algorithms
 
 <div align="center">
-  <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/images.png" width="350" alt="BFS Diagram">
+  <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/images.png" width="350" alt="BFS Diagram">
   <br>
   <i>Breadth-First Search visualization</i>
 </div>
@@ -399,7 +399,7 @@
 ### 🔄 Cycle Detection
 
 <div align="center">
-  <img src="2_Algorithm/6_Graph/img/download.png" width="350" alt="Cycle Detection">
+  <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/download.png" width="350" alt="Cycle Detection">
   <br>
   <i>Cycle detection in graphs</i>
 </div>
@@ -416,8 +416,8 @@
 ### ⬆️ Topological Sorting
 
 <div align="center">
-  <img src="2_Algorithm/6_Graph/img/download2.png" width="350" alt="Topological Sort">
-  <img src="2_Algorithm/6_Graph/img/dag.png" width="350" alt="DAG">
+  <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/download2.png" width="350" alt="Topological Sort">
+  <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/dag.png" width="350" alt="DAG">
   <br>
   <i>Topological ordering of a Directed Acyclic Graph (DAG)</i>
 </div>
@@ -434,7 +434,7 @@
 ### 🚀 Shortest Path Algorithms
 
 <div align="center">
-  <img src="2_Algorithm/6_Graph/img/gph3.png" width="350" alt="Shortest Path">
+  <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/gph3.png" width="350" alt="Shortest Path">
   <br>
   <i>Finding the shortest route in a graph</i>
 </div>
@@ -445,7 +445,7 @@
 | 325 | Shortest distance in undirected graph (BFS) | [🔗 Solution]() | ⭐⭐ |
 
 <div align="center">
-  <img src="2_Algorithm/6_Graph/img/shortest-path-in-a-directed-acyclic-graph-1-1635369661.png" width="350" alt="DAG Shortest Path">
+  <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/shortest-path-in-a-directed-acyclic-graph-1-1635369661.png" width="350" alt="DAG Shortest Path">
   <br>
   <i>Shortest path in Directed Acyclic Graph</i>
 </div>
@@ -455,7 +455,7 @@
 | 326 | Shortest distance from source to all node (weighted DAG) | [🔗 Solution]() | ⭐⭐⭐ |
 
 <div align="center">
-  <img src="2_Algorithm/6_Graph/img/untitled-diagram-15-6327.jpg" width="350" alt="Dijkstra">
+  <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/untitled-diagram-15-6327.jpg" width="350" alt="Dijkstra">
   <br>
   <i>Dijkstra's Algorithm visualization</i>
 </div>
@@ -465,8 +465,8 @@
 | 327 | Dijkstra's algorithm (Weighted Graph) | [🔗 Solution]() | ⭐⭐⭐⭐ |
 
 <div align="center">
-  <img src="2_Algorithm/6_Graph/img/colimage-11780.png" width="350" alt="Bellman-Ford">
-  <img src="2_Algorithm/6_Graph/img/negCyc.png" width="350" alt="Negative Cycle">
+  <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/colimage-11780.png" width="350" alt="Bellman-Ford">
+  <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/negCyc.png" width="350" alt="Negative Cycle">
   <br>
   <i>Bellman-Ford handling negative edges</i>
 </div>
@@ -476,7 +476,7 @@
 | 328 | Bellman-Ford (Weighted Graph with negative edges) | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
 
 <div align="center">
-  <img src="2_Algorithm/6_Graph/img/weiGraph4.png" width="350" alt="Floyd-Warshall">
+  <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/weiGraph4.png" width="350" alt="Floyd-Warshall">
   <br>
   <i>All-pairs shortest path</i>
 </div>
@@ -490,7 +490,7 @@
 ### 🌲 Minimum Spanning Tree (MST)
 
 <div align="center">
-  <img src="2_Algorithm/6_Graph/img/mst.png" width="350" alt="MST">
+  <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/mst.png" width="350" alt="MST">
   <br>
   <i>Minimum Spanning Tree connecting all nodes with minimum weight</i>
 </div>
@@ -505,7 +505,7 @@
 ### 🔗 Connectivity & Components
 
 <div align="center">
-  <img src="2_Algorithm/6_Graph/img/2020-03-07-articulation-point.png" width="350" alt="Articulation Points">
+  <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/2020-03-07-articulation-point.png" width="350" alt="Articulation Points">
   <br>
   <i>Articulation points (cut vertices) in a graph</i>
 </div>
@@ -516,7 +516,7 @@
 | 333 | Finding Articulation Points (Tarjan's Algorithm) | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
 
 <div align="center">
-  <img src="2_Algorithm/6_Graph/img/1.png" width="350" alt="Strongly Connected Components">
+  <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/1.png" width="350" alt="Strongly Connected Components">
   <br>
   <i>Strongly Connected Components (Kosaraju's Algorithm)</i>
 </div>
