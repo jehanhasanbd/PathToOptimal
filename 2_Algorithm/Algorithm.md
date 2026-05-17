@@ -40,217 +40,141 @@
 ---
 
 
-
-## 📊 **Progress Tracker**
-
-<div align="center">
-
-| Category | Completed | Total | Progress |
-|----------|-----------|-------|----------|
-| 🧮 Arrays | 50 | 70 | ![70%](https://img.shields.io/badge/Progress-70%25-brightgreen) |
-| 📝 Strings | 30 | 60 | ![50%](https://img.shields.io/badge/Progress-50%25-yellow) |
-| 🔗 Linked Lists | 30 | 50 | ![60%](https://img.shields.io/badge/Progress-60%25-orange) |
-| 🥞 Stack & Queue | 0 | 40 | ![0%](https://img.shields.io/badge/Progress-0%25-red) |
-| 🌲 Trees | 0 | 80 | ![0%](https://img.shields.io/badge/Progress-0%25-red) |
-| 🔍 Searching/Sorting | 0 | 50 | ![0%](https://img.shields.io/badge/Progress-0%25-red) |
-| 💡 Dynamic Programming | 0 | 70 | ![0%](https://img.shields.io/badge/Progress-0%25-red) |
-| 📐 Graphs | 0 | 80 | ![0%](https://img.shields.io/badge/Progress-0%25-red) |
-
-</div>
-
----
-
 ## 🚀 **Problem Set**
 
-<details open>
-<summary><b>📌 Arrays (1-70)</b></summary>
-<br>
-
-### 🟢 Basics
-| # | Problem | Solution | Difficulty |
-|---|---------|----------|------------|
-| 1 | Reverse an array | [Link]() | 🟢 Easy |
-| 2 | Find min and max | [Link]() | 🟢 Easy |
-| 3 | Find second largest | [Link]() | 🟢 Easy |
-| 4 | Check if array is sorted | [Link]() | 🟢 Easy |
-| 5 | Rotate array left by K | [Link]() | 🟡 Medium |
+# 1. Linked List
 
 <details>
-<summary>📦 Show all 50 problems</summary>
+<summary><b>⚡ Singly Linked List </b> (10 problems)  </summary>
 
-| # | Problem | Solution | Difficulty |
-|---|---------|----------|------------|
-| 6 | Rotate array right by K | [Link]() | 🟡 Medium |
-| 7 | Remove duplicates from sorted array | [Link]() | 🟢 Easy |
-| 8 | Remove duplicates from unsorted array | [Link]() | 🟡 Medium |
-| 9 | Count frequency of elements | [Link]() | 🟢 Easy |
-| 10 | Move all zeros to end | [Link]() | 🟢 Easy |
-| 11 | Find missing number (1..N) | [Link]() | 🟢 Easy |
-| 12 | Find duplicate number | [Link]() | 🟡 Medium |
-| 13 | Find all duplicates | [Link]() | 🟡 Medium |
-| 14 | Find all missing numbers | [Link]() | 🟡 Medium |
-| 15 | Find equilibrium index | [Link]() | 🟢 Easy |
-
-</details>
-
-</details>
-
----
-
-<details>
-<summary><b>📝 Strings (71-130)</b></summary>
-<br>
-
-| # | Problem | Solution | Difficulty |
-|---|---------|----------|------------|
-| 71 | Reverse string | [Link]() | 🟢 Easy |
-| 72 | Check palindrome | [Link]() | 🟢 Easy |
-| 73 | Check anagram | [Link]() | 🟢 Easy |
-| 74 | Count vowels & consonants | [Link]() | 🟢 Easy |
-| 75 | Remove duplicates | [Link]() | 🟡 Medium |
-
-</details>
-
----
-
-<details>
-<summary><b>🔗 Linked List (131-180)</b></summary>
-<br>
-
-### ➡️ Single Linked List
 
 | # | Problem | Solution | Status |
 |---|---------|----------|--------|
-| 131 | Create first node | [Link](3_Linked_List/131_Create_First_node_SLL.cpp) | ✅ |
-| 132 | Add node at end | [Link](3_Linked_List/132_Add_node_at_end_SLL.cpp) | ✅ |
-| 133 | Add node at beginning | [Link](3_Linked_List/133_Add_node_at_beg_SLL.cpp) | ✅ |
-| 134 | Add node at position | [Link](3_Linked_List/134_Add_node_at_pos_SLL.cpp) | ✅ |
-| 135 | Delete first node | [Link](3_Linked_List/135_Delete_first_node_SLL.cpp) | ✅ |
-| 136 | Delete last node | [Link](3_Linked_List/136_Delete_last_node_SLL.cpp) | ✅ |
-| 137 | Delete node at position | [Link](3_Linked_List/137_Del_node_at_pos_SLL.cpp) | ✅ |
-| 138 | Delete full linked list | [Link](3_Linked_List/138_Delete_full_linked_list_SLL.cpp) | ✅ |
-| 139 | Print Linked list | [Link]() | ❌ |
-| 140 | Count Node | [Link](3_Linked_List/140_count_node_SLL.cpp) | ✅ |
-
-### ⬌ Doubly Linked List
-
-| # | Problem | Solution | Status |
-|---|---------|----------|--------|
-| 146 | Create first node | [Link](3_Linked_List/146_Create_First_node_DLL.cpp) | ✅ |
-| 147 | Add node at end | [Link](3_Linked_List/147_Add_node_at_end_DLL.cpp) | ✅ |
-
-### 🔄 Circular Linked List
-
-| # | Problem | Solution | Status |
-|---|---------|----------|--------|
-| 161 | Create first node | [Link](3_Linked_List/161_Create_First_node_CSLL.cpp) | ✅ |
+| 1 | Create first node | [Link](1_Linked_List/1_Create_First_node_SLL.cpp) | ✅ |
+| 2 | Add node at end | [Link](1_Linked_List/2_Add_node_at_end_SLL.cpp) | ✅ |
+| 3 | Add node at beginning | [Link](1_Linked_List/3_Add_node_at_beg_SLL.cpp) | ✅ |
+| 4 | Add node at position | [Link](1_Linked_List/4_Add_node_at_pos_SLL.cpp) | ✅ |
+| 5 | Delete first node | [Link](1_Linked_List/5_Delete_first_node_SLL.cpp) | ✅ |
+| 6 | Delete last node | [Link](1_Linked_List/6_Delete_last_node_SLL.cpp) | ✅ |
+| 7 | Delete node at position | [Link](1_Linked_List/7_Del_node_at_pos_SLL.cpp) | ✅ |
+| 8 | Delete full linked list | [Link](1_Linked_List/8_Delete_full_linked_list_SLL.cpp) | ✅ |
+| 9 | Print Linked list | [Link]() | ❌ |
+| 10 | Count Node | [Link](1_Linked_List/10_count_node_SLL.cpp) | ✅ |
 
 </details>
 
+<details>
+<summary><b>⚡ Doubly Linked List </b> (10 problems)  </summary>
+
+
+| # | Problem | Solution | Status |
+|---|---------|----------|--------|
+| 11 | Create first node | [Link](1_Linked_List/16_Create_First_node_DLL.cpp) | ✅ |
+| 12 | Add node at end | [Link](1_Linked_List/17_Add_node_at_end_DLL.cpp) | ✅ |
+| 13 | Add node at beginning | [Link]() | ❌ |
+| 14 | Add node at position | [Link]() | ❌ |
+| 15 | Delete first node | [Link]() | ❌ |
+| 16 | Delete last node | [Link]() | ❌ |
+| 17 | Delete node at position | [Link]() | ❌ |
+| 18 | Delete full linked list | [Link]() | ❌ |
+| 19 | Print Linked list | [Link]() | ❌ |
+| 20 | Count Node | [Link]() | ❌ |
+
+</details>
+
+<details>
+<summary><b>⚡ Circular Linked List </b> (10 problems)  </summary>
+
+| # | Problem | Solution | Status |
+|---|---------|----------|--------|
+| 21 | Create first node | [Link](1_Linked_List/31_Create_First_node_CSLL.cpp) | ✅ |
+| 22 | Add node at end | [Link]() | ❌ |
+| 23 | Add node at beginning | [Link]() | ❌ |
+| 24 | Add node at position | [Link]() | ❌ |
+| 25 | Delete first node | [Link]() | ❌ |
+| 26 | Delete last node | [Link]() | ❌ |
+| 27 | Delete node at position | [Link]() | ❌ |
+| 28 | Delete full linked list | [Link]() | ❌ |
+| 29 | Print Linked list | [Link]() | ❌ |
+| 30 | Count Node | [Link]() | ❌ |
+
+</details>
+
+<details>
+<summary><b>⚡ Circular Doubly Linked List </b> (10 problems)  </summary>
+
+
+
+| # | Problem | Solution | Status |
+|---|---------|----------|--------|
+| 31 | Create first node | [Link]() | ❌ |
+| 32 | Add node at end | [Link]() | ❌ |
+| 33 | Add node at beginning | [Link]() | ❌ |
+| 34 | Add node at position | [Link]() | ❌ |
+| 35 | Delete first node | [Link]() | ❌ |
+| 36 | Delete last node | [Link]() | ❌ |
+| 37 | Delete node at position | [Link]() | ❌ |
+| 38 | Delete full linked list | [Link]() | ❌ |
+| 39 | Print Linked list | [Link]() | ❌ |
+| 40 | Count Node | [Link]() | ❌ |
+
+</details>
+
+<details>
+<summary><b>⚡ Polynomial Linked List </b> (10 problems)  </summary>
+
+
+| # | Problem | Solution | Status |
+|---|---------|----------|--------|
+| 41 | Insert in polynomial | [Link]() | ❌ |
+| 42 | Add polynomial | [Link]() | ❌ |
+| 43 | Multiply polynomial | [Link]() | ❌ |
+
+</details>
 ---
 
 
-
-
-### 🔗 Linked List Universe
-
 <details>
-<summary><b>Singly Linked List (Foundation)</b> (27 Problems)</summary>
-
-| # | Problem | Status |
-|---|---------|--------|
-| 1 | Create first node | [🔗 Solution]() |
-| 2 | Add node at end | [🔗 Solution]() |
-| 3 | Add node at beginning | [🔗 Solution]() |
-| 4 | Add node at position | [🔗 Solution]() |
-| 5 | Delete first node | [🔗 Solution]() |
-| 6 | Delete last node | [🔗 Solution]() |
-| 7 | Delete node at position | [🔗 Solution]() |
-| 8 | Delete full linked list | [🔗 Solution]() |
-| 9 | Print Linked list | [🔗 Solution]() |
-| 10 | Count Node | [🔗 Solution]() |
-| .. | *Continue through #27* | |
-
-</details>
-
-<details>
-<summary><b>Doubly Linked List</b> (15 Problems)</summary>
-
-| # | Problem | Status |
-|---|---------|--------|
-| 176 | Create first node (Doubly) | [🔗 Solution]() |
-| 177 | Add node at end (Doubly) | [🔗 Solution]() |
-| 178 | Add node at beginning (Doubly) | [🔗 Solution]() |
-| 179 | Add node at position (Doubly) | [🔗 Solution]() |
-| 180 | Delete first node (Doubly) | [🔗 Solution]() |
-| .. | *Continue through #190* | |
-
-</details>
-
-<details>
-<summary><b>🔄 Circular & Doubly Circular</b> (15 Problems)</summary>
-
-| # | Problem | Status |
-|---|---------|--------|
-| 176 | Create first node (Doubly Circular) | [🔗 Solution]() |
-| 177 | Add node at end (Doubly Circular) | [🔗 Solution]() |
-| 178 | Add node at beginning (Doubly Circular) | [🔗 Solution]() |
-| 179 | Add node at position (Doubly Circular) | [🔗 Solution]() |
-| 180 | Delete first node (Doubly Circular) | [🔗 Solution]() |
-| .. | *Continue through #190* | |
-
-</details>
-
-<details>
-<summary><b>🧮 Polynomial Operations</b> (3 Problems)</summary>
-
-| # | Problem | Status |
-|---|---------|--------|
-| 191 | Insert in polynomial | [🔗 Solution]() |
-| 192 | Add polynomial | [🔗 Solution]() |
-| 193 | Multiply polynomial | [🔗 Solution]() |
-
-</details>
-
-<details>
-<summary><b>⚡ Linked List Problem Set</b> (30 Problems)</summary>
+<summary><b>⚡ Linked List Advanced Problem Set</b> (30 Problems)</summary>
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 194 | Reverse linked list | ⭐⭐ |
-| 195 | Find middle element | ⭐ |
-| 196 | Detect loop | ⭐⭐ |
-| 197 | Remove loop | ⭐⭐⭐ |
-| 198 | Find length of loop | ⭐⭐⭐ |
-| 199 | Merge two sorted lists | ⭐⭐ |
-| 200 | Remove duplicates (sorted) | ⭐⭐ |
-| 201 | Remove duplicates (unsorted) | ⭐⭐⭐ |
-| 202 | Nth node from end | ⭐⭐ |
-| 203 | Delete without head pointer | ⭐⭐⭐ |
-| 204 | Reverse in groups of K | ⭐⭐⭐⭐ |
-| 205 | Check palindrome list | ⭐⭐⭐ |
-| 206 | Intersection point of two lists | ⭐⭐⭐ |
-| 207 | Add two numbers represented by lists | ⭐⭐⭐ |
-| 208 | Sort linked list | ⭐⭐⭐⭐ |
-| 209 | Rotate linked list | ⭐⭐⭐ |
-| 210 | Flatten linked list | ⭐⭐⭐⭐ |
-| 211 | Clone linked list with random pointer | ⭐⭐⭐⭐⭐ |
-| 212 | Segregate even & odd nodes | ⭐⭐ |
-| 213 | Swap nodes in pairs | ⭐⭐⭐ |
-| 214 | Merge K sorted lists | ⭐⭐⭐⭐ |
-| 215 | Detect cycle start | ⭐⭐⭐ |
-| 216 | Reorder list | ⭐⭐⭐ |
-| 217 | Split circular linked list | ⭐⭐⭐ |
-| 218 | Convert binary number in list to integer | ⭐⭐ |
-| 219 | Multiply two numbers represented by lists | ⭐⭐⭐⭐ |
-| 220 | Reverse alternate K nodes | ⭐⭐⭐⭐ |
-| 221 | Delete nodes having greater value on right | ⭐⭐⭐ |
-| 222 | Remove zero-sum sublists | ⭐⭐⭐⭐ |
-| 223 | LRU cache (DLL + Hash) | ⭐⭐⭐⭐⭐ |
+| 44 | Reverse linked list | ⭐⭐ |
+| 45 | Find middle element | ⭐ |
+| 46 | Detect loop | ⭐⭐ |
+| 47 | Remove loop | ⭐⭐⭐ |
+| 48 | Find length of loop | ⭐⭐⭐ |
+| 49 | Merge two sorted lists | ⭐⭐ |
+| 50 | Remove duplicates (sorted) | ⭐⭐ |
+| 51 | Remove duplicates (unsorted) | ⭐⭐⭐ |
+| 52 | Nth node from end | ⭐⭐ |
+| 53 | Delete without head pointer | ⭐⭐⭐ |
+| 54 | Reverse in groups of K | ⭐⭐⭐⭐ |
+| 55 | Check palindrome list | ⭐⭐⭐ |
+| 56 | Intersection point of two lists | ⭐⭐⭐ |
+| 57 | Add two numbers represented by lists | ⭐⭐⭐ |
+| 58 | Sort linked list | ⭐⭐⭐⭐ |
+| 59 | Rotate linked list | ⭐⭐⭐ |
+| 60 | Flatten linked list | ⭐⭐⭐⭐ |
+| 61 | Clone linked list with random pointer | ⭐⭐⭐⭐⭐ |
+| 62 | Segregate even & odd nodes | ⭐⭐ |
+| 63 | Swap nodes in pairs | ⭐⭐⭐ |
+| 64 | Merge K sorted lists | ⭐⭐⭐⭐ |
+| 65 | Detect cycle start | ⭐⭐⭐ |
+| 66 | Reorder list | ⭐⭐⭐ |
+| 67 | Split circular linked list | ⭐⭐⭐ |
+| 68 | Convert binary number in list to integer | ⭐⭐ |
+| 69 | Multiply two numbers represented by lists | ⭐⭐⭐⭐ |
+| 70 | Reverse alternate K nodes | ⭐⭐⭐⭐ |
+| 71 | Delete nodes having greater value on right | ⭐⭐⭐ |
+| 72 | Remove zero-sum sublists | ⭐⭐⭐⭐ |
+| 73 | LRU cache (DLL + Hash) | ⭐⭐⭐⭐⭐ |
 
 </details>
 
 ---
+
+## 2. Stack & Queue
 
 ### 🔄 Stack & Queue
 
@@ -259,16 +183,16 @@
 
 | # | Problem | Status |
 |---|---------|--------|
-| 191 | Implement stack using array | [🔗 Solution]() |
-| 192 | Stack using linked list | [🔗 Solution]() |
-| 193 | Reverse stack | [🔗 Solution]() |
-| 194 | Sort stack | [🔗 Solution]() |
-| 195 | Valid parentheses | [🔗 Solution]() |
-| 196 | Min stack | [🔗 Solution]() |
-| 197 | Next greater element | [🔗 Solution]() |
-| 198 | Stock span | [🔗 Solution]() |
-| 199 | Largest rectangle in histogram | [🔗 Solution]() |
-| 200 | Infix to postfix | [🔗 Solution]() |
+| 74 | Implement stack using array | [🔗 Solution]() |
+| 75 | Stack using linked list | [🔗 Solution]() |
+| 76 | Reverse stack | [🔗 Solution]() |
+| 77 | Sort stack | [🔗 Solution]() |
+| 78 | Valid parentheses | [🔗 Solution]() |
+| 79 | Min stack | [🔗 Solution]() |
+| 80 | Next greater element | [🔗 Solution]() |
+| 81 | Stock span | [🔗 Solution]() |
+| 82 | Largest rectangle in histogram | [🔗 Solution]() |
+| 83 | Infix to postfix | [🔗 Solution]() |
 
 </details>
 
@@ -277,23 +201,25 @@
 
 | # | Problem | Status |
 |---|---------|--------|
-| 201 | Implement queue using array | [🔗 Solution]() |
-| 202 | Queue using linked list | [🔗 Solution]() |
-| 203 | Circular queue | [🔗 Solution]() |
-| 204 | Queue using stacks | [🔗 Solution]() |
-| 205 | Stack using queues | [🔗 Solution]() |
-| 206 | Sliding window maximum | [🔗 Solution]() |
-| 207 | First non-repeating character | [🔗 Solution]() |
-| 208 | Generate binary numbers | [🔗 Solution]() |
-| 209 | Rotten oranges | [🔗 Solution]() |
-| 210 | LRU cache (queue approach) | [🔗 Solution]() |
-| 211 | Max of all subarrays of size K | [🔗 Solution]() |
-| 212 | Sum of min and max of subarrays | [🔗 Solution]() |
-| 213 | Circular tour (petrol pump) | [🔗 Solution]() |
+| 84 | Implement queue using array | [🔗 Solution]() |
+| 85 | Queue using linked list | [🔗 Solution]() |
+| 86 | Circular queue | [🔗 Solution]() |
+| 87 | Queue using stacks | [🔗 Solution]() |
+| 88 | Stack using queues | [🔗 Solution]() |
+| 89 | Sliding window maximum | [🔗 Solution]() |
+| 90 | First non-repeating character | [🔗 Solution]() |
+| 91 | Generate binary numbers | [🔗 Solution]() |
+| 92 | Rotten oranges | [🔗 Solution]() |
+| 93 | LRU cache (queue approach) | [🔗 Solution]() |
+| 94 | Max of all subarrays of size K | [🔗 Solution]() |
+| 95 | Sum of min and max of subarrays | [🔗 Solution]() |
+| 96 | Circular tour (petrol pump) | [🔗 Solution]() |
 
 </details>
 
 ---
+
+## 3. Tree
 
 ### 🌲 Tree Mastery
 
@@ -302,16 +228,16 @@
 
 | # | Problem | Status |
 |---|---------|--------|
-| 241 | Inorder traversal | [🔗 Solution]() |
-| 242 | Preorder traversal | [🔗 Solution]() |
-| 243 | Postorder traversal | [🔗 Solution]() |
-| 244 | Level order traversal | [🔗 Solution]() |
-| 245 | Height of tree | [🔗 Solution]() |
-| 246 | Count nodes | [🔗 Solution]() |
-| 247 | Count leaf nodes | [🔗 Solution]() |
-| 248 | Mirror tree | [🔗 Solution]() |
-| 249 | Check identical trees | [🔗 Solution]() |
-| 250 | Check symmetric tree | [🔗 Solution]() |
+| 97 | Inorder traversal | [🔗 Solution]() |
+| 98 | Preorder traversal | [🔗 Solution]() |
+| 99 | Postorder traversal | [🔗 Solution]() |
+| 100 | Level order traversal | [🔗 Solution]() |
+| 101 | Height of tree | [🔗 Solution]() |
+| 102 | Count nodes | [🔗 Solution]() |
+| 103 | Count leaf nodes | [🔗 Solution]() |
+| 104 | Mirror tree | [🔗 Solution]() |
+| 105 | Check identical trees | [🔗 Solution]() |
+| 106 | Check symmetric tree | [🔗 Solution]() |
 
 </details>
 
@@ -320,13 +246,27 @@
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 251 | Build tree from traversals | ⭐⭐⭐⭐ |
-| 252 | Maximum path sum | ⭐⭐⭐⭐⭐ |
-| 253 | Zigzag traversal | ⭐⭐⭐ |
-| 254 | Boundary traversal | ⭐⭐⭐ |
-| 255 | Vertical traversal | ⭐⭐⭐⭐ |
-| 256 | Top view | ⭐⭐⭐ |
-| 257 | Bottom view | ⭐⭐⭐ |
+| 107 | Build tree from traversals | ⭐⭐⭐⭐ |
+| 108 | Maximum path sum | ⭐⭐⭐⭐⭐ |
+| 109 | Zigzag traversal | ⭐⭐⭐ |
+| 110 | Boundary traversal | ⭐⭐⭐ |
+| 111 | Vertical traversal | ⭐⭐⭐⭐ |
+| 112 | Top view | ⭐⭐⭐ |
+| 113 | Bottom view | ⭐⭐⭐ |
+| 114 | Left view | ⭐⭐ |
+| 115 | Right view | ⭐⭐ |
+| 116 | Diagonal traversal | ⭐⭐⭐ |
+| 117 | Lowest common ancestor | ⭐⭐ |
+| 118 | Distance between two nodes | ⭐⭐⭐ |
+| 119 | Maximum width | ⭐⭐⭐ |
+| 120 | Check balanced tree | ⭐⭐ |
+| 121 | Diameter of tree | ⭐⭐⭐ |
+| 122 | Sum tree | ⭐⭐⭐ |
+| 123 | Check subtree | ⭐⭐⭐ |
+| 124 | Duplicate subtrees | ⭐⭐⭐⭐ |
+| 125 | Nodes at distance K | ⭐⭐⭐⭐ |
+| 126 | Flatten tree to linked list | ⭐⭐⭐ |
+| 127 | Burn a tree | ⭐⭐⭐⭐ |
 
 </details>
 
@@ -335,25 +275,25 @@
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 272 | Insert in BST | ⭐⭐ |
-| 273 | Search in BST | ⭐ |
-| 274 | Minimum of the tree | ⭐ |
-| 275 | Maximum of the tree | ⭐ |
-| 276 | Delete from BST | ⭐⭐⭐ |
-| 277 | Construct BST from Preorder Array | ⭐⭐⭐⭐ |
-| 278 | Check BST is valid | ⭐⭐ |
-| 279 | Build BST from sorted array | ⭐⭐ |
-| 280 | Tree Successor | ⭐⭐⭐ |
-| 281 | Tree Predecessor | ⭐⭐⭐ |
-| 282 | Construct all possible trees | ⭐⭐⭐⭐ |
-| 283 | Largest BST in Binary tree | ⭐⭐⭐⭐⭐ |
-| 284 | Restore BST | ⭐⭐⭐⭐ |
-| 285 | Floor and ceil | ⭐⭐ |
-| 286 | Kth smallest | ⭐⭐⭐ |
-| 287 | Convert BST to DLL | ⭐⭐⭐ |
-| 288 | Lowest common ancestor | ⭐⭐ |
-| 289 | Merge two BSTs | ⭐⭐⭐⭐ |
-| 290 | Count BST nodes in range | ⭐⭐ |
+| 128 | Insert in BST | ⭐⭐ |
+| 129 | Search in BST | ⭐ |
+| 130 | Minimum of the tree | ⭐ |
+| 131 | Maximum of the tree | ⭐ |
+| 132 | Delete from BST | ⭐⭐⭐ |
+| 133 | Construct BST from Preorder Array | ⭐⭐⭐⭐ |
+| 134 | Check BST is valid | ⭐⭐ |
+| 135 | Build BST from sorted array | ⭐⭐ |
+| 136 | Tree Successor | ⭐⭐⭐ |
+| 137 | Tree Predecessor | ⭐⭐⭐ |
+| 138 | Construct all possible trees | ⭐⭐⭐⭐ |
+| 139 | Largest BST in Binary tree | ⭐⭐⭐⭐⭐ |
+| 140 | Restore BST | ⭐⭐⭐⭐ |
+| 141 | Floor and ceil | ⭐⭐ |
+| 142 | Kth smallest | ⭐⭐⭐ |
+| 143 | Convert BST to DLL | ⭐⭐⭐ |
+| 144 | Lowest common ancestor | ⭐⭐ |
+| 145 | Merge two BSTs | ⭐⭐⭐⭐ |
+| 146 | Count BST nodes in range | ⭐⭐ |
 
 </details>
 
@@ -362,23 +302,25 @@
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 291 | Serialize & deserialize tree | ⭐⭐⭐⭐⭐ |
-| 292 | Construct tree from traversals | ⭐⭐⭐⭐ |
-| 293 | Flatten tree to linked list | ⭐⭐⭐ |
-| 294 | Burn a tree | ⭐⭐⭐⭐ |
-| 295 | Maximum width | ⭐⭐⭐ |
-| 296 | Nodes at distance K | ⭐⭐⭐⭐ |
-| 297 | Check subtree | ⭐⭐⭐ |
-| 298 | Duplicate subtrees | ⭐⭐⭐⭐ |
+| 147 | Serialize & deserialize tree | ⭐⭐⭐⭐⭐ |
+| 148 | Construct tree from traversals | ⭐⭐⭐⭐ |
+| 149 | Flatten tree to linked list | ⭐⭐⭐ |
+| 150 | Burn a tree | ⭐⭐⭐⭐ |
+| 151 | Maximum width | ⭐⭐⭐ |
+| 152 | Nodes at distance K | ⭐⭐⭐⭐ |
+| 153 | Check subtree | ⭐⭐⭐ |
+| 154 | Duplicate subtrees | ⭐⭐⭐⭐ |
 
 </details>
 
 ---
 
+## 4. Graph
 
-## 📊 Graphs
 
-### 🌐 Basics of Graph Algorithms
+<details>
+<summary><h4> ⚡ Basics of Graph Algorithms</h4> </summary>
+
 
 <div align="center">
   <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/images.png" width="350" alt="BFS Diagram">
@@ -388,32 +330,42 @@
 
 | # | Problem | Status | Difficulty |
 |---|---------|--------|------------|
-| 311 | BFS (Breadth-First Search) | [🔗 Solution](6_Graph/311_BFS.cpp) | ⭐⭐ |
-| 312 | DFS (Depth-First Search) | [🔗 Solution](6_Graph/312_DFS.cpp) | ⭐⭐ |
-| 313 | Graph representation (Adjacency matrix vs list) | [🔗 Solution]() ❌ | ⭐ |
-| 314 | Count connected components | [🔗 Solution]() ❌ | ⭐⭐ |
-| 315 | Number of islands | [🔗 Solution]() ❌ | ⭐⭐ |
+| 155 | BFS (Breadth-First Search) | [🔗 Solution](6_Graph/311_BFS.cpp) | ⭐⭐ |
+| 156 | DFS (Depth-First Search) | [🔗 Solution](6_Graph/312_DFS.cpp) | ⭐⭐ |
+| 157 | Graph representation (Adjacency matrix vs list) | [🔗 Solution]() ❌ | ⭐ |
+| 158 | Count connected components | [🔗 Solution]() ❌ | ⭐⭐ |
+| 159 | Number of islands | [🔗 Solution]() ❌ | ⭐⭐ |
 
----
+</details>
 
-### 🔄 Cycle Detection
+<details>
+<summary><h4>⚡ Cycle Detection Graph Algorithms</h4></summary>
+
+<br>
 
 <div align="center">
-  <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/download.png" width="350" alt="Cycle Detection">
+  <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/download.png" width="400" alt="Cycle Detection">
   <br>
-  <i>Cycle detection in graphs</i>
+  <em>Cycle detection in graphs — identifying loops that can break your algorithm</em>
 </div>
+
+<br>
 
 | # | Problem | Status | Difficulty |
 |---|---------|--------|------------|
-| 316 | Check cycle in Undirected Graph (BFS) | [🔗 Solution]() | ⭐⭐⭐ |
-| 317 | Check cycle in Undirected Graph (DFS) | [🔗 Solution]() | ⭐⭐⭐ |
-| 318 | Check cycle in Directed Graph (DFS) | [🔗 Solution]() | ⭐⭐⭐ |
-| 319 | Check cycle in Directed Graph (BFS / Kahn's Algorithm) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 160 | Check cycle in Undirected Graph (BFS) | [🔗 Solution]() | ⭐⭐⭐ |
+| 161 | Check cycle in Undirected Graph (DFS) | [🔗 Solution]() | ⭐⭐⭐ |
+| 162 | Check cycle in Directed Graph (DFS) | [🔗 Solution]() | ⭐⭐⭐ |
+| 163 | Check cycle in Directed Graph (BFS / Kahn's Algorithm) | [🔗 Solution]() | ⭐⭐⭐⭐ |
 
----
+<br>
 
-### ⬆️ Topological Sorting
+</details>
+
+
+<details>
+<summary><h4> ⚡ Topological Sorting Graph Algorithms</h4> </summary>
+
 
 <div align="center">
   <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/download2.png" width="350" alt="Topological Sort">
@@ -424,14 +376,16 @@
 
 | # | Problem | Status | Difficulty |
 |---|---------|--------|------------|
-| 320 | Topological Sort (using DFS) | [🔗 Solution]() | ⭐⭐⭐ |
-| 321 | Topological Sort (Kahn's Algorithm) | [🔗 Solution]() | ⭐⭐⭐ |
-| 322 | Alien dictionary | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
-| 323 | Course schedule | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 164 | Topological Sort (using DFS) | [🔗 Solution]() | ⭐⭐⭐ |
+| 165 | Topological Sort (Kahn's Algorithm) | [🔗 Solution]() | ⭐⭐⭐ |
+| 166 | Alien dictionary | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
+| 167 | Course schedule | [🔗 Solution]() | ⭐⭐⭐⭐ |
 
----
+</details>
 
-### 🚀 Shortest Path Algorithms
+<details>
+<summary><h4>⚡ Shortest Path Graph Algorithms</h4></summary>
+
 
 <div align="center">
   <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/gph3.png" width="350" alt="Shortest Path">
@@ -441,8 +395,8 @@
 
 | # | Problem | Status | Difficulty |
 |---|---------|--------|------------|
-| 324 | Shortest path in undirected graph (BFS) | [🔗 Solution]() | ⭐⭐ |
-| 325 | Shortest distance in undirected graph (BFS) | [🔗 Solution]() | ⭐⭐ |
+| 168 | Shortest path in undirected graph (BFS) | [🔗 Solution]() | ⭐⭐ |
+| 169 | Shortest distance in undirected graph (BFS) | [🔗 Solution]() | ⭐⭐ |
 
 <div align="center">
   <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/shortest-path-in-a-directed-acyclic-graph-1-1635369661.png" width="350" alt="DAG Shortest Path">
@@ -452,7 +406,7 @@
 
 | # | Problem | Status | Difficulty |
 |---|---------|--------|------------|
-| 326 | Shortest distance from source to all node (weighted DAG) | [🔗 Solution]() | ⭐⭐⭐ |
+| 170 | Shortest distance from source to all node (weighted DAG) | [🔗 Solution]() | ⭐⭐⭐ |
 
 <div align="center">
   <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/untitled-diagram-15-6327.jpg" width="350" alt="Dijkstra">
@@ -462,7 +416,7 @@
 
 | # | Problem | Status | Difficulty |
 |---|---------|--------|------------|
-| 327 | Dijkstra's algorithm (Weighted Graph) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 171 | Dijkstra's algorithm (Weighted Graph) | [🔗 Solution]() | ⭐⭐⭐⭐ |
 
 <div align="center">
   <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/colimage-11780.png" width="350" alt="Bellman-Ford">
@@ -473,7 +427,7 @@
 
 | # | Problem | Status | Difficulty |
 |---|---------|--------|------------|
-| 328 | Bellman-Ford (Weighted Graph with negative edges) | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
+| 172 | Bellman-Ford (Weighted Graph with negative edges) | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
 
 <div align="center">
   <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/weiGraph4.png" width="350" alt="Floyd-Warshall">
@@ -483,11 +437,13 @@
 
 | # | Problem | Status | Difficulty |
 |---|---------|--------|------------|
-| 329 | Floyd-Warshall (All pair shortest path) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 173 | Floyd-Warshall (All pair shortest path) | [🔗 Solution]() | ⭐⭐⭐⭐ |
 
----
+</details>
 
-### 🌲 Minimum Spanning Tree (MST)
+<details>
+<summary><h4>⚡ Minimum Spanning Tree (MST) Graph Algorithms</h4></summary>
+
 
 <div align="center">
   <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/mst.png" width="350" alt="MST">
@@ -497,12 +453,17 @@
 
 | # | Problem | Status | Difficulty |
 |---|---------|--------|------------|
-| 330 | Minimum Spanning Tree (Prim's Algorithm) | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 331 | Minimum Spanning Tree (Kruskal Algorithm / Disjoint Set) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 174 | Minimum Spanning Tree (Prim's Algorithm) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 175 | Minimum Spanning Tree (Kruskal Algorithm / Disjoint Set) | [🔗 Solution]() | ⭐⭐⭐⭐ |
 
 ---
 
-### 🔗 Connectivity & Components
+</details>
+
+<details>
+<summary><h4>⚡ Connectivity & Components Graph Algorithms</h4></summary>
+
+
 
 <div align="center">
   <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/2020-03-07-articulation-point.png" width="350" alt="Articulation Points">
@@ -512,8 +473,8 @@
 
 | # | Problem | Status | Difficulty |
 |---|---------|--------|------------|
-| 332 | Finding Bridges in a graph | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 333 | Finding Articulation Points (Tarjan's Algorithm) | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
+| 176 | Finding Bridges in a graph | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 177 | Finding Articulation Points (Tarjan's Algorithm) | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
 
 <div align="center">
   <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/1.png" width="350" alt="Strongly Connected Components">
@@ -523,34 +484,40 @@
 
 | # | Problem | Status | Difficulty |
 |---|---------|--------|------------|
-| 334 | Number of Strongly Connected Components (Kosaraju) | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
-| 335 | Strongly Connected Components List (Kosaraju) | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
+| 178 | Number of Strongly Connected Components (Kosaraju) | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
+| 179 | Strongly Connected Components List (Kosaraju) | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
 
----
+</details>
 
-### 🧩 Grid Problems
+<details>
+<summary><h4>⚡ Grid Problems Graph Algorithms</h4></summary>
 
-| # | Problem | Status | Difficulty |
-|---|---------|--------|------------|
-| 336 | Flood fill | [🔗 Solution]() | ⭐⭐ |
-| 337 | Rotten oranges | [🔗 Solution]() | ⭐⭐⭐ |
-| 338 | Shortest path in grid | [🔗 Solution]() | ⭐⭐⭐ |
-| 339 | Number of enclaves | [🔗 Solution]() | ⭐⭐⭐ |
-| 340 | Surrounded regions | [🔗 Solution]() | ⭐⭐⭐ |
-
----
-
-### 🎯 Specialized Problems
 
 | # | Problem | Status | Difficulty |
 |---|---------|--------|------------|
-| 341 | Graph Coloring Problem | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 342 | Maximum Flow Problem | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
-| 343 | Word ladder | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 180 | Flood fill | [🔗 Solution]() | ⭐⭐ |
+| 181 | Rotten oranges | [🔗 Solution]() | ⭐⭐⭐ |
+| 182 | Shortest path in grid | [🔗 Solution]() | ⭐⭐⭐ |
+| 183 | Number of enclaves | [🔗 Solution]() | ⭐⭐⭐ |
+| 184 | Surrounded regions | [🔗 Solution]() | ⭐⭐⭐ |
 
----
+</details>
 
-## 🔄 Recursion & Backtracking
+<details>
+<summary><h4>⚡ Specialized Problems Graph Algorithms</h4></summary>
+
+
+
+| # | Problem | Status | Difficulty |
+|---|---------|--------|------------|
+| 185 | Graph Coloring Problem | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 186 | Maximum Flow Problem | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
+| 187 | Word ladder | [🔗 Solution]() | ⭐⭐⭐⭐ |
+
+</details>
+
+
+## 5. Recursion & Backtracking
 
 > *"To understand recursion, you must first understand recursion."* — Unknown
 
@@ -558,11 +525,11 @@
 
 | # | Problem | Status | Difficulty |
 |---|---------|--------|------------|
-| 381 | Recursive implementation of factorial | [🔗 Solution]() | ⭐ |
-| 382 | Recursive power calculation ($x^y$) | [🔗 Solution]() | ⭐ |
-| 383 | Recursive nth Fibonacci number | [🔗 Solution]() | ⭐ |
-| 384 | Recursive palindrome check | [🔗 Solution]() | ⭐⭐ |
-| 385 | Recursive even numbers in range | [🔗 Solution]() | ⭐ |
+| 188 | Recursive implementation of factorial | [🔗 Solution]() | ⭐ |
+| 189 | Recursive power calculation ($x^y$) | [🔗 Solution]() | ⭐ |
+| 190 | Recursive nth Fibonacci number | [🔗 Solution]() | ⭐ |
+| 191 | Recursive palindrome check | [🔗 Solution]() | ⭐⭐ |
+| 192 | Recursive even numbers in range | [🔗 Solution]() | ⭐ |
 
 ---
 
@@ -570,17 +537,17 @@
 
 | # | Problem | Status |
 |---|---------|--------|
-| 386 | Print array in order | [🔗 Solution]() |
-| 387 | Print array in reverse order | [🔗 Solution]() |
-| 388 | Find sum of array elements | [🔗 Solution]() |
-| 389 | Find product of array elements | [🔗 Solution]() |
-| 390 | Find maximum element | [🔗 Solution]() |
-| 391 | Find minimum element | [🔗 Solution]() |
-| 392 | Find average of elements | [🔗 Solution]() |
-| 393 | Print odd/even numbers | [🔗 Solution]() |
-| 394 | Print prime numbers | [🔗 Solution]() |
-| 395 | Count odd/even numbers | [🔗 Solution]() |
-| 396 | Count prime numbers | [🔗 Solution]() |
+| 193 | Print array in order | [🔗 Solution]() |
+| 194 | Print array in reverse order | [🔗 Solution]() |
+| 195 | Find sum of array elements | [🔗 Solution]() |
+| 196 | Find product of array elements | [🔗 Solution]() |
+| 197 | Find maximum element | [🔗 Solution]() |
+| 198 | Find minimum element | [🔗 Solution]() |
+| 199 | Find average of elements | [🔗 Solution]() |
+| 200 | Print odd/even numbers | [🔗 Solution]() |
+| 201 | Print prime numbers | [🔗 Solution]() |
+| 202 | Count odd/even numbers | [🔗 Solution]() |
+| 203 | Count prime numbers | [🔗 Solution]() |
 
 ---
 
@@ -588,8 +555,8 @@
 
 | # | Problem | Status |
 |---|---------|--------|
-| 397 | Find maximum of 2D array | [🔗 Solution]() |
-| 398 | Count prime numbers in 2D array | [🔗 Solution]() |
+| 204 | Find maximum of 2D array | [🔗 Solution]() |
+| 205 | Count prime numbers in 2D array | [🔗 Solution]() |
 
 ---
 
@@ -597,13 +564,13 @@
 
 | # | Problem | Status |
 |---|---------|--------|
-| 399 | Sum: 1 + 2 + 3 + ... + n | [🔗 Solution]() |
-| 400 | Sum: 1² + 2² + 3² + ... + n² | [🔗 Solution]() |
-| 401 | Sum: 1×3 + 2×5 + 3×7 + ... | [🔗 Solution]() |
-| 402 | Sum: 2×3 + 4×5 + 8×7 + ... | [🔗 Solution]() |
-| 403 | Sum: 2×3×4 + 4×5×3 + 8×7×2 + ... | [🔗 Solution]() |
-| 404 | GCD of x and y | [🔗 Solution]() |
-| 405 | LCM of x and y | [🔗 Solution]() |
+| 206 | Sum: 1 + 2 + 3 + ... + n | [🔗 Solution]() |
+| 207 | Sum: 1² + 2² + 3² + ... + n² | [🔗 Solution]() |
+| 208 | Sum: 1×3 + 2×5 + 3×7 + ... | [🔗 Solution]() |
+| 209 | Sum: 2×3 + 4×5 + 8×7 + ... | [🔗 Solution]() |
+| 210 | Sum: 2×3×4 + 4×5×3 + 8×7×2 + ... | [🔗 Solution]() |
+| 211 | GCD of x and y | [🔗 Solution]() |
+| 212 | LCM of x and y | [🔗 Solution]() |
 
 ---
 
@@ -611,11 +578,11 @@
 
 | # | Problem | Status | Difficulty |
 |---|---------|--------|------------|
-| 406 | Count digits of an integer | [🔗 Solution]() | ⭐ |
-| 407 | Sum of digits | [🔗 Solution]() | ⭐ |
-| 408 | Palindrome integer check | [🔗 Solution]() | ⭐⭐ |
-| 409 | Print all subsets of a set | [🔗 Solution]() | ⭐⭐⭐ |
-| 410 | Print all subsequences of a string | [🔗 Solution]() | ⭐⭐⭐ |
+| 213 | Count digits of an integer | [🔗 Solution]() | ⭐ |
+| 214 | Sum of digits | [🔗 Solution]() | ⭐ |
+| 215 | Palindrome integer check | [🔗 Solution]() | ⭐⭐ |
+| 216 | Print all subsets of a set | [🔗 Solution]() | ⭐⭐⭐ |
+| 217 | Print all subsequences of a string | [🔗 Solution]() | ⭐⭐⭐ |
 
 ---
 
@@ -623,26 +590,26 @@
 
 | # | Problem | Status | Difficulty |
 |---|---------|--------|------------|
-| 411 | Subsets with duplicates | [🔗 Solution]() | ⭐⭐⭐ |
-| 412 | Permutations | [🔗 Solution]() | ⭐⭐⭐ |
-| 413 | Permutations with duplicates | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 414 | Combination sum | [🔗 Solution]() | ⭐⭐⭐ |
-| 415 | N-Queens | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
-| 416 | Sudoku solver | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
-| 417 | Rat in a maze | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 418 | Word search | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 419 | Palindrome partitioning | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 420 | Generate parentheses | [🔗 Solution]() | ⭐⭐⭐ |
-| 421 | Letter combinations of phone | [🔗 Solution]() | ⭐⭐⭐ |
-| 422 | Kth permutation | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 423 | Gray code | [🔗 Solution]() | ⭐⭐⭐ |
-| 424 | Expression add operators | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
-| 425 | Remove invalid parentheses | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
-| 426 | Beautiful arrangements | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 218 | Subsets with duplicates | [🔗 Solution]() | ⭐⭐⭐ |
+| 219 | Permutations | [🔗 Solution]() | ⭐⭐⭐ |
+| 220 | Permutations with duplicates | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 221 | Combination sum | [🔗 Solution]() | ⭐⭐⭐ |
+| 222 | N-Queens | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
+| 223 | Sudoku solver | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
+| 224 | Rat in a maze | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 225 | Word search | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 226 | Palindrome partitioning | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 227 | Generate parentheses | [🔗 Solution]() | ⭐⭐⭐ |
+| 228 | Letter combinations of phone | [🔗 Solution]() | ⭐⭐⭐ |
+| 229 | Kth permutation | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 230 | Gray code | [🔗 Solution]() | ⭐⭐⭐ |
+| 231 | Expression add operators | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
+| 232 | Remove invalid parentheses | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
+| 233 | Beautiful arrangements | [🔗 Solution]() | ⭐⭐⭐⭐ |
 
 ---
 
-## 📈 Dynamic Programming
+## 6. Dynamic Programming
 
 ### 1D DP & Fundamentals
 
@@ -650,118 +617,109 @@
 
 | # | Problem | Approaches | Difficulty |
 |---|---------|------------|------------|
-| 427 | Fibonacci number | [Memo](/) · [Tabu](/) · [Space](/) | ⭐ |
-| 428 | Fibonacci number (Tabulation) | [🔗 Solution]() | ⭐ |
-| 429 | Fibonacci number (Space opt) | [🔗 Solution]() | ⭐ |
-| 430 | Min Cost Climbing Stairs (Recursion) | [🔗 Solution]() | ⭐⭐ |
-| 431 | Min Cost Climbing Stairs (Memo) | [🔗 Solution]() | ⭐⭐ |
-| 432 | Min Cost Climbing Stairs (Tabu) | [🔗 Solution]() | ⭐⭐ |
-| 433 | Min Cost Climbing Stairs (Space) | [🔗 Solution]() | ⭐⭐ |
-| 434 | Climbing Stairs (Standard) | [🔗 Solution]() | ⭐ |
-| 435 | Max Sum Non-Adjacent (Recursion) | [🔗 Solution]() | ⭐⭐⭐ |
-| 436 | Max Sum Non-Adjacent (Memo) | [🔗 Solution]() | ⭐⭐⭐ |
-| 437 | Max Sum Non-Adjacent (Tabu) | [🔗 Solution]() | ⭐⭐⭐ |
-| 438 | Max Sum Non-Adjacent (Space) | [🔗 Solution]() | ⭐⭐⭐ |
-| 439 | House Robber (Recursion) | [🔗 Solution]() | ⭐⭐⭐ |
-| 440 | House Robber (Memo) | [🔗 Solution]() | ⭐⭐⭐ |
-| 441 | House Robber (Tabu) | [🔗 Solution]() | ⭐⭐⭐ |
-| 442 | House Robber (Space) | [🔗 Solution]() | ⭐⭐⭐ |
+| 234 | Fibonacci number | [Memo](/) · [Tabu](/) · [Space](/) | ⭐ |
+| 235 | Fibonacci number (Tabulation) | [🔗 Solution]() | ⭐ |
+| 236 | Fibonacci number (Space opt) | [🔗 Solution]() | ⭐ |
+| 237 | Min Cost Climbing Stairs (Recursion) | [🔗 Solution]() | ⭐⭐ |
+| 238 | Min Cost Climbing Stairs (Memo) | [🔗 Solution]() | ⭐⭐ |
+| 239 | Min Cost Climbing Stairs (Tabu) | [🔗 Solution]() | ⭐⭐ |
+| 240 | Min Cost Climbing Stairs (Space) | [🔗 Solution]() | ⭐⭐ |
+| 241 | Climbing Stairs (Standard) | [🔗 Solution]() | ⭐ |
+| 242 | Max Sum Non-Adjacent (Recursion) | [🔗 Solution]() | ⭐⭐⭐ |
+| 243 | Max Sum Non-Adjacent (Memo) | [🔗 Solution]() | ⭐⭐⭐ |
+| 244 | Max Sum Non-Adjacent (Tabu) | [🔗 Solution]() | ⭐⭐⭐ |
+| 245 | Max Sum Non-Adjacent (Space) | [🔗 Solution]() | ⭐⭐⭐ |
+| 246 | House Robber (Recursion) | [🔗 Solution]() | ⭐⭐⭐ |
+| 247 | House Robber (Memo) | [🔗 Solution]() | ⭐⭐⭐ |
+| 248 | House Robber (Tabu) | [🔗 Solution]() | ⭐⭐⭐ |
+| 249 | House Robber (Space) | [🔗 Solution]() | ⭐⭐⭐ |
 
 ---
 
-<div align="center">
-
-**🗂️ More DP categories coming soon:** 2D DP, Knapsack, LCS, LIS, Matrix Chain Multiplication, DP on Trees, and more!
-
-</div>
-
-
-
-
-## 📦 Knapsack & Combinations
+### 📦 Knapsack & Combinations
 
 | # | Problem | Approaches | Difficulty |
 |---|---------|------------|------------|
-| 443 | Minimum Number of Coins | [Rec](/.) · [Memo](/.) · [Tabu](/.) | ⭐⭐⭐ |
-| 444 | Minimum Number of Coins (Memo) | [🔗 Solution]() | ⭐⭐⭐ |
-| 445 | Minimum Number of Coins (Tabu) | [🔗 Solution]() | ⭐⭐⭐ |
-| 446 | Cut Rod into Segments (Rec) | [🔗 Solution]() | ⭐⭐⭐ |
-| 447 | Cut Rod into Segments (Memo) | [🔗 Solution]() | ⭐⭐⭐ |
-| 448 | Cut Rod into Segments (Tabu) | [🔗 Solution]() | ⭐⭐⭐ |
-| 449 | Painting Fence Algorithm (Rec) | [🔗 Solution]() | ⭐⭐⭐ |
-| 450 | Painting Fence Algorithm (Memo) | [🔗 Solution]() | ⭐⭐⭐ |
-| 451 | Painting Fence Algorithm (Tabu) | [🔗 Solution]() | ⭐⭐⭐ |
-| 452 | Painting Fence Algorithm (Space) | [🔗 Solution]() | ⭐⭐⭐ |
-| 453 | 0/1 KnapSack Problem (Rec) | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 454 | 0/1 KnapSack Problem (Memo) | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 455 | 0/1 KnapSack Problem (Tabu) | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 456 | 0/1 KnapSack Problem (Space) | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 457 | Combination Sum IV (Rec) | [🔗 Solution]() | ⭐⭐⭐ |
-| 458 | Combination Sum IV (Memo) | [🔗 Solution]() | ⭐⭐⭐ |
-| 459 | Combination Sum IV (Tabu) | [🔗 Solution]() | ⭐⭐⭐ |
-| 460 | Combination Sum (Standard) | [🔗 Solution]() | ⭐⭐⭐ |
+| 250 | Minimum Number of Coins | [Rec](/.) · [Memo](/.) · [Tabu](/.) | ⭐⭐⭐ |
+| 251 | Minimum Number of Coins (Memo) | [🔗 Solution]() | ⭐⭐⭐ |
+| 252 | Minimum Number of Coins (Tabu) | [🔗 Solution]() | ⭐⭐⭐ |
+| 253 | Cut Rod into Segments (Rec) | [🔗 Solution]() | ⭐⭐⭐ |
+| 254 | Cut Rod into Segments (Memo) | [🔗 Solution]() | ⭐⭐⭐ |
+| 255 | Cut Rod into Segments (Tabu) | [🔗 Solution]() | ⭐⭐⭐ |
+| 256 | Painting Fence Algorithm (Rec) | [🔗 Solution]() | ⭐⭐⭐ |
+| 257 | Painting Fence Algorithm (Memo) | [🔗 Solution]() | ⭐⭐⭐ |
+| 258 | Painting Fence Algorithm (Tabu) | [🔗 Solution]() | ⭐⭐⭐ |
+| 259 | Painting Fence Algorithm (Space) | [🔗 Solution]() | ⭐⭐⭐ |
+| 260 | 0/1 KnapSack Problem (Rec) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 261 | 0/1 KnapSack Problem (Memo) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 262 | 0/1 KnapSack Problem (Tabu) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 263 | 0/1 KnapSack Problem (Space) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 264 | Combination Sum IV (Rec) | [🔗 Solution]() | ⭐⭐⭐ |
+| 265 | Combination Sum IV (Memo) | [🔗 Solution]() | ⭐⭐⭐ |
+| 266 | Combination Sum IV (Tabu) | [🔗 Solution]() | ⭐⭐⭐ |
+| 267 | Combination Sum (Standard) | [🔗 Solution]() | ⭐⭐⭐ |
 
 ---
 
-## 📐 Math & Subsequences
+### 📐 Math & Subsequences
 
 | # | Problem | Approaches | Difficulty |
 |---|---------|------------|------------|
-| 461 | Count Derangements (Rec) | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 462 | Count Derangements (Memo) | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 463 | Count Derangements (Tabu) | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 464 | Count Derangements (Space) | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 465 | Perfect Squares Problem (Rec) | [🔗 Solution]() | ⭐⭐⭐ |
-| 466 | Perfect Squares Problem (Memo) | [🔗 Solution]() | ⭐⭐⭐ |
-| 467 | Perfect Squares Problem (Tabu) | [🔗 Solution]() | ⭐⭐⭐ |
-| 468 | Perfect Cube Problem | [🔗 Solution]() | ⭐⭐⭐ |
-| 469 | Longest Increasing Subsequence (Rec) | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 470 | Longest Increasing Subsequence (Memo) | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 471 | Longest Increasing Subsequence (Tabu) | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 472 | Longest Increasing Subsequence (Space) | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 473 | LIS (DP + Binary Search) | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
-| 474 | Increasing Triplet Subsequence | [🔗 Solution]() | ⭐⭐⭐ |
-| 475 | Longest Arithmetic Subsequence (Rec) | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 476 | Longest Arithmetic Subsequence (Memo) | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 477 | Longest Arithmetic Subsequence (Tabu) | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 478 | Longest Arithmetic Subsequence (given diff) | [🔗 Solution]() | ⭐⭐⭐ |
-| 479 | Partition Equal Subset Sum (Rec) | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 480 | Partition Equal Subset Sum (Memo) | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 481 | Partition Equal Subset Sum (Tabu) | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 482 | Partition Equal Subset Sum (Space) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 268 | Count Derangements (Rec) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 269 | Count Derangements (Memo) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 270 | Count Derangements (Tabu) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 271 | Count Derangements (Space) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 272 | Perfect Squares Problem (Rec) | [🔗 Solution]() | ⭐⭐⭐ |
+| 273 | Perfect Squares Problem (Memo) | [🔗 Solution]() | ⭐⭐⭐ |
+| 274 | Perfect Squares Problem (Tabu) | [🔗 Solution]() | ⭐⭐⭐ |
+| 275 | Perfect Cube Problem | [🔗 Solution]() | ⭐⭐⭐ |
+| 276 | Longest Increasing Subsequence (Rec) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 277 | Longest Increasing Subsequence (Memo) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 278 | Longest Increasing Subsequence (Tabu) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 279 | Longest Increasing Subsequence (Space) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 280 | LIS (DP + Binary Search) | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
+| 281 | Increasing Triplet Subsequence | [🔗 Solution]() | ⭐⭐⭐ |
+| 282 | Longest Arithmetic Subsequence (Rec) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 283 | Longest Arithmetic Subsequence (Memo) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 284 | Longest Arithmetic Subsequence (Tabu) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 285 | Longest Arithmetic Subsequence (given diff) | [🔗 Solution]() | ⭐⭐⭐ |
+| 286 | Partition Equal Subset Sum (Rec) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 287 | Partition Equal Subset Sum (Memo) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 288 | Partition Equal Subset Sum (Tabu) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 289 | Partition Equal Subset Sum (Space) | [🔗 Solution]() | ⭐⭐⭐⭐ |
 
 ---
 
-## 🔤 DP on Strings & Grids
+### 🔤 DP on Strings & Grids
 
 | # | Problem | Approaches | Difficulty |
 |---|---------|------------|------------|
-| 483 | Longest Common Subsequence (Rec) | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 484 | Longest Common Subsequence (Memo) | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 485 | Longest Common Subsequence (Tabu) | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 486 | Longest Common Subsequence (Space) | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 487 | Longest Palindromic Subsequence (Rec) | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 488 | Longest Palindromic Subsequence (Memo) | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 489 | Longest Palindromic Subsequence (Tabu) | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 490 | Longest Palindromic Subsequence (Space) | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 491 | Edit Distance (Rec) | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
-| 492 | Edit Distance (Memo) | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
-| 493 | Edit Distance (Tabu) | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
-| 494 | Edit Distance (Space) | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
-| 495 | Largest Square area in Matrix (Rec) | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 496 | Largest Square area in Matrix (Memo) | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 497 | Largest Square area in Matrix (Tabu) | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 498 | Largest Square area in Matrix (Space) | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 499 | Minimum Sideways Jump (Rec) | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 500 | Minimum Sideways Jump (Memo) | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 501 | Minimum Sideways Jump (Tabu) | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 502 | Minimum Sideways Jump (Space) | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 503 | Unique Paths | [🔗 Solution]() | ⭐⭐ |
-| 504 | Minimum Path Sum | [🔗 Solution]() | ⭐⭐⭐ |
+| 290 | Longest Common Subsequence (Rec) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 291 | Longest Common Subsequence (Memo) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 292 | Longest Common Subsequence (Tabu) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 293 | Longest Common Subsequence (Space) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 294 | Longest Palindromic Subsequence (Rec) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 295 | Longest Palindromic Subsequence (Memo) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 296 | Longest Palindromic Subsequence (Tabu) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 297 | Longest Palindromic Subsequence (Space) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 298 | Edit Distance (Rec) | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
+| 299 | Edit Distance (Memo) | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
+| 300 | Edit Distance (Tabu) | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
+| 301 | Edit Distance (Space) | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
+| 302 | Largest Square area in Matrix (Rec) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 303 | Largest Square area in Matrix (Memo) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 304 | Largest Square area in Matrix (Tabu) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 305 | Largest Square area in Matrix (Space) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 306 | Minimum Sideways Jump (Rec) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 307 | Minimum Sideways Jump (Memo) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 308 | Minimum Sideways Jump (Tabu) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 309 | Minimum Sideways Jump (Space) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 310 | Unique Paths | [🔗 Solution]() | ⭐⭐ |
+| 311 | Minimum Path Sum | [🔗 Solution]() | ⭐⭐⭐ |
 
 ---
 
-## 📈 DP on Stocks
+### 📈 DP on Stocks
 
 <div align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*Qw5W0D9v7KqW3kFqF1jK6w.png" width="400" alt="Stock Trading">
@@ -771,118 +729,118 @@
 
 | # | Problem | Approaches | Difficulty |
 |---|---------|------------|------------|
-| 505 | Buy and Sell Stock I | [🔗 Solution]() | ⭐⭐ |
-| 506 | Buy and Sell Stock II (Rec) | [🔗 Solution]() | ⭐⭐⭐ |
-| 507 | Buy and Sell Stock II (Memo) | [🔗 Solution]() | ⭐⭐⭐ |
-| 508 | Buy and Sell Stock II (Tabu) | [🔗 Solution]() | ⭐⭐⭐ |
-| 509 | Buy and Sell Stock II (Space) | [🔗 Solution]() | ⭐⭐⭐ |
-| 510 | Buy and Sell Stock III (Rec) | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
-| 511 | Buy and Sell Stock III (Memo) | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
-| 512 | Buy and Sell Stock III (Tabu) | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
-| 513 | Buy and Sell Stock III (Space) | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
-| 514 | Buy and Sell Stock IV (K-Transactions) | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
-| 515 | Buy and Sell Stock with Transaction Fee | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 312 | Buy and Sell Stock I | [🔗 Solution]() | ⭐⭐ |
+| 313 | Buy and Sell Stock II (Rec) | [🔗 Solution]() | ⭐⭐⭐ |
+| 314 | Buy and Sell Stock II (Memo) | [🔗 Solution]() | ⭐⭐⭐ |
+| 315 | Buy and Sell Stock II (Tabu) | [🔗 Solution]() | ⭐⭐⭐ |
+| 316 | Buy and Sell Stock II (Space) | [🔗 Solution]() | ⭐⭐⭐ |
+| 317 | Buy and Sell Stock III (Rec) | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
+| 318 | Buy and Sell Stock III (Memo) | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
+| 319 | Buy and Sell Stock III (Tabu) | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
+| 320 | Buy and Sell Stock III (Space) | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
+| 321 | Buy and Sell Stock IV (K-Transactions) | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
+| 322 | Buy and Sell Stock with Transaction Fee | [🔗 Solution]() | ⭐⭐⭐⭐ |
 
 ---
 
-## 🎮 Advanced & Game Theory DP
+### 🎮 Advanced & Game Theory DP
 
 | # | Problem | Approaches | Difficulty |
 |---|---------|------------|------------|
-| 516 | Minimum Cost for Tickets (Rec) | [🔗 Solution]() | ⭐⭐⭐ |
-| 517 | Minimum Cost for Tickets (Memo) | [🔗 Solution]() | ⭐⭐⭐ |
-| 518 | Minimum Cost for Tickets (Tabu) | [🔗 Solution]() | ⭐⭐⭐ |
-| 519 | Min Score Triangulation of Polygon (Rec) | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 520 | Min Score Triangulation of Polygon (Memo) | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 521 | Min Score Triangulation of Polygon (Tabu) | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 522 | Reducing Dishes (Rec) | [🔗 Solution]() | ⭐⭐⭐ |
-| 523 | Reducing Dishes (Memo) | [🔗 Solution]() | ⭐⭐⭐ |
-| 524 | Reducing Dishes (Tabu) | [🔗 Solution]() | ⭐⭐⭐ |
-| 525 | Reducing Dishes (Space) | [🔗 Solution]() | ⭐⭐⭐ |
-| 526 | Max Height by Stacking Cuboids | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
-| 527 | Russian Doll Envelopes | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
-| 528 | Pizza with 3n size (Rec) | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
-| 529 | Pizza with 3n size (Memo) | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
-| 530 | Pizza with 3n size (Tabu) | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
-| 531 | Pizza with 3n size (Space) | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
-| 532 | Number of Dice Rolls with Target Sum (Rec) | [🔗 Solution]() | ⭐⭐⭐ |
-| 533 | Number of Dice Rolls with Target Sum (Memo) | [🔗 Solution]() | ⭐⭐⭐ |
-| 534 | Number of Dice Rolls with Target Sum (Tabu) | [🔗 Solution]() | ⭐⭐⭐ |
-| 535 | Number of Dice Rolls with Target Sum (Space) | [🔗 Solution]() | ⭐⭐⭐ |
-| 536 | Minimum Swap to Make Sequence Increasing | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 537 | Unique BSTs (Catalan Number) | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 538 | Guess Number Higher or Lower II | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 539 | Minimum Cost Tree From Leaf Values | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 540 | Optimal Binary Search Tree | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
-| 541 | Matrix Chain Multiplication | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
-| 542 | Egg Dropping | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
-| 543 | Word Break | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 544 | Palindrome Partitioning | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 323 | Minimum Cost for Tickets (Rec) | [🔗 Solution]() | ⭐⭐⭐ |
+| 324 | Minimum Cost for Tickets (Memo) | [🔗 Solution]() | ⭐⭐⭐ |
+| 325 | Minimum Cost for Tickets (Tabu) | [🔗 Solution]() | ⭐⭐⭐ |
+| 326 | Min Score Triangulation of Polygon (Rec) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 327 | Min Score Triangulation of Polygon (Memo) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 328 | Min Score Triangulation of Polygon (Tabu) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 329 | Reducing Dishes (Rec) | [🔗 Solution]() | ⭐⭐⭐ |
+| 330 | Reducing Dishes (Memo) | [🔗 Solution]() | ⭐⭐⭐ |
+| 331 | Reducing Dishes (Tabu) | [🔗 Solution]() | ⭐⭐⭐ |
+| 332 | Reducing Dishes (Space) | [🔗 Solution]() | ⭐⭐⭐ |
+| 333 | Max Height by Stacking Cuboids | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
+| 334 | Russian Doll Envelopes | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
+| 335 | Pizza with 3n size (Rec) | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
+| 336 | Pizza with 3n size (Memo) | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
+| 337 | Pizza with 3n size (Tabu) | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
+| 338 | Pizza with 3n size (Space) | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
+| 339 | Number of Dice Rolls with Target Sum (Rec) | [🔗 Solution]() | ⭐⭐⭐ |
+| 340 | Number of Dice Rolls with Target Sum (Memo) | [🔗 Solution]() | ⭐⭐⭐ |
+| 341 | Number of Dice Rolls with Target Sum (Tabu) | [🔗 Solution]() | ⭐⭐⭐ |
+| 342 | Number of Dice Rolls with Target Sum (Space) | [🔗 Solution]() | ⭐⭐⭐ |
+| 343 | Minimum Swap to Make Sequence Increasing | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 344 | Unique BSTs (Catalan Number) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 345 | Guess Number Higher or Lower II | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 346 | Minimum Cost Tree From Leaf Values | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 347 | Optimal Binary Search Tree | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
+| 348 | Matrix Chain Multiplication | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
+| 349 | Egg Dropping | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
+| 350 | Word Break | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 351 | Palindrome Partitioning | [🔗 Solution]() | ⭐⭐⭐⭐ |
 
 ---
 
-### 🎁 Bonus Problems (545–580)
+### 🎁 Bonus Problems (352–387)
 
 > Hard DP interview classics and edge case optimizations — coming soon!
 
 ---
 
-## 🔢 Bit Manipulation & Math
+## 7. Bit Manipulation & Math
 
 > *"Bit manipulation is the art of thinking in binary."*
 
 | # | Problem | Status | Difficulty |
 |---|---------|--------|------------|
-| 481 | Check power of two | [🔗 Solution]() | ⭐ |
-| 482 | Count set bits | [🔗 Solution]() | ⭐⭐ |
-| 483 | Single number | [🔗 Solution]() | ⭐⭐ |
-| 484 | Two non-repeating numbers | [🔗 Solution]() | ⭐⭐⭐ |
-| 485 | Missing number | [🔗 Solution]() | ⭐ |
-| 486 | Subsets using bits | [🔗 Solution]() | ⭐⭐ |
-| 487 | XOR from 1 to N | [🔗 Solution]() | ⭐⭐ |
-| 488 | Fast exponentiation | [🔗 Solution]() | ⭐⭐ |
-| 489 | GCD | [🔗 Solution]() | ⭐ |
-| 490 | LCM | [🔗 Solution]() | ⭐ |
-| 491 | Sieve of Eratosthenes | [🔗 Solution]() | ⭐⭐ |
-| 492 | Prime factorization | [🔗 Solution]() | ⭐⭐ |
-| 493 | Modular exponentiation | [🔗 Solution]() | ⭐⭐ |
-| 494 | Modular inverse | [🔗 Solution]() | ⭐⭐⭐ |
-| 495 | Trailing zeros in factorial | [🔗 Solution]() | ⭐⭐ |
-| 496 | Pascal triangle | [🔗 Solution]() | ⭐⭐ |
-| 497 | nCr modulo p | [🔗 Solution]() | ⭐⭐⭐ |
-| 498 | Catalan numbers | [🔗 Solution]() | ⭐⭐⭐ |
-| 499 | Euler totient | [🔗 Solution]() | ⭐⭐⭐ |
-| 500 | Chinese remainder theorem | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 352 | Check power of two | [🔗 Solution]() | ⭐ |
+| 353 | Count set bits | [🔗 Solution]() | ⭐⭐ |
+| 354 | Single number | [🔗 Solution]() | ⭐⭐ |
+| 355 | Two non-repeating numbers | [🔗 Solution]() | ⭐⭐⭐ |
+| 356 | Missing number | [🔗 Solution]() | ⭐ |
+| 357 | Subsets using bits | [🔗 Solution]() | ⭐⭐ |
+| 358 | XOR from 1 to N | [🔗 Solution]() | ⭐⭐ |
+| 359 | Fast exponentiation | [🔗 Solution]() | ⭐⭐ |
+| 360 | GCD | [🔗 Solution]() | ⭐ |
+| 361 | LCM | [🔗 Solution]() | ⭐ |
+| 362 | Sieve of Eratosthenes | [🔗 Solution]() | ⭐⭐ |
+| 363 | Prime factorization | [🔗 Solution]() | ⭐⭐ |
+| 364 | Modular exponentiation | [🔗 Solution]() | ⭐⭐ |
+| 365 | Modular inverse | [🔗 Solution]() | ⭐⭐⭐ |
+| 366 | Trailing zeros in factorial | [🔗 Solution]() | ⭐⭐ |
+| 367 | Pascal triangle | [🔗 Solution]() | ⭐⭐ |
+| 368 | nCr modulo p | [🔗 Solution]() | ⭐⭐⭐ |
+| 369 | Catalan numbers | [🔗 Solution]() | ⭐⭐⭐ |
+| 370 | Euler totient | [🔗 Solution]() | ⭐⭐⭐ |
+| 371 | Chinese remainder theorem | [🔗 Solution]() | ⭐⭐⭐⭐ |
 
 ---
 
-## ⚡ Divide and Conquer
+## 8. Divide and Conquer
 
 > *"Divide and rule" — a powerful algorithmic paradigm*
 
 | # | Problem | Status | Difficulty |
 |---|---------|--------|------------|
-| 581 | Maximum subarray sum (Kadane's Algorithm) | [🔗 Solution]() | ⭐⭐ |
-| 582 | Majority element (⌊n/2⌋ times) | [🔗 Solution]() | ⭐⭐ |
-| 583 | Find minimum-maximum in array | [🔗 Solution]() | ⭐ |
-| 584 | Kth largest element | [🔗 Solution]() | ⭐⭐⭐ |
-| 585 | Count even numbers in an array | [🔗 Solution]() | ⭐ |
-| 586 | Print odd numbers of an array | [🔗 Solution]() | ⭐ |
-| 587 | Calculate sum of an array | [🔗 Solution]() | ⭐ |
-| 588 | Calculate sum of even numbers | [🔗 Solution]() | ⭐ |
-| 589 | Calculate $X^Y$ | [🔗 Solution]() | ⭐ |
-| 590 | Binary search | [🔗 Solution]() | ⭐ |
-| 591 | Merge sort | [🔗 Solution]() | ⭐⭐ |
-| 592 | Quick sort | [🔗 Solution]() | ⭐⭐ |
-| 593 | Count inversions in an array | [🔗 Solution]() | ⭐⭐⭐ |
-| 594 | Longest common prefix of N strings | [🔗 Solution]() | ⭐⭐ |
-| 595 | Closest pair of points (Euclidean distance) | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 596 | Segregate positive and negative numbers | [🔗 Solution]() | ⭐⭐ |
-| 597 | Count occurrences of an element | [🔗 Solution]() | ⭐ |
+| 372 | Maximum subarray sum (Kadane's Algorithm) | [🔗 Solution]() | ⭐⭐ |
+| 373 | Majority element (⌊n/2⌋ times) | [🔗 Solution]() | ⭐⭐ |
+| 374 | Find minimum-maximum in array | [🔗 Solution]() | ⭐ |
+| 375 | Kth largest element | [🔗 Solution]() | ⭐⭐⭐ |
+| 376 | Count even numbers in an array | [🔗 Solution]() | ⭐ |
+| 377 | Print odd numbers of an array | [🔗 Solution]() | ⭐ |
+| 378 | Calculate sum of an array | [🔗 Solution]() | ⭐ |
+| 379 | Calculate sum of even numbers | [🔗 Solution]() | ⭐ |
+| 380 | Calculate $X^Y$ | [🔗 Solution]() | ⭐ |
+| 381 | Binary search | [🔗 Solution]() | ⭐ |
+| 382 | Merge sort | [🔗 Solution]() | ⭐⭐ |
+| 383 | Quick sort | [🔗 Solution]() | ⭐⭐ |
+| 384 | Count inversions in an array | [🔗 Solution]() | ⭐⭐⭐ |
+| 385 | Longest common prefix of N strings | [🔗 Solution]() | ⭐⭐ |
+| 386 | Closest pair of points (Euclidean distance) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 387 | Segregate positive and negative numbers | [🔗 Solution]() | ⭐⭐ |
+| 388 | Count occurrences of an element | [🔗 Solution]() | ⭐ |
 
 ---
 
-## 🎯 Greedy Algorithm
+## 9. Greedy Algorithm
 
 > *"Take the best option now, worry about the rest later."*
 
@@ -894,41 +852,41 @@
 
 | # | Problem | Status | Difficulty |
 |---|---------|--------|------------|
-| 598 | Greedy Algorithm Fundamentals | [🔗 Solution]() | ⭐ |
-| 599 | Fractional Knapsack | [🔗 Solution]() | ⭐⭐ |
-| 600 | Thieves in warehouse | [🔗 Solution]() | ⭐⭐ |
-| 601 | Maximize your marks | [🔗 Solution]() | ⭐⭐ |
-| 602 | Activity Selection Problem | [🔗 Solution]() | ⭐⭐ |
-| 603 | Greedy Coin Change | [🔗 Solution]() | ⭐⭐ |
-| 604 | Finding Minimum Stops | [🔗 Solution]() | ⭐⭐⭐ |
-| 605 | Smallest set of unit-length intervals | [🔗 Solution]() | ⭐⭐⭐ |
-| 606 | Huffman Encoding | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 607 | Max Meeting in One Room | [🔗 Solution]() | ⭐⭐ |
-| 608 | Shop candy problem | [🔗 Solution]() | ⭐⭐ |
-| 609 | Reverse word in a given string | [🔗 Solution]() | ⭐ |
-| 610 | Survive on Island | [🔗 Solution]() | ⭐⭐⭐ |
-| 611 | Chocolate distribution problem | [🔗 Solution]() | ⭐⭐ |
-| 612 | Min cost of Ropes | [🔗 Solution]() | ⭐⭐ |
-| 613 | Job sequencing problem | [🔗 Solution]() | ⭐⭐⭐ |
-| 614 | Activity selection in hall room | [🔗 Solution]() | ⭐⭐⭐ |
-| 615 | Multiple Knapsack | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 389 | Greedy Algorithm Fundamentals | [🔗 Solution]() | ⭐ |
+| 390 | Fractional Knapsack | [🔗 Solution]() | ⭐⭐ |
+| 391 | Thieves in warehouse | [🔗 Solution]() | ⭐⭐ |
+| 392 | Maximize your marks | [🔗 Solution]() | ⭐⭐ |
+| 393 | Activity Selection Problem | [🔗 Solution]() | ⭐⭐ |
+| 394 | Greedy Coin Change | [🔗 Solution]() | ⭐⭐ |
+| 395 | Finding Minimum Stops | [🔗 Solution]() | ⭐⭐⭐ |
+| 396 | Smallest set of unit-length intervals | [🔗 Solution]() | ⭐⭐⭐ |
+| 397 | Huffman Encoding | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| 398 | Max Meeting in One Room | [🔗 Solution]() | ⭐⭐ |
+| 399 | Shop candy problem | [🔗 Solution]() | ⭐⭐ |
+| 400 | Reverse word in a given string | [🔗 Solution]() | ⭐ |
+| 401 | Survive on Island | [🔗 Solution]() | ⭐⭐⭐ |
+| 402 | Chocolate distribution problem | [🔗 Solution]() | ⭐⭐ |
+| 403 | Min cost of Ropes | [🔗 Solution]() | ⭐⭐ |
+| 404 | Job sequencing problem | [🔗 Solution]() | ⭐⭐⭐ |
+| 405 | Activity selection in hall room | [🔗 Solution]() | ⭐⭐⭐ |
+| 406 | Multiple Knapsack | [🔗 Solution]() | ⭐⭐⭐⭐ |
 
 ---
 
-## 📊 Sorting Algorithm
+## 10. Sorting Algorithm
 
 > *"A sorted array is half the solution to many problems."*
 
 <div align="center">
 
-| Algorithm | Best | Average | Worst | Space | Stability | Status |
-|-----------|------|---------|-------|-------|-----------|--------|
-| 616. Insertion Sort | O(n) | O(n²) | O(n²) | O(1) | ✓ Stable | [🔗 Solution]() |
-| 617. Selection Sort | O(n²) | O(n²) | O(n²) | O(1) | ✗ Unstable | [🔗 Solution]() |
-| 618. Bubble Sort | O(n) | O(n²) | O(n²) | O(1) | ✓ Stable | [🔗 Solution]() |
-| 619. Count Sort | O(n+k) | O(n+k) | O(n+k) | O(k) | ✓ Stable | [🔗 Solution]() |
-| 620. Quick Sort | O(n log n) | O(n log n) | O(n²) | O(log n) | ✗ Unstable | [🔗 Solution]() |
-| 621. Merge Sort | O(n log n) | O(n log n) | O(n log n) | O(n) | ✓ Stable | [🔗 Solution]() |
+| # | Algorithm | Best | Average | Worst | Space | Stability | Status |
+|---|-----------|------|---------|-------|-------|-----------|--------|
+| 407 | Insertion Sort | O(n) | O(n²) | O(n²) | O(1) | ✓ Stable | [🔗 Solution]() |
+| 408 | Selection Sort | O(n²) | O(n²) | O(n²) | O(1) | ✗ Unstable | [🔗 Solution]() |
+| 409 | Bubble Sort | O(n) | O(n²) | O(n²) | O(1) | ✓ Stable | [🔗 Solution]() |
+| 410 | Count Sort | O(n+k) | O(n+k) | O(n+k) | O(k) | ✓ Stable | [🔗 Solution]() |
+| 411 | Quick Sort | O(n log n) | O(n log n) | O(n²) | O(log n) | ✗ Unstable | [🔗 Solution]() |
+| 412 | Merge Sort | O(n log n) | O(n log n) | O(n log n) | O(n) | ✓ Stable | [🔗 Solution]() |
 
 </div>
 
@@ -936,21 +894,13 @@
 
 <div align="center">
 
-**🏁 600+ Problems and Counting!**
+**🏁 412+ Problems and Counting!**
 
 *Every problem solved brings you one step closer to mastery.*
 
 [⬆ Back to Top](#-dsa-problem-solvers-hub)
 
 </div>
-
-
-
-
-
-
-
-
 
 ## 🚦 How to Use
 
