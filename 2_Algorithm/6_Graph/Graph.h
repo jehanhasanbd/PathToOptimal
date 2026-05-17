@@ -44,3 +44,10 @@ inline void printVisitedSeq(vector<vector<int>> &visitedSeq) {
         cout<<endl;
     }
 }
+
+inline void printSeq(vector<int> &Seq) {
+    for (auto x: Seq) {
+        cout<< x << " ";
+    }
+}
+

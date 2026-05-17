@@ -330,8 +330,8 @@
 
 | # | Problem | Status | Difficulty |
 |---|---------|--------|------------|
-| 155 | BFS (Breadth-First Search) | [🔗 Solution](6_Graph/311_BFS.cpp) | ⭐⭐ |
-| 156 | DFS (Depth-First Search) | [🔗 Solution](6_Graph/312_DFS.cpp) | ⭐⭐ |
+| 155 | BFS (Breadth-First Search) | [🔗 Solution](6_Graph/155_BFS.cpp) | ⭐⭐ |
+| 156 | DFS (Depth-First Search) | [🔗 Solution](6_Graph/156_DFS.cpp) | ⭐⭐ |
 | 157 | Graph representation (Adjacency matrix vs list) | [🔗 Solution]() ❌ | ⭐ |
 | 158 | Count connected components | [🔗 Solution]() ❌ | ⭐⭐ |
 | 159 | Number of islands | [🔗 Solution]() ❌ | ⭐⭐ |
@@ -351,12 +351,12 @@
 
 <br>
 
-| # | Problem | Status | Difficulty |
-|---|---------|--------|------------|
-| 160 | Check cycle in Undirected Graph (BFS) | [🔗 Solution]() | ⭐⭐⭐ |
-| 161 | Check cycle in Undirected Graph (DFS) | [🔗 Solution]() | ⭐⭐⭐ |
-| 162 | Check cycle in Directed Graph (DFS) | [🔗 Solution]() | ⭐⭐⭐ |
-| 163 | Check cycle in Directed Graph (BFS / Kahn's Algorithm) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| # | Problem | Status                                                    | Difficulty |
+|---|---------|-----------------------------------------------------------|------------|
+| 160 | Check cycle in Undirected Graph (BFS) | [🔗 Solution](6_Graph/160_Check_Cycle_Undirected_BFS.cpp)                                   | ⭐⭐⭐ |
+| 161 | Check cycle in Undirected Graph (DFS) | [🔗 Solution](6_Graph/161_Check_Cycle_Undirected_DFS.cpp) | ⭐⭐⭐ |
+| 162 | Check cycle in Directed Graph (DFS) | [🔗 Solution](6_Graph/162_Check_Cycle_Directed_DFS.cpp)                                   | ⭐⭐⭐ |
+| 163 | Check cycle in Directed Graph (BFS / Kahn's Algorithm) | [🔗 Solution](6_Graph/163_Check_Cycle_Topological_Sort_KhanAlgo.cpp)                                   | ⭐⭐⭐⭐ |
 
 <br>
 
@@ -374,12 +374,12 @@
   <i>Topological ordering of a Directed Acyclic Graph (DAG)</i>
 </div>
 
-| # | Problem | Status | Difficulty |
-|---|---------|--------|------------|
-| 164 | Topological Sort (using DFS) | [🔗 Solution]() | ⭐⭐⭐ |
-| 165 | Topological Sort (Kahn's Algorithm) | [🔗 Solution]() | ⭐⭐⭐ |
-| 166 | Alien dictionary | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
-| 167 | Course schedule | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| # | Problem | Status                                                   | Difficulty |
+|---|---------|----------------------------------------------------------|------------|
+| 164 | Topological Sort (using DFS) | [🔗 Solution](6_Graph/164_Topological_Sort_DFS.cpp)      | ⭐⭐⭐ |
+| 165 | Topological Sort (Kahn's Algorithm) | [🔗 Solution](6_Graph/165_Topological_Sort_KhanAlgo.cpp) | ⭐⭐⭐ |
+| 166 | Alien dictionary | [🔗 Solution ❌](6_Graph/)                                | ⭐⭐⭐⭐⭐ |
+| 167 | Course schedule | [🔗 Solution ❌](6_Graph/)                                | ⭐⭐⭐⭐ |
 
 </details>
 
@@ -393,10 +393,10 @@
   <i>Finding the shortest route in a graph</i>
 </div>
 
-| # | Problem | Status | Difficulty |
-|---|---------|--------|------------|
-| 168 | Shortest path in undirected graph (BFS) | [🔗 Solution]() | ⭐⭐ |
-| 169 | Shortest distance in undirected graph (BFS) | [🔗 Solution]() | ⭐⭐ |
+| # | Problem | Status                  | Difficulty |
+|---|---------|-------------------------|------------|
+| 168 | Shortest path in undirected graph (BFS) | [🔗 Solution](6_Graph/) | ⭐⭐ |
+| 169 | Shortest distance in undirected graph (BFS) | [🔗 Solution](6_Graph/) | ⭐⭐ |
 
 <div align="center">
   <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/shortest-path-in-a-directed-acyclic-graph-1-1635369661.png" width="350" alt="DAG Shortest Path">
@@ -404,9 +404,9 @@
   <i>Shortest path in Directed Acyclic Graph</i>
 </div>
 
-| # | Problem | Status | Difficulty |
-|---|---------|--------|------------|
-| 170 | Shortest distance from source to all node (weighted DAG) | [🔗 Solution]() | ⭐⭐⭐ |
+| # | Problem | Status                  | Difficulty |
+|---|---------|-------------------------|------------|
+| 170 | Shortest distance from source to all node (weighted DAG) | [🔗 Solution](6_Graph/) | ⭐⭐⭐ |
 
 <div align="center">
   <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/untitled-diagram-15-6327.jpg" width="350" alt="Dijkstra">
@@ -414,9 +414,9 @@
   <i>Dijkstra's Algorithm visualization</i>
 </div>
 
-| # | Problem | Status | Difficulty |
-|---|---------|--------|------------|
-| 171 | Dijkstra's algorithm (Weighted Graph) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| # | Problem | Status                  | Difficulty |
+|---|---------|-------------------------|------------|
+| 171 | Dijkstra's algorithm (Weighted Graph) | [🔗 Solution](6_Graph/) | ⭐⭐⭐⭐ |
 
 <div align="center">
   <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/colimage-11780.png" width="350" alt="Bellman-Ford">
@@ -425,9 +425,9 @@
   <i>Bellman-Ford handling negative edges</i>
 </div>
 
-| # | Problem | Status | Difficulty |
-|---|---------|--------|------------|
-| 172 | Bellman-Ford (Weighted Graph with negative edges) | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
+| # | Problem | Status                  | Difficulty |
+|---|---------|-------------------------|------------|
+| 172 | Bellman-Ford (Weighted Graph with negative edges) | [🔗 Solution](6_Graph/) | ⭐⭐⭐⭐⭐ |
 
 <div align="center">
   <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/weiGraph4.png" width="350" alt="Floyd-Warshall">
@@ -435,9 +435,9 @@
   <i>All-pairs shortest path</i>
 </div>
 
-| # | Problem | Status | Difficulty |
-|---|---------|--------|------------|
-| 173 | Floyd-Warshall (All pair shortest path) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| # | Problem | Status                  | Difficulty |
+|---|---------|-------------------------|------------|
+| 173 | Floyd-Warshall (All pair shortest path) | [🔗 Solution](6_Graph/) | ⭐⭐⭐⭐ |
 
 </details>
 
@@ -451,10 +451,10 @@
   <i>Minimum Spanning Tree connecting all nodes with minimum weight</i>
 </div>
 
-| # | Problem | Status | Difficulty |
-|---|---------|--------|------------|
-| 174 | Minimum Spanning Tree (Prim's Algorithm) | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 175 | Minimum Spanning Tree (Kruskal Algorithm / Disjoint Set) | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| # | Problem | Status                  | Difficulty |
+|---|---------|-------------------------|------------|
+| 174 | Minimum Spanning Tree (Prim's Algorithm) | [🔗 Solution](6_Graph/) | ⭐⭐⭐⭐ |
+| 175 | Minimum Spanning Tree (Kruskal Algorithm / Disjoint Set) | [🔗 Solution](6_Graph/) | ⭐⭐⭐⭐ |
 
 ---
 
@@ -471,10 +471,10 @@
   <i>Articulation points (cut vertices) in a graph</i>
 </div>
 
-| # | Problem | Status | Difficulty |
-|---|---------|--------|------------|
-| 176 | Finding Bridges in a graph | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 177 | Finding Articulation Points (Tarjan's Algorithm) | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
+| # | Problem | Status                  | Difficulty |
+|---|---------|-------------------------|------------|
+| 176 | Finding Bridges in a graph | [🔗 Solution](6_Graph/) | ⭐⭐⭐⭐ |
+| 177 | Finding Articulation Points (Tarjan's Algorithm) | [🔗 Solution](6_Graph/) | ⭐⭐⭐⭐⭐ |
 
 <div align="center">
   <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/1.png" width="350" alt="Strongly Connected Components">
@@ -482,10 +482,10 @@
   <i>Strongly Connected Components (Kosaraju's Algorithm)</i>
 </div>
 
-| # | Problem | Status | Difficulty |
-|---|---------|--------|------------|
-| 178 | Number of Strongly Connected Components (Kosaraju) | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
-| 179 | Strongly Connected Components List (Kosaraju) | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
+| # | Problem | Status                  | Difficulty |
+|---|---------|-------------------------|------------|
+| 178 | Number of Strongly Connected Components (Kosaraju) | [🔗 Solution](6_Graph/) | ⭐⭐⭐⭐⭐ |
+| 179 | Strongly Connected Components List (Kosaraju) | [🔗 Solution](6_Graph/) | ⭐⭐⭐⭐⭐ |
 
 </details>
 
@@ -493,13 +493,13 @@
 <summary><h4>⚡ Grid Problems Graph Algorithms</h4></summary>
 
 
-| # | Problem | Status | Difficulty |
-|---|---------|--------|------------|
-| 180 | Flood fill | [🔗 Solution]() | ⭐⭐ |
-| 181 | Rotten oranges | [🔗 Solution]() | ⭐⭐⭐ |
-| 182 | Shortest path in grid | [🔗 Solution]() | ⭐⭐⭐ |
-| 183 | Number of enclaves | [🔗 Solution]() | ⭐⭐⭐ |
-| 184 | Surrounded regions | [🔗 Solution]() | ⭐⭐⭐ |
+| # | Problem | Status                  | Difficulty |
+|---|---------|-------------------------|------------|
+| 180 | Flood fill | [🔗 Solution](6_Graph/) | ⭐⭐ |
+| 181 | Rotten oranges | [🔗 Solution](6_Graph/) | ⭐⭐⭐ |
+| 182 | Shortest path in grid | [🔗 Solution](6_Graph/) | ⭐⭐⭐ |
+| 183 | Number of enclaves | [🔗 Solution](6_Graph/) | ⭐⭐⭐ |
+| 184 | Surrounded regions | [🔗 Solution](6_Graph/) | ⭐⭐⭐ |
 
 </details>
 
@@ -508,11 +508,11 @@
 
 
 
-| # | Problem | Status | Difficulty |
-|---|---------|--------|------------|
-| 185 | Graph Coloring Problem | [🔗 Solution]() | ⭐⭐⭐⭐ |
-| 186 | Maximum Flow Problem | [🔗 Solution]() | ⭐⭐⭐⭐⭐ |
-| 187 | Word ladder | [🔗 Solution]() | ⭐⭐⭐⭐ |
+| # | Problem | Status                  | Difficulty |
+|---|---------|-------------------------|------------|
+| 185 | Graph Coloring Problem | [🔗 Solution](6_Graph/) | ⭐⭐⭐⭐ |
+| 186 | Maximum Flow Problem | [🔗 Solution](6_Graph/) | ⭐⭐⭐⭐⭐ |
+| 187 | Word ladder | [🔗 Solution](6_Graph/) | ⭐⭐⭐⭐ |
 
 </details>
 
@@ -523,13 +523,13 @@
 
 ### 📐 General Basics
 
-| # | Problem | Status | Difficulty |
-|---|---------|--------|------------|
+| # | Problem | Status                | Difficulty |
+|---|---------|-----------------------|------------|
 | 188 | Recursive implementation of factorial | [🔗 Solution]() | ⭐ |
 | 189 | Recursive power calculation ($x^y$) | [🔗 Solution]() | ⭐ |
-| 190 | Recursive nth Fibonacci number | [🔗 Solution]() | ⭐ |
-| 191 | Recursive palindrome check | [🔗 Solution]() | ⭐⭐ |
-| 192 | Recursive even numbers in range | [🔗 Solution]() | ⭐ |
+| 190 | Recursive nth Fibonacci number | [🔗 Solution]()       | ⭐ |
+| 191 | Recursive palindrome check | [🔗 Solution]()       | ⭐⭐ |
+| 192 | Recursive even numbers in range | [🔗 Solution]()       | ⭐ |
 
 ---
 
