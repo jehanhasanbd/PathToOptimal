@@ -381,7 +381,7 @@
 ### 🌐 Basics of Graph Algorithms
 
 <div align="center">
-  <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/images.png" width="350" alt="BFS Diagram">
+  <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/images.png" width="350" alt="BFS Diagram">
   <br>
   <i>Breadth-First Search visualization</i>
 </div>
