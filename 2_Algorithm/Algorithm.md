@@ -395,8 +395,8 @@
 
 | # | Problem | Status                  | Difficulty |
 |---|---------|-------------------------|------------|
-| 168 | Shortest path in undirected graph (BFS) | [🔗 Solution](6_Graph/) | ⭐⭐ |
-| 169 | Shortest distance in undirected graph (BFS) | [🔗 Solution](6_Graph/) | ⭐⭐ |
+| 168 | Shortest path in undirected graph (BFS) | [🔗 Solution](6_Graph/168_Shortest_path_undirected_graph.cpp) | ⭐⭐ |
+| 169 | Shortest distance in undirected graph (BFS) | [🔗 Solution](6_Graph/169_Shortest_distance_undirected_graph.cpp) | ⭐⭐ |
 
 <div align="center">
   <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/shortest-path-in-a-directed-acyclic-graph-1-1635369661.png" width="350" alt="DAG Shortest Path">
@@ -406,7 +406,7 @@
 
 | # | Problem | Status                  | Difficulty |
 |---|---------|-------------------------|------------|
-| 170 | Shortest distance from source to all node (weighted DAG) | [🔗 Solution](6_Graph/) | ⭐⭐⭐ |
+| 170 | Shortest distance from source to all node (weighted DAG) | [🔗 Solution](6_Graph/170_Shortest_distance_from_source_to_all_node_(weighted_DAG).cpp) | ⭐⭐⭐ |
 
 <div align="center">
   <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/untitled-diagram-15-6327.jpg" width="350" alt="Dijkstra">
@@ -416,7 +416,7 @@
 
 | # | Problem | Status                  | Difficulty |
 |---|---------|-------------------------|------------|
-| 171 | Dijkstra's algorithm (Weighted Graph) | [🔗 Solution](6_Graph/) | ⭐⭐⭐⭐ |
+| 171 | Dijkstra's algorithm (Weighted Graph) | [🔗 Solution](6_Graph/171_Djkstra_Shortest_distance_from_source_to_all_node_(weighted).cpp) | ⭐⭐⭐⭐ |
 
 <div align="center">
   <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/colimage-11780.png" width="350" alt="Bellman-Ford">
