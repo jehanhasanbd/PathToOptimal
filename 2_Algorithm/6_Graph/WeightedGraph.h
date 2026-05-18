@@ -12,6 +12,7 @@ class WeightedGraph {
 public:
     unordered_map<int, list<pair<int,int>>> adjList;
     vector<vector<int>> edges;
+    vector<vector<int>> adjMatrix;
 
     void addEdge(int from, int to, int weight,bool direction) {
         adjList[to];
@@ -25,6 +26,20 @@ public:
         edge.push_back(to);
         edge.push_back(weight);
         edges.push_back(edge);
+    }
+
+    void prepareAdjMatrix(int vertex) {
+        adjMatrix.assign(vertex, vector<int>(vertex, INT_MAX));
+        for (int i = 0; i < vertex; ++i) {
+            adjMatrix[i][i] = 0;
+        }
+    }
+
+    void edgeAddAdjMatrix(int from, int to, int weight,bool direction) {
+        adjMatrix[from][to] = weight;
+        if (!direction) {
+            adjMatrix[to][from] = weight;
+        }
     }
 
     void printAdjList() {
