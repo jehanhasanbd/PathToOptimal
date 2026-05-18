@@ -11,6 +11,7 @@ using namespace std;
 class Graph {
 public:
     unordered_map<int, list<int>> adjList;
+
     vector<vector<int>> edges;
 
     void addEdge(int from, int to, bool direction) {
@@ -37,6 +38,17 @@ public:
 
     int vectexCount() {
         return adjList.size();
+    }
+
+    static unordered_map<int, list<int>> makeReverseAdjList(unordered_map<int, list<int>> &adjList) {
+        unordered_map<int, list<int>> reverseAdjList;
+        for (auto node: adjList) {
+            reverseAdjList[node.first];
+            for (auto neighbor: node.second) {
+                reverseAdjList[neighbor].push_back(node.first);
+            }
+        }
+        return reverseAdjList;
     }
 };
 

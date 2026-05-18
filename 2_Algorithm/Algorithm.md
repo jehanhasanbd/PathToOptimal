@@ -471,10 +471,10 @@
   <i>Articulation points (cut vertices) in a graph</i>
 </div>
 
-| # | Problem | Status                  | Difficulty |
-|---|---------|-------------------------|------------|
-| 176 | Finding Bridges in a graph | [🔗 Solution](6_Graph/) | ⭐⭐⭐⭐ |
-| 177 | Finding Articulation Points (Tarjan's Algorithm) | [🔗 Solution](6_Graph/) | ⭐⭐⭐⭐⭐ |
+| # | Problem | Status                                                          | Difficulty |
+|---|---------|-----------------------------------------------------------------|------------|
+| 176 | Finding Bridges in a graph | [🔗 Solution](6_Graph/176_Find_Bridge.cpp)                      | ⭐⭐⭐⭐ |
+| 177 | Finding Articulation Points (Tarjan's Algorithm) | [🔗 Solution](6_Graph/177_Find_Articulation_Point_TarjanAlgo.cpp) | ⭐⭐⭐⭐⭐ |
 
 <div align="center">
   <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/1.png" width="350" alt="Strongly Connected Components">
@@ -484,8 +484,8 @@
 
 | # | Problem | Status                  | Difficulty |
 |---|---------|-------------------------|------------|
-| 178 | Number of Strongly Connected Components (Kosaraju) | [🔗 Solution](6_Graph/) | ⭐⭐⭐⭐⭐ |
-| 179 | Strongly Connected Components List (Kosaraju) | [🔗 Solution](6_Graph/) | ⭐⭐⭐⭐⭐ |
+| 178 | Number of Strongly Connected Components (Kosaraju) | [🔗 Solution](6_Graph/178_No_Strongly_Connected_Componant_Kosaraju.cpp) | ⭐⭐⭐⭐⭐ |
+| 179 | Strongly Connected Components List (Kosaraju) | [🔗 Solution](6_Graph/179_Strongly_Connected_Component_List_Kosaraju.cpp) | ⭐⭐⭐⭐⭐ |
 
 </details>
 
@@ -493,13 +493,13 @@
 <summary><h4>⚡ Grid Problems Graph Algorithms</h4></summary>
 
 
-| # | Problem | Status                  | Difficulty |
-|---|---------|-------------------------|------------|
-| 180 | Flood fill | [🔗 Solution](6_Graph/) | ⭐⭐ |
-| 181 | Rotten oranges | [🔗 Solution](6_Graph/) | ⭐⭐⭐ |
-| 182 | Shortest path in grid | [🔗 Solution](6_Graph/) | ⭐⭐⭐ |
-| 183 | Number of enclaves | [🔗 Solution](6_Graph/) | ⭐⭐⭐ |
-| 184 | Surrounded regions | [🔗 Solution](6_Graph/) | ⭐⭐⭐ |
+| # | Problem | Status                    | Difficulty |
+|---|---------|---------------------------|------------|
+| 180 | Flood fill | [🔗 Solution](6_Graph/) ❌ | ⭐⭐ |
+| 181 | Rotten oranges | [🔗 Solution](6_Graph/) ❌ | ⭐⭐⭐ |
+| 182 | Shortest path in grid | [🔗 Solution](6_Graph/) ❌ | ⭐⭐⭐ |
+| 183 | Number of enclaves | [🔗 Solution](6_Graph/) ❌ | ⭐⭐⭐ |
+| 184 | Surrounded regions | [🔗 Solution](6_Graph/) ❌ | ⭐⭐⭐ |
 
 </details>
 
@@ -508,11 +508,11 @@
 
 
 
-| # | Problem | Status                  | Difficulty |
-|---|---------|-------------------------|------------|
-| 185 | Graph Coloring Problem | [🔗 Solution](6_Graph/) | ⭐⭐⭐⭐ |
-| 186 | Maximum Flow Problem | [🔗 Solution](6_Graph/) | ⭐⭐⭐⭐⭐ |
-| 187 | Word ladder | [🔗 Solution](6_Graph/) | ⭐⭐⭐⭐ |
+| # | Problem | Status                    | Difficulty |
+|---|---------|---------------------------|------------|
+| 185 | Graph Coloring Problem | [🔗 Solution](6_Graph/) ❌ | ⭐⭐⭐⭐ |
+| 186 | Maximum Flow Problem | [🔗 Solution](6_Graph/) ❌ | ⭐⭐⭐⭐⭐ |
+| 187 | Word ladder | [🔗 Solution](6_Graph/) ❌ | ⭐⭐⭐⭐ |
 
 </details>
 
