@@ -427,7 +427,7 @@
 
 | # | Problem | Status                  | Difficulty |
 |---|---------|-------------------------|------------|
-| 172 | Bellman-Ford (Weighted Graph with negative edges) | [🔗 Solution](6_Graph/) | ⭐⭐⭐⭐⭐ |
+| 172 | Bellman-Ford (Weighted Graph with negative edges) | [🔗 Solution](6_Graph/172_BellmonFord_Shortest_distance(NegWeighted).cpp) | ⭐⭐⭐⭐⭐ |
 
 <div align="center">
   <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/weiGraph4.png" width="350" alt="Floyd-Warshall">
@@ -437,7 +437,7 @@
 
 | # | Problem | Status                  | Difficulty |
 |---|---------|-------------------------|------------|
-| 173 | Floyd-Warshall (All pair shortest path) | [🔗 Solution](6_Graph/) | ⭐⭐⭐⭐ |
+| 173 | Floyd-Warshall (All pair shortest path) | [🔗 Solution](6_Graph/173_Floyd_Warshal_Shortest_distance(ALl_Pair).cpp) | ⭐⭐⭐⭐ |
 
 </details>
 
@@ -453,8 +453,8 @@
 
 | # | Problem | Status                  | Difficulty |
 |---|---------|-------------------------|------------|
-| 174 | Minimum Spanning Tree (Prim's Algorithm) | [🔗 Solution](6_Graph/) | ⭐⭐⭐⭐ |
-| 175 | Minimum Spanning Tree (Kruskal Algorithm / Disjoint Set) | [🔗 Solution](6_Graph/) | ⭐⭐⭐⭐ |
+| 174 | Minimum Spanning Tree (Prim's Algorithm) | [🔗 Solution](6_Graph/174_MST_Prims_Algo.cpp) | ⭐⭐⭐⭐ |
+| 175 | Minimum Spanning Tree (Kruskal Algorithm / Disjoint Set) | [🔗 Solution](6_Graph/175_MST_Kruskal_Algo.cpp) | ⭐⭐⭐⭐ |
 
 ---
 
