@@ -17,33 +17,33 @@
 <details open>
 <summary><h2>💻 A) Input/Output, Basics, Conditionals (1–25)</h2></summary>
 
-| # | Problem | Solution | Status |
-|---|---------|----------|--------|
-| 1 | Read two integers and print their sum | [🔗 Solution](1_Input_Output_Basics_Conditionals/1_Read_two_integers_and_print_their_sum.cpp) | ✅ |
-| 2 | Read two integers and print their difference and product | [🔗 Solution](1_Input_Output_Basics_Conditionals/2_Print_difference_and_multipliation.cpp) | ✅ |
-| 3 | Read two integers and print quotient and remainder | [🔗 Solution](1_Input_Output_Basics_Conditionals/3_Quotation_remainder.cpp) | ✅ |
-| 4 | Swap two numbers (using temp variable) | [🔗 Solution](1_Input_Output_Basics_Conditionals/4_Swap_value_using_temp.cpp) | ✅ |
-| 5 | Swap two numbers (without temp variable) | [🔗 Solution](1_Input_Output_Basics_Conditionals/5_Swap_without_temp.cpp) | ✅ |
-| 6 | Convert Celsius to Fahrenheit | [🔗 Solution](1_Input_Output_Basics_Conditionals/6_Celcius_To_Fahrenheit.cpp) | ✅ |
-| 7 | Convert Fahrenheit to Celsius | [🔗 Solution](1_Input_Output_Basics_Conditionals/7_Fahrenheit_to_Celcius.cpp) | ✅ |
-| 8 | Compute area and perimeter of a rectangle | [🔗 Solution](1_Input_Output_Basics_Conditionals/8_Area_and_Perimeter_rectangle.cpp) | ✅ |
-| 9 | Compute area and circumference of a circle | [🔗 Solution](1_Input_Output_Basics_Conditionals/9_Area_and_Perimeter_circle.cpp) | ✅ |
-| 10 | Compute area of a triangle (base, height) | [🔗 Solution](1_Input_Output_Basics_Conditionals/10_Area_and_Perimeter_tiangle.cpp) | ✅ |
-| 11 | Check if a number is even or odd | [🔗 Solution](1_Input_Output_Basics_Conditionals/11_Even_or_Odd.cpp) | ✅ |
-| 12 | Check if a number is positive, negative, or zero | [🔗 Solution](1_Input_Output_Basics_Conditionals/12_Positive_negative_Zero.cpp) | ✅ |
-| 13 | Find the maximum of three numbers | [🔗 Solution](1_Input_Output_Basics_Conditionals/13_Find_max_of_Three.cpp) | ✅ |
-| 14 | Find the minimum of three numbers | [🔗 Solution](1_Input_Output_Basics_Conditionals/14_Find_min_of_Three.cpp) | ✅ |
-| 15 | Check if a year is a leap year | [🔗 Solution](1_Input_Output_Basics_Conditionals/15_Check_Leap_Year.cpp) | ✅ |
-| 16 | Check if a character is vowel or consonant | [🔗 Solution](1_Input_Output_Basics_Conditionals/16_Vowel_Consonent.cpp) | ✅ |
-| 17 | Check if a character is alphabet/digit/special | [🔗 Solution](1_Input_Output_Basics_Conditionals/17_Check_Alphabet.cpp) | ✅ |
-| 18 | Grade calculation from marks (A/B/C/Fail rules) | [🔗 Solution](1_Input_Output_Basics_Conditionals/18_check_grade.cpp) | ✅ |
-| 19 | Simple calculator using switch (+ − × ÷) | [🔗 Solution](1_Input_Output_Basics_Conditionals/19_Simple_Calculator.cpp) | ✅ |
-| 20 | Check if a number is divisible by 5 and 11 | [🔗 Solution](1_Input_Output_Basics_Conditionals/20_Divible_By_And.cpp) | ✅ |
-| 21 | Check if a number is divisible by 3 or 7 | [🔗 Solution](1_Input_Output_Basics_Conditionals/21_Divible_Or_And.cpp) | ✅ |
-| 22 | Find roots of a quadratic equation | [🔗 Solution](1_Input_Output_Basics_Conditionals/22_Find_Root_Quadratic.cpp) | ✅ |
-| 23 | Check if three sides form a valid triangle | [🔗 Solution](1_Input_Output_Basics_Conditionals/23_Valid_Triangles.cpp) | ✅ |
-| 24 | Identify triangle type (equilateral/isosceles/scalene) | [🔗 Solution](1_Input_Output_Basics_Conditionals/24_Check_Trinagle_Types.cpp) | ✅ |
-| 25 | Find profit or loss given cost and selling price | [🔗 Solution](1_Input_Output_Basics_Conditionals/) | ⏳ |
+| # | Problem | Solution                                                                                                    | Status |
+|---|---------|-------------------------------------------------------------------------------------------------------------|--------|
+| 1 | Read two integers and print their sum | [🔗 Solution](1_Programming/1_Input_Output_Basics_Conditionals/1_Read_two_integers_and_print_their_sum.cpp) | ✅ |
+| 2 | Read two integers and print their difference and product | [🔗 Solution](1_Programming/1_Input_Output_Basics_Conditionals/2_Print_difference_and_multipliation.cpp)                  | ✅ |
+| 3 | Read two integers and print quotient and remainder | [🔗 Solution](1_Programming/1_Input_Output_Basics_Conditionals/3_Quotation_remainder.cpp)                                 | ✅ |
+| 4 | Swap two numbers (using temp variable) | [🔗 Solution](1_Programming/1_Input_Output_Basics_Conditionals/4_Swap_value_using_temp.cpp)                               | ✅ |
+| 5 | Swap two numbers (without temp variable) | [🔗 Solution](1_Programming/1_Input_Output_Basics_Conditionals/5_Swap_without_temp.cpp)                                   | ✅ |
+| 6 | Convert Celsius to Fahrenheit | [🔗 Solution](1_Programming/1_Input_Output_Basics_Conditionals/6_Celcius_To_Fahrenheit.cpp)                               | ✅ |
+| 7 | Convert Fahrenheit to Celsius | [🔗 Solution](1_Programming/1_Input_Output_Basics_Conditionals/7_Fahrenheit_to_Celcius.cpp)                               | ✅ |
+| 8 | Compute area and perimeter of a rectangle | [🔗 Solution](1_Programming/1_Input_Output_Basics_Conditionals/8_Area_and_Perimeter_rectangle.cpp)                        | ✅ |
+| 9 | Compute area and circumference of a circle | [🔗 Solution](1_Programming/1_Input_Output_Basics_Conditionals/9_Area_and_Perimeter_circle.cpp)                           | ✅ |
+| 10 | Compute area of a triangle (base, height) | [🔗 Solution](1_Programming/1_Input_Output_Basics_Conditionals/10_Area_and_Perimeter_tiangle.cpp)                         | ✅ |
+| 11 | Check if a number is even or odd | [🔗 Solution](1_Programming/1_Input_Output_Basics_Conditionals/11_Even_or_Odd.cpp)                                        | ✅ |
+| 12 | Check if a number is positive, negative, or zero | [🔗 Solution](1_Programming/1_Input_Output_Basics_Conditionals/12_Positive_negative_Zero.cpp)                             | ✅ |
+| 13 | Find the maximum of three numbers | [🔗 Solution](1_Programming/1_Input_Output_Basics_Conditionals/13_Find_max_of_Three.cpp)                                  | ✅ |
+| 14 | Find the minimum of three numbers | [🔗 Solution](1_Programming/1_Input_Output_Basics_Conditionals/14_Find_min_of_Three.cpp)                                  | ✅ |
+| 15 | Check if a year is a leap year | [🔗 Solution](1_Programming/1_Input_Output_Basics_Conditionals/15_Check_Leap_Year.cpp)                                    | ✅ |
+| 16 | Check if a character is vowel or consonant | [🔗 Solution](1_Programming/1_Input_Output_Basics_Conditionals/16_Vowel_Consonent.cpp)                                    | ✅ |
+| 17 | Check if a character is alphabet/digit/special | [🔗 Solution](1_Programming/1_Input_Output_Basics_Conditionals/17_Check_Alphabet.cpp)                                     | ✅ |
+| 18 | Grade calculation from marks (A/B/C/Fail rules) | [🔗 Solution](1_Programming/1_Input_Output_Basics_Conditionals/18_check_grade.cpp)                                        | ✅ |
+| 19 | Simple calculator using switch (+ − × ÷) | [🔗 Solution](1_Programming/1_Input_Output_Basics_Conditionals/19_Simple_Calculator.cpp)                                  | ✅ |
+| 20 | Check if a number is divisible by 5 and 11 | [🔗 Solution](1_Programming/1_Input_Output_Basics_Conditionals/20_Divible_By_And.cpp)                                     | ✅ |
+| 21 | Check if a number is divisible by 3 or 7 | [🔗 Solution](1_Programming/1_Input_Output_Basics_Conditionals/21_Divible_Or_And.cpp)                                     | ✅ |
+| 22 | Find roots of a quadratic equation | [🔗 Solution](1_Programming/1_Input_Output_Basics_Conditionals/22_Find_Root_Quadratic.cpp)                                | ✅ |
+| 23 | Check if three sides form a valid triangle | [🔗 Solution](1_Programming/1_Input_Output_Basics_Conditionals/23_Valid_Triangles.cpp)                                    | ✅ |
+| 24 | Identify triangle type (equilateral/isosceles/scalene) | [🔗 Solution](1_Programming/1_Input_Output_Basics_Conditionals/24_Check_Trinagle_Types.cpp)                               | ✅ |
+| 25 | Find profit or loss given cost and selling price | [🔗 Solution](1_Programming/1_Input_Output_Basics_Conditionals/)                                                          | ⏳ |
 
 </details>
 
@@ -339,18 +339,18 @@
 <details>
 <summary><b>⚡ Singly Linked List </b> (10 problems)</summary>
 
-| # | Problem | Solution | Status |
-|---|---------|----------|--------|
-| 1 | Create first node | [Link](1_Linked_List/1_Create_First_node_SLL.cpp) | ✅ |
-| 2 | Add node at end | [Link](1_Linked_List/2_Add_node_at_end_SLL.cpp) | ✅ |
-| 3 | Add node at beginning | [Link](1_Linked_List/3_Add_node_at_beg_SLL.cpp) | ✅ |
-| 4 | Add node at position | [Link](1_Linked_List/4_Add_node_at_pos_SLL.cpp) | ✅ |
-| 5 | Delete first node | [Link](1_Linked_List/5_Delete_first_node_SLL.cpp) | ✅ |
-| 6 | Delete last node | [Link](1_Linked_List/6_Delete_last_node_SLL.cpp) | ✅ |
-| 7 | Delete node at position | [Link](1_Linked_List/7_Del_node_at_pos_SLL.cpp) | ✅ |
-| 8 | Delete full linked list | [Link](1_Linked_List/8_Delete_full_linked_list_SLL.cpp) | ✅ |
-| 9 | Print Linked list | [Link]() | ❌ |
-| 10 | Count Node | [Link](1_Linked_List/10_count_node_SLL.cpp) | ✅ |
+| # | Problem | Solution                                                      | Status |
+|---|---------|---------------------------------------------------------------|--------|
+| 1 | Create first node | [Link](2_Algorithm/1_Linked_List/1_Create_First_node_SLL.cpp) | ✅ |
+| 2 | Add node at end | [Link](2_Algorithm/1_Linked_List/2_Add_node_at_end_SLL.cpp)              | ✅ |
+| 3 | Add node at beginning | [Link](2_Algorithm/1_Linked_List/3_Add_node_at_beg_SLL.cpp)              | ✅ |
+| 4 | Add node at position | [Link](2_Algorithm/1_Linked_List/4_Add_node_at_pos_SLL.cpp)              | ✅ |
+| 5 | Delete first node | [Link](2_Algorithm/1_Linked_List/5_Delete_first_node_SLL.cpp)            | ✅ |
+| 6 | Delete last node | [Link](2_Algorithm/1_Linked_List/6_Delete_last_node_SLL.cpp)             | ✅ |
+| 7 | Delete node at position | [Link](2_Algorithm/1_Linked_List/7_Del_node_at_pos_SLL.cpp)              | ✅ |
+| 8 | Delete full linked list | [Link](2_Algorithm/1_Linked_List/8_Delete_full_linked_list_SLL.cpp)      | ✅ |
+| 9 | Print Linked list | [Link](2_Algorithm/)                                                     | ❌ |
+| 10 | Count Node | [Link](2_Algorithm/1_Linked_List/10_count_node_SLL.cpp)                  | ✅ |
 
 </details>
 
@@ -359,16 +359,16 @@
 
 | # | Problem | Solution | Status |
 |---|---------|----------|--------|
-| 11 | Create first node | [Link](1_Linked_List/16_Create_First_node_DLL.cpp) | ✅ |
-| 12 | Add node at end | [Link](1_Linked_List/17_Add_node_at_end_DLL.cpp) | ✅ |
-| 13 | Add node at beginning | [Link]() | ❌ |
-| 14 | Add node at position | [Link]() | ❌ |
-| 15 | Delete first node | [Link]() | ❌ |
-| 16 | Delete last node | [Link]() | ❌ |
-| 17 | Delete node at position | [Link]() | ❌ |
-| 18 | Delete full linked list | [Link]() | ❌ |
-| 19 | Print Linked list | [Link]() | ❌ |
-| 20 | Count Node | [Link]() | ❌ |
+| 11 | Create first node | [Link](2_Algorithm/1_Linked_List/16_Create_First_node_DLL.cpp) | ✅ |
+| 12 | Add node at end | [Link](2_Algorithm/1_Linked_List/17_Add_node_at_end_DLL.cpp) | ✅ |
+| 13 | Add node at beginning | [Link](2_Algorithm/) | ❌ |
+| 14 | Add node at position | [Link](2_Algorithm/) | ❌ |
+| 15 | Delete first node | [Link](2_Algorithm/) | ❌ |
+| 16 | Delete last node | [Link](2_Algorithm/) | ❌ |
+| 17 | Delete node at position | [Link](2_Algorithm/) | ❌ |
+| 18 | Delete full linked list | [Link](2_Algorithm/) | ❌ |
+| 19 | Print Linked list | [Link](2_Algorithm/) | ❌ |
+| 20 | Count Node | [Link](2_Algorithm/) | ❌ |
 
 </details>
 
@@ -377,16 +377,16 @@
 
 | # | Problem | Solution | Status |
 |---|---------|----------|--------|
-| 21 | Create first node | [Link](1_Linked_List/31_Create_First_node_CSLL.cpp) | ✅ |
-| 22 | Add node at end | [Link]() | ❌ |
-| 23 | Add node at beginning | [Link]() | ❌ |
-| 24 | Add node at position | [Link]() | ❌ |
-| 25 | Delete first node | [Link]() | ❌ |
-| 26 | Delete last node | [Link]() | ❌ |
-| 27 | Delete node at position | [Link]() | ❌ |
-| 28 | Delete full linked list | [Link]() | ❌ |
-| 29 | Print Linked list | [Link]() | ❌ |
-| 30 | Count Node | [Link]() | ❌ |
+| 21 | Create first node | [Link](2_Algorithm/1_Linked_List/31_Create_First_node_CSLL.cpp) | ✅ |
+| 22 | Add node at end | [Link](2_Algorithm/) | ❌ |
+| 23 | Add node at beginning | [Link](2_Algorithm/) | ❌ |
+| 24 | Add node at position | [Link](2_Algorithm/) | ❌ |
+| 25 | Delete first node | [Link](2_Algorithm/) | ❌ |
+| 26 | Delete last node | [Link](2_Algorithm/) | ❌ |
+| 27 | Delete node at position | [Link](2_Algorithm/) | ❌ |
+| 28 | Delete full linked list | [Link](2_Algorithm/) | ❌ |
+| 29 | Print Linked list | [Link](2_Algorithm/) | ❌ |
+| 30 | Count Node | [Link](2_Algorithm/) | ❌ |
 
 </details>
 
@@ -395,16 +395,16 @@
 
 | # | Problem | Solution | Status |
 |---|---------|----------|--------|
-| 31 | Create first node | [Link]() | ❌ |
-| 32 | Add node at end | [Link]() | ❌ |
-| 33 | Add node at beginning | [Link]() | ❌ |
-| 34 | Add node at position | [Link]() | ❌ |
-| 35 | Delete first node | [Link]() | ❌ |
-| 36 | Delete last node | [Link]() | ❌ |
-| 37 | Delete node at position | [Link]() | ❌ |
-| 38 | Delete full linked list | [Link]() | ❌ |
-| 39 | Print Linked list | [Link]() | ❌ |
-| 40 | Count Node | [Link]() | ❌ |
+| 31 | Create first node | [Link](2_Algorithm/) | ❌ |
+| 32 | Add node at end | [Link](2_Algorithm/) | ❌ |
+| 33 | Add node at beginning | [Link](2_Algorithm/) | ❌ |
+| 34 | Add node at position | [Link](2_Algorithm/) | ❌ |
+| 35 | Delete first node | [Link](2_Algorithm/) | ❌ |
+| 36 | Delete last node | [Link](2_Algorithm/) | ❌ |
+| 37 | Delete node at position | [Link](2_Algorithm/) | ❌ |
+| 38 | Delete full linked list | [Link](2_Algorithm/) | ❌ |
+| 39 | Print Linked list | [Link](2_Algorithm/) | ❌ |
+| 40 | Count Node | [Link](2_Algorithm/) | ❌ |
 
 </details>
 
@@ -413,9 +413,9 @@
 
 | # | Problem | Solution | Status |
 |---|---------|----------|--------|
-| 41 | Insert in polynomial | [Link]() | ❌ |
-| 42 | Add polynomial | [Link]() | ❌ |
-| 43 | Multiply polynomial | [Link]() | ❌ |
+| 41 | Insert in polynomial | [Link](2_Algorithm/) | ❌ |
+| 42 | Add polynomial | [Link](2_Algorithm/) | ❌ |
+| 43 | Multiply polynomial | [Link](2_Algorithm/) | ❌ |
 
 </details>
 
@@ -609,8 +609,8 @@
 
 | # | Problem | Status | Difficulty |
 |---|---------|--------|------------|
-| 155 | BFS (Breadth-First Search) | [🔗 Solution](4_Graph/155_BFS.cpp) | ⭐⭐ |
-| 156 | DFS (Depth-First Search) | [🔗 Solution](4_Graph/156_DFS.cpp) | ⭐⭐ |
+| 155 | BFS (Breadth-First Search) | [🔗 Solution](2_Algorithm/4_Graph/155_BFS.cpp) | ⭐⭐ |
+| 156 | DFS (Depth-First Search) | [🔗 Solution](2_Algorithm/4_Graph/156_DFS.cpp) | ⭐⭐ |
 | 157 | Graph representation (Adjacency matrix vs list) | [🔗 Solution]() ❌ | ⭐ |
 | 158 | Count connected components | [🔗 Solution]() ❌ | ⭐⭐ |
 | 159 | Number of islands | [🔗 Solution]() ❌ | ⭐⭐ |
@@ -632,10 +632,10 @@
 
 | # | Problem | Status | Difficulty |
 |---|---------|--------|------------|
-| 160 | Check cycle in Undirected Graph (BFS) | [🔗 Solution](4_Graph/160_Check_Cycle_Undirected_BFS.cpp) | ⭐⭐⭐ |
-| 161 | Check cycle in Undirected Graph (DFS) | [🔗 Solution](4_Graph/161_Check_Cycle_Undirected_DFS.cpp) | ⭐⭐⭐ |
-| 162 | Check cycle in Directed Graph (DFS) | [🔗 Solution](4_Graph/162_Check_Cycle_Directed_DFS.cpp) | ⭐⭐⭐ |
-| 163 | Check cycle in Directed Graph (BFS / Kahn's Algorithm) | [🔗 Solution](4_Graph/163_Check_Cycle_Topological_Sort_KhanAlgo.cpp) | ⭐⭐⭐⭐ |
+| 160 | Check cycle in Undirected Graph (BFS) | [🔗 Solution](2_Algorithm/4_Graph/160_Check_Cycle_Undirected_BFS.cpp) | ⭐⭐⭐ |
+| 161 | Check cycle in Undirected Graph (DFS) | [🔗 Solution](2_Algorithm/4_Graph/161_Check_Cycle_Undirected_DFS.cpp) | ⭐⭐⭐ |
+| 162 | Check cycle in Directed Graph (DFS) | [🔗 Solution](2_Algorithm/4_Graph/162_Check_Cycle_Directed_DFS.cpp) | ⭐⭐⭐ |
+| 163 | Check cycle in Directed Graph (BFS / Kahn's Algorithm) | [🔗 Solution](2_Algorithm/4_Graph/163_Check_Cycle_Topological_Sort_KhanAlgo.cpp) | ⭐⭐⭐⭐ |
 
 <br>
 
@@ -653,8 +653,8 @@
 
 | # | Problem | Status | Difficulty |
 |---|---------|--------|------------|
-| 164 | Topological Sort (using DFS) | [🔗 Solution](4_Graph/164_Topological_Sort_DFS.cpp) | ⭐⭐⭐ |
-| 165 | Topological Sort (Kahn's Algorithm) | [🔗 Solution](4_Graph/165_Topological_Sort_KhanAlgo.cpp) | ⭐⭐⭐ |
+| 164 | Topological Sort (using DFS) | [🔗 Solution](2_Algorithm/4_Graph/164_Topological_Sort_DFS.cpp) | ⭐⭐⭐ |
+| 165 | Topological Sort (Kahn's Algorithm) | [🔗 Solution](2_Algorithm/4_Graph/165_Topological_Sort_KhanAlgo.cpp) | ⭐⭐⭐ |
 | 166 | Alien dictionary | [🔗 Solution ❌](4_Graph/) | ⭐⭐⭐⭐⭐ |
 | 167 | Course schedule | [🔗 Solution ❌](4_Graph/) | ⭐⭐⭐⭐ |
 
@@ -671,8 +671,8 @@
 
 | # | Problem | Status | Difficulty |
 |---|---------|--------|------------|
-| 168 | Shortest path in undirected graph (BFS) | [🔗 Solution](4_Graph/168_Shortest_path_undirected_graph.cpp) | ⭐⭐ |
-| 169 | Shortest distance in undirected graph (BFS) | [🔗 Solution](4_Graph/169_Shortest_distance_undirected_graph.cpp) | ⭐⭐ |
+| 168 | Shortest path in undirected graph (BFS) | [🔗 Solution](2_Algorithm/4_Graph/168_Shortest_path_undirected_graph.cpp) | ⭐⭐ |
+| 169 | Shortest distance in undirected graph (BFS) | [🔗 Solution](2_Algorithm/4_Graph/169_Shortest_distance_undirected_graph.cpp) | ⭐⭐ |
 
 <div align="center">
   <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/shortest-path-in-a-directed-acyclic-graph-1-1635369661.png" width="350" alt="DAG Shortest Path">
@@ -682,7 +682,7 @@
 
 | # | Problem | Status | Difficulty |
 |---|---------|--------|------------|
-| 170 | Shortest distance from source to all node (weighted DAG) | [🔗 Solution](4_Graph/170_Shortest_distance_from_source_to_all_node_(weighted_DAG).cpp) | ⭐⭐⭐ |
+| 170 | Shortest distance from source to all node (weighted DAG) | [🔗 Solution](2_Algorithm/4_Graph/170_Shortest_distance_from_source_to_all_node_(weighted_DAG).cpp) | ⭐⭐⭐ |
 
 <div align="center">
   <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/untitled-diagram-15-6327.jpg" width="350" alt="Dijkstra">
@@ -692,7 +692,7 @@
 
 | # | Problem | Status | Difficulty |
 |---|---------|--------|------------|
-| 171 | Dijkstra's algorithm (Weighted Graph) | [🔗 Solution](4_Graph/171_Djkstra_Shortest_distance_from_source_to_all_node_(weighted).cpp) | ⭐⭐⭐⭐ |
+| 171 | Dijkstra's algorithm (Weighted Graph) | [🔗 Solution](2_Algorithm/4_Graph/171_Djkstra_Shortest_distance_from_source_to_all_node_(weighted).cpp) | ⭐⭐⭐⭐ |
 
 <div align="center">
   <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/colimage-11780.png" width="350" alt="Bellman-Ford">
@@ -703,7 +703,7 @@
 
 | # | Problem | Status | Difficulty |
 |---|---------|--------|------------|
-| 172 | Bellman-Ford (Weighted Graph with negative edges) | [🔗 Solution](4_Graph/172_BellmonFord_Shortest_distance(NegWeighted).cpp) | ⭐⭐⭐⭐⭐ |
+| 172 | Bellman-Ford (Weighted Graph with negative edges) | [🔗 Solution](2_Algorithm/4_Graph/172_BellmonFord_Shortest_distance(NegWeighted).cpp) | ⭐⭐⭐⭐⭐ |
 
 <div align="center">
   <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/weiGraph4.png" width="350" alt="Floyd-Warshall">
@@ -713,7 +713,7 @@
 
 | # | Problem | Status | Difficulty |
 |---|---------|--------|------------|
-| 173 | Floyd-Warshall (All pair shortest path) | [🔗 Solution](4_Graph/173_Floyd_Warshal_Shortest_distance(ALl_Pair).cpp) | ⭐⭐⭐⭐ |
+| 173 | Floyd-Warshall (All pair shortest path) | [🔗 Solution](2_Algorithm/4_Graph/173_Floyd_Warshal_Shortest_distance(ALl_Pair).cpp) | ⭐⭐⭐⭐ |
 
 </details>
 
@@ -728,8 +728,8 @@
 
 | # | Problem | Status | Difficulty |
 |---|---------|--------|------------|
-| 174 | Minimum Spanning Tree (Prim's Algorithm) | [🔗 Solution](4_Graph/174_MST_Prims_Algo.cpp) | ⭐⭐⭐⭐ |
-| 175 | Minimum Spanning Tree (Kruskal Algorithm / Disjoint Set) | [🔗 Solution](4_Graph/175_MST_Kruskal_Algo.cpp) | ⭐⭐⭐⭐ |
+| 174 | Minimum Spanning Tree (Prim's Algorithm) | [🔗 Solution](2_Algorithm/4_Graph/174_MST_Prims_Algo.cpp) | ⭐⭐⭐⭐ |
+| 175 | Minimum Spanning Tree (Kruskal Algorithm / Disjoint Set) | [🔗 Solution](2_Algorithm/4_Graph/175_MST_Kruskal_Algo.cpp) | ⭐⭐⭐⭐ |
 
 </details>
 
@@ -744,8 +744,8 @@
 
 | # | Problem | Status | Difficulty |
 |---|---------|--------|------------|
-| 176 | Finding Bridges in a graph | [🔗 Solution](4_Graph/176_Find_Bridge.cpp) | ⭐⭐⭐⭐ |
-| 177 | Finding Articulation Points (Tarjan's Algorithm) | [🔗 Solution](4_Graph/177_Find_Articulation_Point_TarjanAlgo.cpp) | ⭐⭐⭐⭐⭐ |
+| 176 | Finding Bridges in a graph | [🔗 Solution](2_Algorithm/4_Graph/176_Find_Bridge.cpp) | ⭐⭐⭐⭐ |
+| 177 | Finding Articulation Points (Tarjan's Algorithm) | [🔗 Solution](2_Algorithm/4_Graph/177_Find_Articulation_Point_TarjanAlgo.cpp) | ⭐⭐⭐⭐⭐ |
 
 <div align="center">
   <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/1.png" width="350" alt="Strongly Connected Components">
@@ -755,8 +755,8 @@
 
 | # | Problem | Status | Difficulty |
 |---|---------|--------|------------|
-| 178 | Number of Strongly Connected Components (Kosaraju) | [🔗 Solution](4_Graph/178_No_Strongly_Connected_Componant_Kosaraju.cpp) | ⭐⭐⭐⭐⭐ |
-| 179 | Strongly Connected Components List (Kosaraju) | [🔗 Solution](4_Graph/179_Strongly_Connected_Component_List_Kosaraju.cpp) | ⭐⭐⭐⭐⭐ |
+| 178 | Number of Strongly Connected Components (Kosaraju) | [🔗 Solution](2_Algorithm/4_Graph/178_No_Strongly_Connected_Componant_Kosaraju.cpp) | ⭐⭐⭐⭐⭐ |
+| 179 | Strongly Connected Components List (Kosaraju) | [🔗 Solution](2_Algorithm/4_Graph/179_Strongly_Connected_Component_List_Kosaraju.cpp) | ⭐⭐⭐⭐⭐ |
 
 </details>
 
