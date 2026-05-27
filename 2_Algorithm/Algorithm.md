@@ -330,8 +330,8 @@
 
 | # | Problem | Status | Difficulty |
 |---|---------|--------|------------|
-| 155 | BFS (Breadth-First Search) | [🔗 Solution](6_Graph/155_BFS.cpp) | ⭐⭐ |
-| 156 | DFS (Depth-First Search) | [🔗 Solution](6_Graph/156_DFS.cpp) | ⭐⭐ |
+| 155 | BFS (Breadth-First Search) | [🔗 Solution](4_Graph/155_BFS.cpp) | ⭐⭐ |
+| 156 | DFS (Depth-First Search) | [🔗 Solution](4_Graph/156_DFS.cpp) | ⭐⭐ |
 | 157 | Graph representation (Adjacency matrix vs list) | [🔗 Solution]() ❌ | ⭐ |
 | 158 | Count connected components | [🔗 Solution]() ❌ | ⭐⭐ |
 | 159 | Number of islands | [🔗 Solution]() ❌ | ⭐⭐ |
@@ -353,10 +353,10 @@
 
 | # | Problem | Status                                                    | Difficulty |
 |---|---------|-----------------------------------------------------------|------------|
-| 160 | Check cycle in Undirected Graph (BFS) | [🔗 Solution](6_Graph/160_Check_Cycle_Undirected_BFS.cpp)                                   | ⭐⭐⭐ |
-| 161 | Check cycle in Undirected Graph (DFS) | [🔗 Solution](6_Graph/161_Check_Cycle_Undirected_DFS.cpp) | ⭐⭐⭐ |
-| 162 | Check cycle in Directed Graph (DFS) | [🔗 Solution](6_Graph/162_Check_Cycle_Directed_DFS.cpp)                                   | ⭐⭐⭐ |
-| 163 | Check cycle in Directed Graph (BFS / Kahn's Algorithm) | [🔗 Solution](6_Graph/163_Check_Cycle_Topological_Sort_KhanAlgo.cpp)                                   | ⭐⭐⭐⭐ |
+| 160 | Check cycle in Undirected Graph (BFS) | [🔗 Solution](4_Graph/160_Check_Cycle_Undirected_BFS.cpp)                                   | ⭐⭐⭐ |
+| 161 | Check cycle in Undirected Graph (DFS) | [🔗 Solution](4_Graph/161_Check_Cycle_Undirected_DFS.cpp) | ⭐⭐⭐ |
+| 162 | Check cycle in Directed Graph (DFS) | [🔗 Solution](4_Graph/162_Check_Cycle_Directed_DFS.cpp)                                   | ⭐⭐⭐ |
+| 163 | Check cycle in Directed Graph (BFS / Kahn's Algorithm) | [🔗 Solution](4_Graph/163_Check_Cycle_Topological_Sort_KhanAlgo.cpp)                                   | ⭐⭐⭐⭐ |
 
 <br>
 
@@ -376,10 +376,10 @@
 
 | # | Problem | Status                                                   | Difficulty |
 |---|---------|----------------------------------------------------------|------------|
-| 164 | Topological Sort (using DFS) | [🔗 Solution](6_Graph/164_Topological_Sort_DFS.cpp)      | ⭐⭐⭐ |
-| 165 | Topological Sort (Kahn's Algorithm) | [🔗 Solution](6_Graph/165_Topological_Sort_KhanAlgo.cpp) | ⭐⭐⭐ |
-| 166 | Alien dictionary | [🔗 Solution ❌](6_Graph/)                                | ⭐⭐⭐⭐⭐ |
-| 167 | Course schedule | [🔗 Solution ❌](6_Graph/)                                | ⭐⭐⭐⭐ |
+| 164 | Topological Sort (using DFS) | [🔗 Solution](4_Graph/164_Topological_Sort_DFS.cpp)      | ⭐⭐⭐ |
+| 165 | Topological Sort (Kahn's Algorithm) | [🔗 Solution](4_Graph/165_Topological_Sort_KhanAlgo.cpp) | ⭐⭐⭐ |
+| 166 | Alien dictionary | [🔗 Solution ❌](4_Graph/)                                | ⭐⭐⭐⭐⭐ |
+| 167 | Course schedule | [🔗 Solution ❌](4_Graph/)                                | ⭐⭐⭐⭐ |
 
 </details>
 
@@ -395,8 +395,8 @@
 
 | # | Problem | Status                  | Difficulty |
 |---|---------|-------------------------|------------|
-| 168 | Shortest path in undirected graph (BFS) | [🔗 Solution](6_Graph/168_Shortest_path_undirected_graph.cpp) | ⭐⭐ |
-| 169 | Shortest distance in undirected graph (BFS) | [🔗 Solution](6_Graph/169_Shortest_distance_undirected_graph.cpp) | ⭐⭐ |
+| 168 | Shortest path in undirected graph (BFS) | [🔗 Solution](4_Graph/168_Shortest_path_undirected_graph.cpp) | ⭐⭐ |
+| 169 | Shortest distance in undirected graph (BFS) | [🔗 Solution](4_Graph/169_Shortest_distance_undirected_graph.cpp) | ⭐⭐ |
 
 <div align="center">
   <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/shortest-path-in-a-directed-acyclic-graph-1-1635369661.png" width="350" alt="DAG Shortest Path">
@@ -406,7 +406,7 @@
 
 | # | Problem | Status                  | Difficulty |
 |---|---------|-------------------------|------------|
-| 170 | Shortest distance from source to all node (weighted DAG) | [🔗 Solution](6_Graph/170_Shortest_distance_from_source_to_all_node_(weighted_DAG).cpp) | ⭐⭐⭐ |
+| 170 | Shortest distance from source to all node (weighted DAG) | [🔗 Solution](4_Graph/170_Shortest_distance_from_source_to_all_node_(weighted_DAG).cpp) | ⭐⭐⭐ |
 
 <div align="center">
   <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/untitled-diagram-15-6327.jpg" width="350" alt="Dijkstra">
@@ -416,7 +416,7 @@
 
 | # | Problem | Status                  | Difficulty |
 |---|---------|-------------------------|------------|
-| 171 | Dijkstra's algorithm (Weighted Graph) | [🔗 Solution](6_Graph/171_Djkstra_Shortest_distance_from_source_to_all_node_(weighted).cpp) | ⭐⭐⭐⭐ |
+| 171 | Dijkstra's algorithm (Weighted Graph) | [🔗 Solution](4_Graph/171_Djkstra_Shortest_distance_from_source_to_all_node_(weighted).cpp) | ⭐⭐⭐⭐ |
 
 <div align="center">
   <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/colimage-11780.png" width="350" alt="Bellman-Ford">
@@ -427,7 +427,7 @@
 
 | # | Problem | Status                  | Difficulty |
 |---|---------|-------------------------|------------|
-| 172 | Bellman-Ford (Weighted Graph with negative edges) | [🔗 Solution](6_Graph/172_BellmonFord_Shortest_distance(NegWeighted).cpp) | ⭐⭐⭐⭐⭐ |
+| 172 | Bellman-Ford (Weighted Graph with negative edges) | [🔗 Solution](4_Graph/172_BellmonFord_Shortest_distance(NegWeighted).cpp) | ⭐⭐⭐⭐⭐ |
 
 <div align="center">
   <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/weiGraph4.png" width="350" alt="Floyd-Warshall">
@@ -437,7 +437,7 @@
 
 | # | Problem | Status                  | Difficulty |
 |---|---------|-------------------------|------------|
-| 173 | Floyd-Warshall (All pair shortest path) | [🔗 Solution](6_Graph/173_Floyd_Warshal_Shortest_distance(ALl_Pair).cpp) | ⭐⭐⭐⭐ |
+| 173 | Floyd-Warshall (All pair shortest path) | [🔗 Solution](4_Graph/173_Floyd_Warshal_Shortest_distance(ALl_Pair).cpp) | ⭐⭐⭐⭐ |
 
 </details>
 
@@ -453,8 +453,8 @@
 
 | # | Problem | Status                  | Difficulty |
 |---|---------|-------------------------|------------|
-| 174 | Minimum Spanning Tree (Prim's Algorithm) | [🔗 Solution](6_Graph/174_MST_Prims_Algo.cpp) | ⭐⭐⭐⭐ |
-| 175 | Minimum Spanning Tree (Kruskal Algorithm / Disjoint Set) | [🔗 Solution](6_Graph/175_MST_Kruskal_Algo.cpp) | ⭐⭐⭐⭐ |
+| 174 | Minimum Spanning Tree (Prim's Algorithm) | [🔗 Solution](4_Graph/174_MST_Prims_Algo.cpp) | ⭐⭐⭐⭐ |
+| 175 | Minimum Spanning Tree (Kruskal Algorithm / Disjoint Set) | [🔗 Solution](4_Graph/175_MST_Kruskal_Algo.cpp) | ⭐⭐⭐⭐ |
 
 ---
 
@@ -473,8 +473,8 @@
 
 | # | Problem | Status                                                          | Difficulty |
 |---|---------|-----------------------------------------------------------------|------------|
-| 176 | Finding Bridges in a graph | [🔗 Solution](6_Graph/176_Find_Bridge.cpp)                      | ⭐⭐⭐⭐ |
-| 177 | Finding Articulation Points (Tarjan's Algorithm) | [🔗 Solution](6_Graph/177_Find_Articulation_Point_TarjanAlgo.cpp) | ⭐⭐⭐⭐⭐ |
+| 176 | Finding Bridges in a graph | [🔗 Solution](4_Graph/176_Find_Bridge.cpp)                      | ⭐⭐⭐⭐ |
+| 177 | Finding Articulation Points (Tarjan's Algorithm) | [🔗 Solution](4_Graph/177_Find_Articulation_Point_TarjanAlgo.cpp) | ⭐⭐⭐⭐⭐ |
 
 <div align="center">
   <img src="https://github.com/jhasan2026/PathToOptimcal/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/2_Algorithm/6_Graph/img/1.png" width="350" alt="Strongly Connected Components">
@@ -484,8 +484,8 @@
 
 | # | Problem | Status                  | Difficulty |
 |---|---------|-------------------------|------------|
-| 178 | Number of Strongly Connected Components (Kosaraju) | [🔗 Solution](6_Graph/178_No_Strongly_Connected_Componant_Kosaraju.cpp) | ⭐⭐⭐⭐⭐ |
-| 179 | Strongly Connected Components List (Kosaraju) | [🔗 Solution](6_Graph/179_Strongly_Connected_Component_List_Kosaraju.cpp) | ⭐⭐⭐⭐⭐ |
+| 178 | Number of Strongly Connected Components (Kosaraju) | [🔗 Solution](4_Graph/178_No_Strongly_Connected_Componant_Kosaraju.cpp) | ⭐⭐⭐⭐⭐ |
+| 179 | Strongly Connected Components List (Kosaraju) | [🔗 Solution](4_Graph/179_Strongly_Connected_Component_List_Kosaraju.cpp) | ⭐⭐⭐⭐⭐ |
 
 </details>
 
@@ -495,11 +495,11 @@
 
 | # | Problem | Status                    | Difficulty |
 |---|---------|---------------------------|------------|
-| 180 | Flood fill | [🔗 Solution](6_Graph/) ❌ | ⭐⭐ |
-| 181 | Rotten oranges | [🔗 Solution](6_Graph/) ❌ | ⭐⭐⭐ |
-| 182 | Shortest path in grid | [🔗 Solution](6_Graph/) ❌ | ⭐⭐⭐ |
-| 183 | Number of enclaves | [🔗 Solution](6_Graph/) ❌ | ⭐⭐⭐ |
-| 184 | Surrounded regions | [🔗 Solution](6_Graph/) ❌ | ⭐⭐⭐ |
+| 180 | Flood fill | [🔗 Solution](4_Graph/) ❌ | ⭐⭐ |
+| 181 | Rotten oranges | [🔗 Solution](4_Graph/) ❌ | ⭐⭐⭐ |
+| 182 | Shortest path in grid | [🔗 Solution](4_Graph/) ❌ | ⭐⭐⭐ |
+| 183 | Number of enclaves | [🔗 Solution](4_Graph/) ❌ | ⭐⭐⭐ |
+| 184 | Surrounded regions | [🔗 Solution](4_Graph/) ❌ | ⭐⭐⭐ |
 
 </details>
 
@@ -510,9 +510,9 @@
 
 | # | Problem | Status                    | Difficulty |
 |---|---------|---------------------------|------------|
-| 185 | Graph Coloring Problem | [🔗 Solution](6_Graph/) ❌ | ⭐⭐⭐⭐ |
-| 186 | Maximum Flow Problem | [🔗 Solution](6_Graph/) ❌ | ⭐⭐⭐⭐⭐ |
-| 187 | Word ladder | [🔗 Solution](6_Graph/) ❌ | ⭐⭐⭐⭐ |
+| 185 | Graph Coloring Problem | [🔗 Solution](4_Graph/) ❌ | ⭐⭐⭐⭐ |
+| 186 | Maximum Flow Problem | [🔗 Solution](4_Graph/) ❌ | ⭐⭐⭐⭐⭐ |
+| 187 | Word ladder | [🔗 Solution](4_Graph/) ❌ | ⭐⭐⭐⭐ |
 
 </details>
 
@@ -615,24 +615,24 @@
 
 > *"Those who cannot remember the past are condemned to repeat it."* — DP's Motto
 
-| # | Problem | Approaches | Difficulty |
-|---|---------|------------|------------|
-| 234 | Fibonacci number | [Memo](/) · [Tabu](/) · [Space](/) | ⭐ |
-| 235 | Fibonacci number (Tabulation) | [🔗 Solution]() | ⭐ |
-| 236 | Fibonacci number (Space opt) | [🔗 Solution]() | ⭐ |
-| 237 | Min Cost Climbing Stairs (Recursion) | [🔗 Solution]() | ⭐⭐ |
-| 238 | Min Cost Climbing Stairs (Memo) | [🔗 Solution]() | ⭐⭐ |
-| 239 | Min Cost Climbing Stairs (Tabu) | [🔗 Solution]() | ⭐⭐ |
-| 240 | Min Cost Climbing Stairs (Space) | [🔗 Solution]() | ⭐⭐ |
-| 241 | Climbing Stairs (Standard) | [🔗 Solution]() | ⭐ |
-| 242 | Max Sum Non-Adjacent (Recursion) | [🔗 Solution]() | ⭐⭐⭐ |
-| 243 | Max Sum Non-Adjacent (Memo) | [🔗 Solution]() | ⭐⭐⭐ |
-| 244 | Max Sum Non-Adjacent (Tabu) | [🔗 Solution]() | ⭐⭐⭐ |
-| 245 | Max Sum Non-Adjacent (Space) | [🔗 Solution]() | ⭐⭐⭐ |
-| 246 | House Robber (Recursion) | [🔗 Solution]() | ⭐⭐⭐ |
-| 247 | House Robber (Memo) | [🔗 Solution]() | ⭐⭐⭐ |
-| 248 | House Robber (Tabu) | [🔗 Solution]() | ⭐⭐⭐ |
-| 249 | House Robber (Space) | [🔗 Solution]() | ⭐⭐⭐ |
+| # | Problem                              | Approaches         | Difficulty  | Question                                                                   |
+|---|--------------------------------------|--------------------|-------------|----------------------------------------------------------------------------|
+| 234 | Fibonacci number (Memo)              | [🔗 Solution]()    | ⭐           | [🔗 Question](https://leetcode.com/problems/fibonacci-number/description/) |
+| 235 | Fibonacci number (Tabulation)        | [🔗 Solution]()    | ⭐           | [🔗 Question](https://leetcode.com/problems/fibonacci-number/description/) |
+| 236 | Fibonacci number (Space opt)         | [🔗 Solution]()    | ⭐           | [🔗 Question](https://leetcode.com/problems/fibonacci-number/description/) |
+| 237 | Min Cost Climbing Stairs (Recursion) | [🔗 Solution]()    | ⭐⭐          | [🔗 Question]()                                                            |
+| 238 | Min Cost Climbing Stairs (Memo)      | [🔗 Solution]()    | ⭐⭐          | [🔗 Question]()                                                            |
+| 239 | Min Cost Climbing Stairs (Tabu)      | [🔗 Solution]()    | ⭐⭐          | [🔗 Question]()                                                            |
+| 240 | Min Cost Climbing Stairs (Space)     | [🔗 Solution]()    | ⭐⭐          | [🔗 Question]()                                                            |
+| 241 | Climbing Stairs (Standard)           | [🔗 Solution]()    | ⭐           | [🔗 Question]()                                                            |
+| 242 | Max Sum Non-Adjacent (Recursion)     | [🔗 Solution]()    | ⭐⭐⭐         | [🔗 Question]()                                                            |
+| 243 | Max Sum Non-Adjacent (Memo)          | [🔗 Solution]()    | ⭐⭐⭐         | [🔗 Question]()                                                            |
+| 244 | Max Sum Non-Adjacent (Tabu)          | [🔗 Solution]()    | ⭐⭐⭐         | [🔗 Question]()                                                            |
+| 245 | Max Sum Non-Adjacent (Space)         | [🔗 Solution]()    | ⭐⭐⭐         | [🔗 Question]()                                                            |
+| 246 | House Robber (Recursion)             | [🔗 Solution]()    | ⭐⭐⭐         | [🔗 Question]()                                                            |
+| 247 | House Robber (Memo)                  | [🔗 Solution]()    | ⭐⭐⭐         | [🔗 Question]()                                                            |
+| 248 | House Robber (Tabu)                  | [🔗 Solution]()    | ⭐⭐⭐         | [🔗 Question]()                                                            |
+| 249 | House Robber (Space)                 | [🔗 Solution]()    | ⭐⭐⭐         | [🔗 Question]()                                                            |
 
 ---
 
