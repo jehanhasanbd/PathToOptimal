@@ -15,7 +15,7 @@
 ## 📚 Section - 1. Programming Fundamentals
 
 <details open>
-<summary><h2>💻 A) Input/Output, Basics, Conditionals (1–25)</h2></summary>
+<summary><h3>💻 A) Input/Output, Basics, Conditionals (1–25)</h3></summary>
 
 | # | Problem | Solution                                                                                                    | Status |
 |---|---------|-------------------------------------------------------------------------------------------------------------|--------|
@@ -48,7 +48,7 @@
 </details>
 
 <details>
-<summary><h2>🔄 B) Loops & Patterns (26–55)</h2></summary>
+<summary><h3>🔄 B) Loops & Patterns (26–55)</h3></summary>
 
 | # | Problem | Solution | Status |
 |---|---------|----------|--------|
@@ -86,7 +86,7 @@
 </details>
 
 <details>
-<summary><h2>📊 C) Arrays Basics (56–90)</h2></summary>
+<summary><h3>📊 C) Arrays Basics (56–90)</h3></summary>
 
 | # | Problem | Solution | Status |
 |---|---------|----------|--------|
@@ -129,7 +129,7 @@
 </details>
 
 <details>
-<summary><h2>📐 D) 2D Arrays / Matrices (91–110)</h2></summary>
+<summary><h3>📐 D) 2D Arrays / Matrices (91–110)</h3></summary>
 
 | # | Problem | Solution | Status |
 |---|---------|----------|--------|
@@ -157,7 +157,7 @@
 </details>
 
 <details>
-<summary><h2>📝 E) Strings (111–140)</h2></summary>
+<summary><h3>📝 E) Strings (111–140)</h3></summary>
 
 | # | Problem | Solution | Status |
 |---|---------|----------|--------|
@@ -195,7 +195,7 @@
 </details>
 
 <details>
-<summary><h2>🔄 F) Recursion & Backtracking (141–160)</h2></summary>
+<summary><h3>🔄 F) Recursion & Backtracking (141–160)</h3></summary>
 
 | # | Problem | Solution | Status |
 |---|---------|----------|--------|
@@ -223,7 +223,7 @@
 </details>
 
 <details>
-<summary><h2>📈 G) Math & Number Theory (161–175)</h2></summary>
+<summary><h3>📈 G) Math & Number Theory (161–175)</h3></summary>
 
 | # | Problem | Solution | Status |
 |---|---------|----------|--------|
@@ -246,7 +246,7 @@
 </details>
 
 <details>
-<summary><h2>⚙️ H) Bit Manipulation (176–185)</h2></summary>
+<summary><h3>⚙️ H) Bit Manipulation (176–185)</h3></summary>
 
 | # | Problem | Solution | Status |
 |---|---------|----------|--------|
@@ -264,7 +264,7 @@
 </details>
 
 <details>
-<summary><h2>📚 I) STL, Sorting, Searching (186–200)</h2></summary>
+<summary><h3>📚 I) STL, Sorting, Searching (186–200)</h3></summary>
 
 | # | Problem | Solution | Status |
 |---|---------|----------|--------|
