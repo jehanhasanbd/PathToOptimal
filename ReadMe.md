@@ -50,109 +50,112 @@
 <details>
 <summary><h3>🔄 B) Loops & Patterns (26–55)</h3></summary>
 
-| # | Problem | Solution | Status |
-|---|---------|----------|--------|
-| 26 | Print numbers 1 to N | [🔗 Solution]() | ⏳ |
-| 27 | Print numbers N to 1 | [🔗 Solution]() | ⏳ |
-| 28 | Print all even numbers up to N | [🔗 Solution]() | ⏳ |
-| 29 | Print all odd numbers up to N | [🔗 Solution]() | ⏳ |
-| 30 | Sum of first N natural numbers | [🔗 Solution]() | ⏳ |
-| 31 | Sum of first N even numbers | [🔗 Solution]() | ⏳ |
-| 32 | Sum of first N odd numbers | [🔗 Solution]() | ⏳ |
-| 33 | Factorial of N (iterative) | [🔗 Solution]() | ⏳ |
-| 34 | Power: compute (a^b) (loop) | [🔗 Solution]() | ⏳ |
-| 35 | Count digits of a number | [🔗 Solution]() | ⏳ |
-| 36 | Sum of digits of a number | [🔗 Solution]() | ⏳ |
-| 37 | Reverse a number | [🔗 Solution]() | ⏳ |
-| 38 | Check palindrome number | [🔗 Solution]() | ⏳ |
-| 39 | Check Armstrong number (3-digit and generalized) | [🔗 Solution]() | ⏳ |
-| 40 | Print Fibonacci series up to N terms | [🔗 Solution]() | ⏳ |
-| 41 | Find GCD of two numbers (loop method) | [🔗 Solution]() | ⏳ |
-| 42 | Find LCM of two numbers | [🔗 Solution]() | ⏳ |
-| 43 | Check if number is prime | [🔗 Solution]() | ⏳ |
-| 44 | Print all primes in range [L, R] (Sieve of Eratosthenes) | [🔗 Solution]() | ⏳ |
-| 45 | Print multiplication table of a number | [🔗 Solution]() | ⏳ |
-| 46 | Print all factors/divisors of a number | [🔗 Solution]() | ⏳ |
-| 47 | Count number of divisors of a number | [🔗 Solution]() | ⏳ |
-| 48 | Compute sum of divisors of a number | [🔗 Solution]() | ⏳ |
-| 49 | Compute (1 + 1/2 + 1/3 + … + 1/N) (double) | [🔗 Solution]() | ⏳ |
-| 50 | Count trailing zeros in factorial N (basic approach) | [🔗 Solution]() | ⏳ |
-| 51 | Pattern: right triangle of `*` | [🔗 Solution]() | ❌ |
-| 52 | Pattern: inverted triangle of `*` | [🔗 Solution]() | ❌ |
-| 53 | Pattern: pyramid of `*` | [🔗 Solution]() | ❌ |
-| 54 | Pattern: diamond of `*` | [🔗 Solution]() | ❌ |
-| 55 | Pattern: number triangle (1 / 12 / 123 …) | [🔗 Solution]() | ❌ |
+
+[🔗 Solution](1_Programming/1_Input_Output_Basics_Conditionals/1_Read_two_integers_and_print_their_sum.cpp)
+
+| # | Problem | Solution                     | Status |
+|---|---------|------------------------------|--------|
+| 26 | Print numbers 1 to N | [🔗 Solution](1_Programming/2_Loop_and_Pattern/26_Print_1_to_N.cpp) | ✅      |
+| 27 | Print numbers N to 1 | [🔗 Solution](1_Programming/2_Loop_and_Pattern/27_Print_N_to_1.cpp)              | ✅      |
+| 28 | Print all even numbers up to N | [🔗 Solution](1_Programming/2_Loop_and_Pattern/28_Print_Even_1_to_N.cpp)              | ✅      |
+| 29 | Print all odd numbers up to N | [🔗 Solution](1_Programming/2_Loop_and_Pattern/29_Print_Odd_1_to_N.cpp)              | ✅      |
+| 30 | Sum of first N natural numbers | [🔗 Solution](1_Programming/2_Loop_and_Pattern/30_Sum_1_to_N.cpp)              | ✅      |
+| 31 | Sum of first N even numbers | [🔗 Solution](1_Programming/2_Loop_and_Pattern/31_Sum_Even_1_to_N.cpp)              | ✅      |
+| 32 | Sum of first N odd numbers | [🔗 Solution](1_Programming/2_Loop_and_Pattern/32_Sum_Odd_1_to_N.cpp)              | ✅      |
+| 33 | Factorial of N (iterative) | [🔗 Solution](1_Programming/2_Loop_and_Pattern/33_Factorial.cpp)              | ✅      |
+| 34 | Power: compute (a^b) (loop) | [🔗 Solution](1_Programming/2_Loop_and_Pattern/34_Power.cpp)              | ✅      |
+| 35 | Count digits of a number | [🔗 Solution](1_Programming/2_Loop_and_Pattern/35_Count_digits.cpp)              | ✅      |
+| 36 | Sum of digits of a number | [🔗 Solution](1_Programming/2_Loop_and_Pattern/36_Sum_digits.cpp)              | ✅      |
+| 37 | Reverse a number | [🔗 Solution](1_Programming/2_Loop_and_Pattern/37_Reverse_Number.cpp)              | ✅      |
+| 38 | Check palindrome number | [🔗 Solution](1_Programming/2_Loop_and_Pattern/38_Check_Palindrome.cpp)              | ✅      |
+| 39 | Check Armstrong number (3-digit and generalized) | [🔗 Solution](1_Programming/2_Loop_and_Pattern/39_Armstrong_Number.cpp)              | ✅      |
+| 40 | Print Fibonacci series up to N terms | [🔗 Solution](1_Programming/2_Loop_and_Pattern/40_Fibonacci_Number.cpp)              | ✅      |
+| 41 | Find GCD of two numbers (loop method) | [🔗 Solution](1_Programming/2_Loop_and_Pattern/41_GCD.cpp)              | ✅      |
+| 42 | Find LCM of two numbers | [🔗 Solution](1_Programming/2_Loop_and_Pattern/42_LCM.cpp)              | ✅      |
+| 43 | Check if number is prime | [🔗 Solution](1_Programming/2_Loop_and_Pattern/43_Check_Prime.cpp)              | ✅      |
+| 44 | Print all primes in range [L, R] (Sieve of Eratosthenes) | [🔗 Solution](1_Programming/2_Loop_and_Pattern/44_Check_Prime_Sieve_of_Eratosthenes.cpp)              | ✅      |
+| 45 | Print multiplication table of a number | [🔗 Solution](1_Programming/2_Loop_and_Pattern/45_Multipliation_Table.cpp)              | ✅      |
+| 46 | Print all factors/divisors of a number | [🔗 Solution](1_Programming/2_Loop_and_Pattern/46_All_Factors.cpp)              | ✅      |
+| 47 | Count number of divisors of a number | [🔗 Solution](1_Programming/2_Loop_and_Pattern/47_Count_Divisors.cpp)              | ✅      |
+| 48 | Compute sum of divisors of a number | [🔗 Solution](1_Programming/2_Loop_and_Pattern/48_Sum_of_divisors.cpp)              | ✅      |
+| 49 | Compute (1 + 1/2 + 1/3 + … + 1/N) (double) | [🔗 Solution](1_Programming/2_Loop_and_Pattern/49_Sum_of_One_By_N.cpp)              | ✅      |
+| 50 | Count trailing zeros in factorial N (basic approach) | [🔗 Solution](1_Programming/2_Loop_and_Pattern/50_Factorial_Trailing_Zeros.cpp)              | ✅      |
+| 51 | Pattern: right triangle of `*` | [🔗 Solution]()              | ⏳      |
+| 52 | Pattern: inverted triangle of `*` | [🔗 Solution]()              | ⏳      |
+| 53 | Pattern: pyramid of `*` | [🔗 Solution]()              | ⏳      |
+| 54 | Pattern: diamond of `*` | [🔗 Solution]()              | ⏳      |
+| 55 | Pattern: number triangle (1 / 12 / 123 …) | [🔗 Solution]()              | ⏳      |
 
 </details>
 
 <details>
 <summary><h3>📊 C) Arrays Basics (56–90)</h3></summary>
 
-| # | Problem | Solution | Status |
-|---|---------|----------|--------|
-| 56 | Read an array and print it | [🔗 Solution]() | ⏳ |
-| 57 | Find sum of array elements | [🔗 Solution]() | ⏳ |
-| 58 | Find average of array elements | [🔗 Solution]() | ⏳ |
-| 59 | Find maximum element in array | [🔗 Solution]() | ⏳ |
-| 60 | Find minimum element in array | [🔗 Solution]() | ⏳ |
-| 61 | Find second maximum element | [🔗 Solution]() | ⏳ |
-| 62 | Find second minimum element | [🔗 Solution]() | ⏳ |
-| 63 | Count even and odd elements | [🔗 Solution]() | ⏳ |
-| 64 | Count positive, negative, and zeros | [🔗 Solution]() | ⏳ |
-| 65 | Reverse an array in-place | [🔗 Solution]() | ⏳ |
-| 66 | Rotate array left by 1 | [🔗 Solution]() | ⏳ |
-| 67 | Rotate array right by 1 | [🔗 Solution]() | ⏳ |
-| 68 | Rotate array left by K | [🔗 Solution]() | ⏳ |
-| 69 | Rotate array right by K | [🔗 Solution]() | ⏳ |
-| 70 | Check if array is sorted (non-decreasing) | [🔗 Solution]() | ⏳ |
-| 71 | Remove duplicates from sorted array (in-place) | [🔗 Solution]() | ⏳ |
-| 72 | Find frequency of each element (basic) | [🔗 Solution]() | ⏳ |
-| 73 | Find element with highest frequency | [🔗 Solution]() | ⏳ |
-| 74 | Find all duplicate elements | [🔗 Solution]() | ⏳ |
-| 75 | Find all missing numbers from 1..N (array size N) | [🔗 Solution]() | ⏳ |
-| 76 | Linear search (first occurrence) | [🔗 Solution]() | ⏳ |
-| 77 | Count occurrences of X in array | [🔗 Solution]() | ⏳ |
-| 78 | Find first and last occurrence of X (linear) | [🔗 Solution]() | ⏳ |
-| 79 | Merge two arrays into one | [🔗 Solution]() | ⏳ |
-| 80 | Merge two sorted arrays (two-pointer) | [🔗 Solution]() | ⏳ |
-| 81 | Find intersection of two arrays | [🔗 Solution]() | ⏳ |
-| 82 | Find union of two arrays | [🔗 Solution]() | ⏳ |
-| 83 | Move all zeros to end (stable if possible) | [🔗 Solution]() | ⏳ |
-| 84 | Move all negative numbers to beginning | [🔗 Solution]() | ⏳ |
-| 85 | Segregate even and odd numbers | [🔗 Solution]() | ⏳ |
-| 86 | Find pair with given sum (O(n²)) | [🔗 Solution]() | ⏳ |
-| 87 | Find pair with given sum (two-sum using hash) | [🔗 Solution]() | ⏳ |
-| 88 | Find triplet with given sum (basic) | [🔗 Solution]() | ⏳ |
-| 89 | Find subarray with given sum (positive numbers) | [🔗 Solution]() | ⏳ |
-| 90 | Maximum subarray sum (Kadane) | [🔗 Solution]() | ❌ |
+| # | Problem | Solution        | Status |
+|---|---------|-----------------|--------|
+| 56 | Read an array and print it | [🔗 Solution](1_Programming/3_Array/56_Read_Array_Print.cpp) | ✅|
+| 57 | Find sum of array elements | [🔗 Solution](1_Programming/3_Array/57_Sum_of_Array.cpp) | ✅|
+| 58 | Find average of array elements | [🔗 Solution](1_Programming/3_Array/58_Avg_of_arr.cpp) | ✅|
+| 59 | Find maximum element in array | [🔗 Solution](1_Programming/3_Array/59_max_of_arr.cpp) | ✅|
+| 60 | Find minimum element in array | [🔗 Solution](1_Programming/3_Array/60_min_of_arr.cpp) | ✅|
+| 61 | Find second maximum element | [🔗 Solution](1_Programming/3_Array/61_Sec_max_of_arr.cpp) | ✅|
+| 62 | Find second minimum element | [🔗 Solution](1_Programming/3_Array/62_Sec_min_of_arr.cpp) | ✅|
+| 63 | Count even and odd elements | [🔗 Solution](1_Programming/3_Array/63_count_even_odd.cpp) | ✅|
+| 64 | Count positive, negative, and zeros | [🔗 Solution](1_Programming/3_Array/64_positive_negative_zero.cpp) | ✅|
+| 65 | Reverse an array in-place | [🔗 Solution](1_Programming/3_Array/65_Reverse_array_in_place.cpp) | ✅|
+| 66 | Rotate array left by 1 | [🔗 Solution](1_Programming/3_Array/66_Left_rotate.cpp) | ✅|
+| 67 | Rotate array right by 1 | [🔗 Solution](1_Programming/3_Array/67_Right_rotate.cpp) | ✅|
+| 68 | Rotate array left by K | [🔗 Solution](1_Programming/3_Array/68_Left_rotate_k_times.cpp) | ✅|
+| 69 | Rotate array right by K | [🔗 Solution](1_Programming/3_Array/69_Right_rotate_k_times.cpp) | ✅|
+| 70 | Check if array is sorted (non-decreasing) | [🔗 Solution](1_Programming/3_Array/70_check_Sorted.cpp) | ✅|
+| 71 | Remove duplicates from sorted array (in-place) | [🔗 Solution](1_Programming/3_Array/71_remove_duplicates.cpp) | ✅|
+| 72 | Find frequency of each element (basic) | [🔗 Solution](1_Programming/3_Array/72_Frequency_of_elements.cpp) | ✅|
+| 73 | Find element with highest frequency | [🔗 Solution](1_Programming/3_Array/73_Max_Frequency_of_elements.cpp) | ✅|
+| 74 | Find all duplicate elements | [🔗 Solution](1_Programming/3_Array/74_Find_Duplicated.cpp) | ✅|
+| 75 | Find all missing numbers from 1..N (array size N) | [🔗 Solution](1_Programming/3_Array/75_All_Missing_Number_1_to_N.cpp) | ✅|
+| 76 | Linear search (first occurrence) | [🔗 Solution](1_Programming/3_Array/76_Linear_Search.cpp) | ✅|
+| 77 | Count occurrences of X in array | [🔗 Solution](1_Programming/3_Array/77_Count_Occurance_of_X.cpp) | ✅|
+| 78 | Find first and last occurrence of X (linear) | [🔗 Solution](1_Programming/3_Array/78_First_last_Occurance_of_X.cpp) | ✅|
+| 79 | Merge two arrays into one | [🔗 Solution](1_Programming/3_Array/79_Merge_Two_array.cpp) | ✅|
+| 80 | Merge two sorted arrays (two-pointer) | [🔗 Solution](1_Programming/3_Array/80_Merge_Two_sorted_array.cpp) | ✅|
+| 81 | Find intersection of two arrays | [🔗 Solution](1_Programming/3_Array/81_Find_Intersection.cpp) | ✅|
+| 82 | Find union of two arrays | [🔗 Solution](1_Programming/3_Array/82_Find_Union.cpp) | ✅|
+| 83 | Move all zeros to end (stable if possible) | [🔗 Solution](1_Programming/3_Array/83_Move_zero_to_end.cpp) | ✅|
+| 84 | Move all negative numbers to beginning | [🔗 Solution](1_Programming/3_Array/84_Move_neg_to_end.cpp) | ✅|
+| 85 | Segregate even and odd numbers | [🔗 Solution](1_Programming/3_Array/85_Segregate_Even_Odd.cpp) | ✅|
+| 86 | Find pair with given sum (O(n²)) | [🔗 Solution](1_Programming/3_Array/86_Find_Pair_GIven_Sum.cpp) | ✅|
+| 87 | Find pair with given sum (two-sum using hash) | [🔗 Solution](1_Programming/3_Array/87_Find_Pair_GIven_Sum_Optimized.cpp) | ✅|
+| 88 | Find triplet with given sum (basic) | [🔗 Solution](1_Programming/3_Array/88_Find_Triplet_GIven_Sum.cpp) | ✅|
+| 89 | Find subarray with given sum (positive numbers) | [🔗 Solution](1_Programming/3_Array/89_subarray_sum.cpp) | ✅|
+| 90 | Maximum subarray sum (Kadane) | [🔗 Solution](1_Programming/3_Array/) | ⏳ |
 
 </details>
 
 <details>
 <summary><h3>📐 D) 2D Arrays / Matrices (91–110)</h3></summary>
 
-| # | Problem | Solution | Status |
-|---|---------|----------|--------|
-| 91 | Read and print a matrix | [🔗 Solution]() | ⏳ |
-| 92 | Sum of all elements in matrix | [🔗 Solution]() | ⏳ |
-| 93 | Print row-wise sums | [🔗 Solution]() | ⏳ |
-| 94 | Print column-wise sums | [🔗 Solution]() | ⏳ |
-| 95 | Find maximum element in matrix | [🔗 Solution]() | ⏳ |
-| 96 | Check if matrix is identity | [🔗 Solution]() | ⏳ |
-| 97 | Check if matrix is diagonal | [🔗 Solution]() | ⏳ |
-| 98 | Transpose a matrix | [🔗 Solution]() | ⏳ |
-| 99 | Rotate matrix 90° clockwise | [🔗 Solution]() | ⏳ |
-| 100 | Rotate matrix 90° anti-clockwise | [🔗 Solution]() | ⏳ |
-| 101 | Add two matrices | [🔗 Solution]() | ⏳ |
-| 102 | Subtract two matrices | [🔗 Solution]() | ⏳ |
-| 103 | Multiply two matrices | [🔗 Solution]() | ⏳ |
-| 104 | Trace of a square matrix | [🔗 Solution]() | ⏳ |
-| 105 | Determinant of 2×2 and 3×3 | [🔗 Solution]() | ❌ |
-| 106 | Check if matrix is symmetric | [🔗 Solution]() | ❌ |
-| 107 | Spiral print of matrix | [🔗 Solution]() | ❌ |
-| 108 | Zig-zag (wave) traversal | [🔗 Solution]() | ❌ |
-| 109 | Search in a row-wise and column-wise sorted matrix | [🔗 Solution]() | ❌ |
-| 110 | Find largest row sum and its row index | [🔗 Solution]() | ❌ |
+| # | Problem | Solution        | Status |
+|---|---------|-----------------|--------|
+| 91 | Read and print a matrix | [🔗 Solution](1_Programming/4_TwoDArray_Matrix/91_print_matrix.cpp) | ✅ |
+| 92 | Sum of all elements in matrix | [🔗 Solution](1_Programming/4_TwoDArray_Matrix) | ⏳ |
+| 93 | Print row-wise sums | [🔗 Solution](1_Programming/4_TwoDArray_Matrix/93_row_wise_sum.cpp) | ✅ |
+| 94 | Print column-wise sums | [🔗 Solution](1_Programming/4_TwoDArray_Matrix/94_col_wise_sum.cpp) | ✅ |
+| 95 | Find maximum element in matrix | [🔗 Solution](1_Programming/4_TwoDArray_Matrix/95_max_of_all_element.cpp) | ✅ |
+| 96 | Check if matrix is identity | [🔗 Solution](1_Programming/4_TwoDArray_Matrix/96_Identity_check.cpp) | ✅ |
+| 97 | Check if matrix is diagonal | [🔗 Solution](1_Programming/4_TwoDArray_Matrix/97_Diagonal_check.cpp) | ✅ |
+| 98 | Transpose a matrix | [🔗 Solution](1_Programming/4_TwoDArray_Matrix/98_Transpose_matrix.cpp) | ✅ |
+| 99 | Rotate matrix 90° clockwise | [🔗 Solution](1_Programming/4_TwoDArray_Matrix/99_Rotate_matrix.cpp) | ✅ |
+| 100 | Rotate matrix 90° anti-clockwise | [🔗 Solution](1_Programming/4_TwoDArray_Matrix/100_Rotate_AntiClock_matrix.cpp) | ✅ |
+| 101 | Add two matrices | [🔗 Solution](1_Programming/4_TwoDArray_Matrix/101_add_two_matrix.cpp) | ✅ |
+| 102 | Subtract two matrices | [🔗 Solution](1_Programming/4_TwoDArray_Matrix/102_sub_two_matrix.cpp) | ✅ |
+| 103 | Multiply two matrices | [🔗 Solution](1_Programming/4_TwoDArray_Matrix/103_mul_two_matrix.cpp) | ✅ |
+| 104 | Trace of a square matrix | [🔗 Solution](1_Programming/4_TwoDArray_Matrix/104_Trace_Square_mat.cpp) | ✅ |
+| 105 | Determinant of 2×2 and 3×3 | [🔗 Solution](1_Programming/4_TwoDArray_Matrix/) | ⏳ |
+| 106 | Check if matrix is symmetric | [🔗 Solution](1_Programming/4_TwoDArray_Matrix/) | ⏳ |
+| 107 | Spiral print of matrix | [🔗 Solution](1_Programming/4_TwoDArray_Matrix/) | ⏳ |
+| 108 | Zig-zag (wave) traversal | [🔗 Solution](1_Programming/4_TwoDArray_Matrix/) | ⏳ |
+| 109 | Search in a row-wise and column-wise sorted matrix | [🔗 Solution](1_Programming/4_TwoDArray_Matrix/) | ⏳ |
+| 110 | Find largest row sum and its row index | [🔗 Solution](1_Programming/4_TwoDArray_Matrix/) | ⏳ |
 
 </details>
 
@@ -161,36 +164,36 @@
 
 | # | Problem | Solution | Status |
 |---|---------|----------|--------|
-| 111 | Read a string and print length (without `length()` optional) | [🔗 Solution]() | ⏳ |
-| 112 | Reverse a string | [🔗 Solution]() | ⏳ |
-| 113 | Check if string is palindrome | [🔗 Solution]() | ⏳ |
-| 114 | Count vowels, consonants, digits, spaces | [🔗 Solution]() | ⏳ |
-| 115 | Convert to uppercase | [🔗 Solution]() | ⏳ |
-| 116 | Convert to lowercase | [🔗 Solution]() | ⏳ |
-| 117 | Toggle case of letters | [🔗 Solution]() | ⏳ |
-| 118 | Remove all spaces from a string | [🔗 Solution]() | ⏳ |
-| 119 | Replace spaces with `-` | [🔗 Solution]() | ⏳ |
-| 120 | Count words in a sentence | [🔗 Solution]() | ⏳ |
-| 121 | Find frequency of each character | [🔗 Solution]() | ⏳ |
-| 122 | Find first non-repeating character | [🔗 Solution]() | ⏳ |
-| 123 | Remove duplicate characters (keep first occurrences) | [🔗 Solution]() | ⏳ |
-| 124 | Check if two strings are anagrams | [🔗 Solution]() | ⏳ |
-| 125 | Check if one string is a rotation of another | [🔗 Solution]() | ⏳ |
-| 126 | Find substring occurrences (naive) | [🔗 Solution]() | ⏳ |
-| 127 | Implement `strcmp`-like comparison | [🔗 Solution]() | ⏳ |
-| 128 | Implement `strcpy`-like copy | [🔗 Solution]() | ⏳ |
-| 129 | Longest common prefix among strings | [🔗 Solution]() | ⏳ |
-| 130 | Longest word in a sentence | [🔗 Solution]() | ⏳ |
-| 131 | Reverse words in a sentence | [🔗 Solution]() | ⏳ |
-| 132 | Check if string contains only digits | [🔗 Solution]() | ⏳ |
-| 133 | Validate a basic email format (simple rules) | [🔗 Solution]() | ⏳ |
-| 134 | Compress string (run-length encoding) | [🔗 Solution]() | ⏳ |
-| 135 | Decompress run-length encoded string | [🔗 Solution]() | ⏳ |
-| 136 | Smallest window containing all chars of another string | [🔗 Solution]() | ⏳ |
-| 137 | Longest substring without repeating characters | [🔗 Solution]() | ⏳ |
-| 138 | Longest palindromic substring (expand centers) | [🔗 Solution]() | ⏳ |
-| 139 | Convert string to integer (handle sign) | [🔗 Solution]() | ⏳ |
-| 140 | Big integer addition using strings | [🔗 Solution]() | ⏳ |
+| 111 | Read a string and print length (without `length()` optional) | [🔗 Solution](1_Programming/5_String/111_read_and_length.cpp) | ✅ |
+| 112 | Reverse a string | [🔗 Solution](1_Programming/5_String/112_reverse.cpp) | ✅ |
+| 113 | Check if string is palindrome | [🔗 Solution](1_Programming/5_String/113_checkPalindrome.cpp) | ✅ |
+| 114 | Count vowels, consonants, digits, spaces | [🔗 Solution](1_Programming/5_String/114_count_vowel_conso.cpp) | ✅ |
+| 115 | Convert to uppercase | [🔗 Solution](1_Programming/5_String/115_ConvertUppercase.cpp) | ✅ |
+| 116 | Convert to lowercase | [🔗 Solution](1_Programming/5_String/116_ConvertLowercase.cpp) | ✅ |
+| 117 | Toggle case of letters | [🔗 Solution](1_Programming/5_String/117_ConvertTogglecase.cpp) | ✅ |
+| 118 | Remove all spaces from a string | [🔗 Solution](1_Programming/5_String/118_Remove_Space.cpp) | ✅ |
+| 119 | Replace spaces with `-` | [🔗 Solution](1_Programming/5_String/119_Replace_Space.cpp) | ✅ |
+| 120 | Count words in a sentence | [🔗 Solution](1_Programming/5_String/120_CountWord.cpp) | ✅ |
+| 121 | Find frequency of each character | [🔗 Solution](1_Programming/5_String/121_Frequency_of_char.cpp) | ✅ |
+| 122 | Find first non-repeating character | [🔗 Solution](1_Programming/5_String/) | ⏳ |
+| 123 | Remove duplicate characters (keep first occurrences) | [🔗 Solution](1_Programming/5_String/123_remove_duplicated_char.cpp) | ✅ |
+| 124 | Check if two strings are anagrams | [🔗 Solution](1_Programming/5_String/124_check_Anagram.cpp) | ✅ |
+| 125 | Check if one string is a rotation of another | [🔗 Solution](1_Programming/5_String/125_one_rotation_to_another.cpp) | ✅ |
+| 126 | Find substring occurrences (naive) | [🔗 Solution](1_Programming/5_String/126_find_occurance_of_substr.cpp) | ✅ |
+| 127 | Implement `strcmp`-like comparison | [🔗 Solution](1_Programming/5_String/) | ⏳ |
+| 128 | Implement `strcpy`-like copy | [🔗 Solution](1_Programming/5_String/) | ⏳ |
+| 129 | Longest common prefix among strings | [🔗 Solution](1_Programming/5_String/) | ⏳ |
+| 130 | Longest word in a sentence | [🔗 Solution](1_Programming/5_String/) | ⏳ |
+| 131 | Reverse words in a sentence | [🔗 Solution](1_Programming/5_String/) | ⏳ |
+| 132 | Check if string contains only digits | [🔗 Solution](1_Programming/5_String/) | ⏳ |
+| 133 | Validate a basic email format (simple rules) | [🔗 Solution](1_Programming/5_String/) | ⏳ |
+| 134 | Compress string (run-length encoding) | [🔗 Solution](1_Programming/5_String/) | ⏳ |
+| 135 | Decompress run-length encoded string | [🔗 Solution](1_Programming/5_String/) | ⏳ |
+| 136 | Smallest window containing all chars of another string | [🔗 Solution](1_Programming/5_String/) | ⏳ |
+| 137 | Longest substring without repeating characters | [🔗 Solution](1_Programming/5_String/) | ⏳ |
+| 138 | Longest palindromic substring (expand centers) | [🔗 Solution](1_Programming/5_String/) | ⏳ |
+| 139 | Convert string to integer (handle sign) | [🔗 Solution](1_Programming/5_String/) | ⏳ |
+| 140 | Big integer addition using strings | [🔗 Solution](1_Programming/5_String/) | ⏳ |
 
 </details>
 
@@ -339,36 +342,48 @@
 <details>
 <summary><b>⚡ Singly Linked List </b> (10 problems)</summary>
 
-| # | Problem | Solution                                                      | Status |
-|---|---------|---------------------------------------------------------------|--------|
-| 1 | Create first node | [Link](2_Algorithm/1_Linked_List/1_Create_First_node_SLL.cpp) | ✅ |
-| 2 | Add node at end | [Link](2_Algorithm/1_Linked_List/2_Add_node_at_end_SLL.cpp)              | ✅ |
-| 3 | Add node at beginning | [Link](2_Algorithm/1_Linked_List/3_Add_node_at_beg_SLL.cpp)              | ✅ |
-| 4 | Add node at position | [Link](2_Algorithm/1_Linked_List/4_Add_node_at_pos_SLL.cpp)              | ✅ |
-| 5 | Delete first node | [Link](2_Algorithm/1_Linked_List/5_Delete_first_node_SLL.cpp)            | ✅ |
-| 6 | Delete last node | [Link](2_Algorithm/1_Linked_List/6_Delete_last_node_SLL.cpp)             | ✅ |
-| 7 | Delete node at position | [Link](2_Algorithm/1_Linked_List/7_Del_node_at_pos_SLL.cpp)              | ✅ |
-| 8 | Delete full linked list | [Link](2_Algorithm/1_Linked_List/8_Delete_full_linked_list_SLL.cpp)      | ✅ |
-| 9 | Print Linked list | [Link](2_Algorithm/)                                                     | ❌ |
-| 10 | Count Node | [Link](2_Algorithm/1_Linked_List/10_count_node_SLL.cpp)                  | ✅ |
+| # | Problem | Solution                                                           | Status |
+|---|---------|--------------------------------------------------------------------|--------|
+
+| 1 | Create first node | [Link](2_Algorithm/1_Linked_List/1_Create_First_node_SLL.cpp)      | ✅ |
+| 2 | Add node at end | [Link](2_Algorithm/1_Linked_List/2_Add_node_at_end_SLL.cpp)        | ✅ |
+| 3 | Add node at beginning | [Link](2_Algorithm/1_Linked_List/3_Add_node_at_beg_SLL.cpp)        | ✅ |
+| 4 | Add node at position | [Link](2_Algorithm/1_Linked_List/4_Add_node_at_pos_SLL.cpp)        | ✅ |
+| 5 | Delete first node | [Link](2_Algorithm/1_Linked_List/5_Delete_first_node_SLL.cpp)      | ✅ |
+| 6 | Delete last node | [Link](2_Algorithm/1_Linked_List/6_Delete_last_node_SLL.cpp)       | ✅ |
+| 7 | Delete node at position | [Link](2_Algorithm/1_Linked_List/7_Del_node_at_pos_SLL.cpp)        | ✅ |
+| 8 | Delete full linked list | [Link](2_Algorithm/1_Linked_List/8_Delete_full_linked_list_SLL.cpp) | ✅ |
+| 9 | Print Linked list | [Link](2_Algorithm/)                                               | ⏳ |
+| 10 | Count Node | [Link](2_Algorithm/1_Linked_List/10_count_node_SLL.cpp)            | ✅ |
+| 11 | Check ascending order | [Link](2_Algorithm/1_Linked_List/11_Accending_check_SLL.cpp)       | ✅ |
+| 12 | Check descending order | [Link](2_Algorithm/1_Linked_List/12_Decending_check_SLL.cpp)      | ✅ |
+| 13 | Search node | [Link](2_Algorithm/1_Linked_List/13_seach_node_SLL.cpp)           | ✅ |
+| 14 | CRUD operations | [Link](2_Algorithm/1_Linked_List)                  | ⏳ |
+| 15 | Reverse linked list | [Link](2_Algorithm/1_Linked_List/15_Reverse_Linked_list_SLL.cpp)               | ✅ |
 
 </details>
 
 <details>
 <summary><b>⚡ Doubly Linked List </b> (10 problems)</summary>
 
-| # | Problem | Solution | Status |
-|---|---------|----------|--------|
-| 11 | Create first node | [Link](2_Algorithm/1_Linked_List/16_Create_First_node_DLL.cpp) | ✅ |
-| 12 | Add node at end | [Link](2_Algorithm/1_Linked_List/17_Add_node_at_end_DLL.cpp) | ✅ |
-| 13 | Add node at beginning | [Link](2_Algorithm/) | ❌ |
-| 14 | Add node at position | [Link](2_Algorithm/) | ❌ |
-| 15 | Delete first node | [Link](2_Algorithm/) | ❌ |
-| 16 | Delete last node | [Link](2_Algorithm/) | ❌ |
-| 17 | Delete node at position | [Link](2_Algorithm/) | ❌ |
-| 18 | Delete full linked list | [Link](2_Algorithm/) | ❌ |
-| 19 | Print Linked list | [Link](2_Algorithm/) | ❌ |
-| 20 | Count Node | [Link](2_Algorithm/) | ❌ |
+| # | Problem | Solution                             | Status |
+|---|---------|--------------------------------------|--------|
+
+| 16 | Create first node (Doubly) | [Link](2_Algorithm/1_Linked_List/16_Create_First_node_DLL.cpp) | ✅ |
+| 17 | Add node at beginning (Doubly) | [Link](2_Algorithm/1_Linked_List/17_Add_node_at_end_DLL.cpp)                 | ✅ |
+| 18 | Add node at end (Doubly) | [Link](2_Algorithm/1_Linked_List/18_Add_node_at_beg_DLL.cpp)                 | ✅ |
+| 19 | Add node at position (Doubly) | [Link](2_Algorithm/1_Linked_List/19_Add_node_at_pos_DLL.cpp)                 | ✅ |
+| 20 | Delete first node (Doubly) | [Link](2_Algorithm/1_Linked_List/20_Delete_first_node_DLL.cpp)                 | ✅ |
+| 21 | Delete last node (Doubly) | [Link](2_Algorithm/1_Linked_List/21_Delete_last_node_DLL.cpp)                 | ✅ |
+| 22 | Delete node at position (Doubly) | [Link](2_Algorithm/1_Linked_List/22_Del_node_at_pos_DLL.cpp)                 | ✅ |
+| 23 | Delete full linked list (Doubly) | [Link](2_Algorithm/1_Linked_List/23_Delete_full_linked_list_DLL.cpp)                 | ✅ |
+| 24 | Print forward (Doubly) | [Link](2_Algorithm/1_Linked_List/)                 | ⏳ |
+| 25 | Print backward (Doubly) | [Link](2_Algorithm/1_Linked_List/25_count_node_DLL.cpp)                 | ✅ |
+| 26 | Count nodes (Doubly) | [Link](2_Algorithm/1_Linked_List/26_Accending_check_DLL.cpp)                 | ✅ |
+| 27 | Search node (Doubly) | [Link](2_Algorithm/1_Linked_List/27_Decending_check_DLL.cpp)                 | ✅ |
+| 28 | Reverse linked list (Doubly) | [Link](2_Algorithm/1_Linked_List/28_seach_node_DLL.cpp)                 | ✅ |
+| 29 | Check ascending order (Doubly) | [Link](2_Algorithm/1_Linked_List/29)                 | ✅ |
+| 30 | Check descending order (Doubly) | [Link](2_Algorithm/1_Linked_List/)                 | ✅ |
 
 </details>
 
@@ -377,47 +392,49 @@
 
 | # | Problem | Solution | Status |
 |---|---------|----------|--------|
-| 21 | Create first node | [Link](2_Algorithm/1_Linked_List/31_Create_First_node_CSLL.cpp) | ✅ |
-| 22 | Add node at end | [Link](2_Algorithm/) | ❌ |
-| 23 | Add node at beginning | [Link](2_Algorithm/) | ❌ |
-| 24 | Add node at position | [Link](2_Algorithm/) | ❌ |
-| 25 | Delete first node | [Link](2_Algorithm/) | ❌ |
-| 26 | Delete last node | [Link](2_Algorithm/) | ❌ |
-| 27 | Delete node at position | [Link](2_Algorithm/) | ❌ |
-| 28 | Delete full linked list | [Link](2_Algorithm/) | ❌ |
-| 29 | Print Linked list | [Link](2_Algorithm/) | ❌ |
-| 30 | Count Node | [Link](2_Algorithm/) | ❌ |
+| 31 | Create first node (Circular SLL) | [Link](2_Algorithm/1_Linked_List/31_Create_First_node_CSLL.cpp) | ✅ |
+| 32 | Add node at beginning (Circular SLL) | [Link](2_Algorithm/1_Linked_List/32_Add_node_at_beg_CSLL.cpp) | ✅ |
+| 33 | Add node at end (Circular SLL) | [Link](2_Algorithm/1_Linked_List/33_Add_node_at_end_CSLL.cpp) | ✅ |
+| 34 | Add node at position (Circular SLL) | [Link](2_Algorithm/1_Linked_List/34_Add_node_at_pos_CSLL.cpp) | ✅ |
+| 35 | Delete first node (Circular SLL) | [Link](2_Algorithm/1_Linked_List/35_Delete_first_node_CSLL.cpp) | ✅ |
+| 36 | Delete last node (Circular SLL) | [Link](2_Algorithm/1_Linked_List/36_Delete_last_node_CSLL.cpp) | ✅ |
+| 37 | Delete node at position (Circular SLL) | [Link](2_Algorithm/1_Linked_List/37_Del_node_at_pos_CSLL.cpp) | ✅ |
+| 38 | Delete full linked list (Circular SLL) | [Link](2_Algorithm/1_Linked_List/38_Delete_full_linked_list_CSLL.cpp) | ✅ |
+| 39 | Print linked list (Circular SLL) | [Link](2_Algorithm/1_Linked_List/39_Print_CSLL.cpp) | ✅ |
+| 40 | Count nodes (Circular SLL) | [Link](2_Algorithm/1_Linked_List/40_Count_node_CSLL.cpp) | ✅ |
+| 41 | Search node (Circular SLL) | [Link](2_Algorithm/1_Linked_List/41_Search_node_CSLL.cpp) | ✅ |
+| 42 | Reverse linked list (Circular SLL) | [Link](2_Algorithm/1_Linked_List/42_Reverse_CSLL.cpp) | ✅ |
+| 43 | Check ascending order (Circular SLL) | [Link](2_Algorithm/1_Linked_List/43_Check_Ascending_CSLL.cpp) | ✅ |
+| 44 | Check descending order (Circular SLL) | [Link](2_Algorithm/1_Linked_List/44_Check_Descending_CSLL.cpp) | ✅ |
+| 45 | Split circular linked list into two halves | [Link](2_Algorithm/1_Linked_List/45_Split_CSLL.cpp) | ✅ |
 
 </details>
 
-<details>
-<summary><b>⚡ Circular Doubly Linked List </b> (10 problems)</summary>
+[//]: # (<details>)
 
-| # | Problem | Solution | Status |
-|---|---------|----------|--------|
-| 31 | Create first node | [Link](2_Algorithm/) | ❌ |
-| 32 | Add node at end | [Link](2_Algorithm/) | ❌ |
-| 33 | Add node at beginning | [Link](2_Algorithm/) | ❌ |
-| 34 | Add node at position | [Link](2_Algorithm/) | ❌ |
-| 35 | Delete first node | [Link](2_Algorithm/) | ❌ |
-| 36 | Delete last node | [Link](2_Algorithm/) | ❌ |
-| 37 | Delete node at position | [Link](2_Algorithm/) | ❌ |
-| 38 | Delete full linked list | [Link](2_Algorithm/) | ❌ |
-| 39 | Print Linked list | [Link](2_Algorithm/) | ❌ |
-| 40 | Count Node | [Link](2_Algorithm/) | ❌ |
+[//]: # (<summary><b>⚡ Circular Doubly Linked List </b> &#40;10 problems&#41;</summary>)
 
-</details>
+[//]: # ()
+[//]: # ()
+[//]: # (</details>)
 
-<details>
-<summary><b>⚡ Polynomial Linked List </b> (10 problems)</summary>
+[//]: # (<details>)
 
-| # | Problem | Solution | Status |
-|---|---------|----------|--------|
-| 41 | Insert in polynomial | [Link](2_Algorithm/) | ❌ |
-| 42 | Add polynomial | [Link](2_Algorithm/) | ❌ |
-| 43 | Multiply polynomial | [Link](2_Algorithm/) | ❌ |
+[//]: # (<summary><b>⚡ Polynomial Linked List </b> &#40;10 problems&#41;</summary>)
 
-</details>
+[//]: # ()
+[//]: # (| # | Problem | Solution | Status |)
+
+[//]: # (|---|---------|----------|--------|)
+
+[//]: # (| 41 | Insert in polynomial | [Link]&#40;2_Algorithm/&#41; | ⏳      |)
+
+[//]: # (| 42 | Add polynomial | [Link]&#40;2_Algorithm/&#41; | ⏳      |)
+
+[//]: # (| 43 | Multiply polynomial | [Link]&#40;2_Algorithm/&#41; | ⏳      |)
+
+[//]: # ()
+[//]: # (</details>)
 
 <details>
 <summary><b>⚡ Linked List Advanced Problem Set</b> (30 Problems)</summary>
@@ -507,19 +524,20 @@
 <details>
 <summary><b>🌿 Binary Tree Basics</b> (10 Problems)</summary>
 
-| # | Problem | Status |
-|---|---------|--------|
-| 97 | Inorder traversal | [🔗 Solution]() |
-| 98 | Preorder traversal | [🔗 Solution]() |
-| 99 | Postorder traversal | [🔗 Solution]() |
-| 100 | Level order traversal | [🔗 Solution]() |
-| 101 | Height of tree | [🔗 Solution]() |
-| 102 | Count nodes | [🔗 Solution]() |
-| 103 | Count leaf nodes | [🔗 Solution]() |
-| 104 | Mirror tree | [🔗 Solution]() |
-| 105 | Check identical trees | [🔗 Solution]() |
-| 106 | Check symmetric tree | [🔗 Solution]() |
+| # | Problem | Solution | Status |
+|---|---------|----------|--------|
 
+| 97 | Inorder traversal | [🔗 Solution](2_Algorithm/) | ⏳|
+| 98 | Preorder traversal | [🔗 Solution](2_Algorithm/) | ⏳|
+| 99 | Postorder traversal | [🔗 Solution](2_Algorithm/) | ⏳|
+| 100 | Level order traversal | [🔗 Solution](2_Algorithm/) | ⏳|
+| 101 | Height of tree | [🔗 Solution](2_Algorithm/) | ⏳|
+| 102 | Count nodes | [🔗 Solution](2_Algorithm/) | ⏳|
+| 103 | Count leaf nodes | [🔗 Solution](2_Algorithm/) | ⏳|
+| 104 | Mirror tree | [🔗 Solution](2_Algorithm/) | ⏳|
+| 105 | Check identical trees | [🔗 Solution](2_Algorithm/) | ⏳|
+| 106 | Check symmetric tree | [🔗 Solution](2_Algorithm/) | ⏳|
+ ⏳|
 </details>
 
 <details>
@@ -607,13 +625,13 @@
   <i>Breadth-First Search visualization</i>
 </div>
 
-| # | Problem | Status | Difficulty |
-|---|---------|--------|------------|
+| # | Problem | Status                                         | Difficulty |
+|---|---------|------------------------------------------------|------------|
 | 155 | BFS (Breadth-First Search) | [🔗 Solution](2_Algorithm/4_Graph/155_BFS.cpp) | ⭐⭐ |
 | 156 | DFS (Depth-First Search) | [🔗 Solution](2_Algorithm/4_Graph/156_DFS.cpp) | ⭐⭐ |
-| 157 | Graph representation (Adjacency matrix vs list) | [🔗 Solution]() ❌ | ⭐ |
-| 158 | Count connected components | [🔗 Solution]() ❌ | ⭐⭐ |
-| 159 | Number of islands | [🔗 Solution]() ❌ | ⭐⭐ |
+| 157 | Graph representation (Adjacency matrix vs list) | [🔗 Solution]() ⏳                              | ⭐ |
+| 158 | Count connected components | [🔗 Solution]() ⏳                              | ⭐⭐ |
+| 159 | Number of islands | [🔗 Solution]() ⏳                              | ⭐⭐ |
 
 </details>
 
@@ -651,12 +669,12 @@
   <i>Topological ordering of a Directed Acyclic Graph (DAG)</i>
 </div>
 
-| # | Problem | Status | Difficulty |
-|---|---------|--------|------------|
-| 164 | Topological Sort (using DFS) | [🔗 Solution](2_Algorithm/4_Graph/164_Topological_Sort_DFS.cpp) | ⭐⭐⭐ |
+| # | Problem | Status                                                               | Difficulty |
+|---|---------|----------------------------------------------------------------------|------------|
+| 164 | Topological Sort (using DFS) | [🔗 Solution](2_Algorithm/4_Graph/164_Topological_Sort_DFS.cpp)      | ⭐⭐⭐ |
 | 165 | Topological Sort (Kahn's Algorithm) | [🔗 Solution](2_Algorithm/4_Graph/165_Topological_Sort_KhanAlgo.cpp) | ⭐⭐⭐ |
-| 166 | Alien dictionary | [🔗 Solution ❌](4_Graph/) | ⭐⭐⭐⭐⭐ |
-| 167 | Course schedule | [🔗 Solution ❌](4_Graph/) | ⭐⭐⭐⭐ |
+| 166 | Alien dictionary | [🔗 Solution ⏳](4_Graph/)                                            | ⭐⭐⭐⭐⭐ |
+| 167 | Course schedule | [🔗 Solution ⏳](4_Graph/)                                            | ⭐⭐⭐⭐ |
 
 </details>
 
@@ -763,24 +781,24 @@
 <details>
 <summary><h4>⚡ Grid Problems Graph Algorithms</h4></summary>
 
-| # | Problem | Status | Difficulty |
-|---|---------|--------|------------|
-| 180 | Flood fill | [🔗 Solution](4_Graph/) ❌ | ⭐⭐ |
-| 181 | Rotten oranges | [🔗 Solution](4_Graph/) ❌ | ⭐⭐⭐ |
-| 182 | Shortest path in grid | [🔗 Solution](4_Graph/) ❌ | ⭐⭐⭐ |
-| 183 | Number of enclaves | [🔗 Solution](4_Graph/) ❌ | ⭐⭐⭐ |
-| 184 | Surrounded regions | [🔗 Solution](4_Graph/) ❌ | ⭐⭐⭐ |
+| # | Problem | Status                    | Difficulty |
+|---|---------|---------------------------|------------|
+| 180 | Flood fill | [🔗 Solution](4_Graph/) ⏳ | ⭐⭐ |
+| 181 | Rotten oranges | [🔗 Solution](4_Graph/) ⏳ | ⭐⭐⭐ |
+| 182 | Shortest path in grid | [🔗 Solution](4_Graph/) ⏳ | ⭐⭐⭐ |
+| 183 | Number of enclaves | [🔗 Solution](4_Graph/) ⏳ | ⭐⭐⭐ |
+| 184 | Surrounded regions | [🔗 Solution](4_Graph/) ⏳ | ⭐⭐⭐ |
 
 </details>
 
 <details>
 <summary><h4>⚡ Specialized Problems Graph Algorithms</h4></summary>
 
-| # | Problem | Status | Difficulty |
-|---|---------|--------|------------|
-| 185 | Graph Coloring Problem | [🔗 Solution](4_Graph/) ❌ | ⭐⭐⭐⭐ |
-| 186 | Maximum Flow Problem | [🔗 Solution](4_Graph/) ❌ | ⭐⭐⭐⭐⭐ |
-| 187 | Word ladder | [🔗 Solution](4_Graph/) ❌ | ⭐⭐⭐⭐ |
+| # | Problem | Status                    | Difficulty |
+|---|---------|---------------------------|------------|
+| 185 | Graph Coloring Problem | [🔗 Solution](4_Graph/) ⏳ | ⭐⭐⭐⭐ |
+| 186 | Maximum Flow Problem | [🔗 Solution](4_Graph/) ⏳ | ⭐⭐⭐⭐⭐ |
+| 187 | Word ladder | [🔗 Solution](4_Graph/) ⏳ | ⭐⭐⭐⭐ |
 
 </details>
 
